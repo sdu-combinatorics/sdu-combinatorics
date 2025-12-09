@@ -48,7 +48,7 @@
 - Kai Yan, Zhiheng Zhou, Sihao Liu, <strong>Guanghui Wang</strong>*, Guiying Yan*, Edwin Wang*. Develop a Deep-Learning Model to Predict Cancer Immunotherapy Response Using In-Born Genomes.  
   <strong>IEEE Journal of Biomedical and Health Informatics (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10944570)
   
-- Mengjie Chen, Ming Zhang, Guiying Yan, <strong>Guanghui Wang</strong>,Cunquan Qu*. MRHGNN: Enhanced Multimodal Relational Hypergraph Neural Network for Synergistic Drug Combination Forecasting.  
+- Mengjie Chen, Ming Zhang, Guiying Yan, <strong>Guanghui Wang</strong>, Cunquan Qu*. MRHGNN: Enhanced Multimodal Relational Hypergraph Neural Network for Synergistic Drug Combination Forecasting.  
   <strong>IEEE Transactions on Neural Networks and Learning Systems (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10950093)
   
 - Dongxu Chang, Qingqing Peng, <strong>Guanghui Wang</strong>*, Guiyin Yan. A cross-layer scheduling method for pipelined layered multi-edge type QC-LDPC decoder with better conflict resolution.  
