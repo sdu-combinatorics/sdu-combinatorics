@@ -1,26 +1,31 @@
 #### Published
--  <strong>Longlong Li</strong>, Yipeng Zhang, Guanghui Wang and Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.
+-  Longlong Li, Yipeng Zhang, <strong>Guanghui Wang</strong> and Kelin Xia. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.  
   <strong>Nature Machine Intelligence (2025)</strong>. [[Paper]](https://www.nature.com/articles/s42256-025-01087-7)
 
-- Haixia Hu., ..., <strong>Longlong Li (15/33)</strong>, ..., HangYin*. Revealing electron transport connectivity as an important factor influencing stability of organic solar cells.
-  <strong>Nature Communications (2025)</strong>. [[Paper]](https://www.nature.com/articles/s41467-025-60599-3)
+- Jie Han, Xichao Shu, <strong>Guanghui Wang</strong>. Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.  
+  <strong>Journal of Combinatorial Theory, Series B (2026)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0095895625000802)
+  <strong>Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA) (2021)</strong>. [[Paper]](https://epubs.siam.org/doi/10.1137/1.9781611976465.6)
 
-- Yipeng Zhang, <strong>Longlong Li</strong>, and Kelin Xia*. Rhomboid Tiling for Geometric Graph Deep Learning.
-  <strong>International Conference on Machine Learning (ICML 2025)</strong>. [[Paper]](https://openreview.net/forum?id=lTZEAqL1R1)
+- Jaehoon Kim, Hong Liu,Yantao Tang, <strong>Guanghui Wang</strong>, Donglei Yang, Fan Yang. Extremal density for subdivisions with length or sparsity constraints.  
+  <strong>Journal of Combinatorial Theory, Series B (2026)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S009589562500084X)
 
-- Bingqing Han, Yipeng Zhang, <strong>Longlong Li</strong>, Xinqi Gong*, and Kelin Xia*. TopoQA:a topological deep learning-based approach for protein complex structure interface quality assessment.
-  <strong>Briefings in Bioinformatics (2025)</strong>. [[Paper]](https://academic.oup.com/bib/article/26/2/bbaf083/8068116?login=false)
+- Ming Chen, Jie Han, <strong>Guanghui Wang</strong>, Donglei Yang. H-factors in graphs with small independence number.  
+  <strong>Journal of Combinatorial Theory, Series B (2024)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0095895624000649)
 
-- <strong>Longlong Li</strong>, Cunquan Qu*, Guanghui Wang. Beyond Node Attention: Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing.
-  <strong>Arxiv (2025)</strong>. [[Arxiv]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2505.15015?)
+- Yangyang Cheng, Yifan Jing, Lina Li, <strong>Guanghui Wang</strong>, Wenling Zhou. Integer colorings with forbidden rainbow sums.  
+  <strong>Journal of Combinatorial Theory, Series A (2023)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097316523000377)
 
-- <strong>Longlong Li</strong>, Cunquan Qu*, Guanghui Wang. TGT: A Temporal Gating Transformer for Smartphone App Usage Prediction.
-  <strong>Arxiv (2025)</strong>. [[Arxiv]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2502.16957)
+- Fan Chang, Jie Han, Jaehoon Kim, <strong>Guanghui Wang</strong>, Donglei Yang. Embedding clique-factors in graphs with low ℓ-independence number.  
+  <strong>Journal of Combinatorial Theory, Series B (2023)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S009589562300014X)
+
+- Laihao Ding, Jie Han, Shumin Sun, <strong>Guanghui Wang</strong>, Wenling Zhou. Tiling multipartite hypergraphs in quasi-random hypergraphs.  
+  <strong>Journal of Combinatorial Theory, Series B (2023)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0095895622001277)
   
-- <strong>Longlong Li</strong>, Xiang Liu, Yuguang Wang, Guanghui Wang and Kelin Xia*. Path Complex Neural Network for Molecular Property Prediction.
-  <strong>International Conference on Machine Learning (ICML 2024 GRaM Workshop)</strong>. [[Paper]](https://openreview.net/forum?id=FlnGcMp6FL)
+- Hong Liu, <strong>Guanghui Wang</strong> and  Donglei Yang. Clique immersion in graphs without a fixed bipartite graph.  
+  <strong>Journal of Combinatorial Theory, Series B (2022)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0095895622000752)
+  
+- Laihao Ding, Jie Han, Shumin Sun, <strong>Guanghui Wang</strong>, Wenling Zhou. F F‐factors in Quasi‐random Hypergraphs.  
+  <strong>Journal of Combinatorial Theory, Series B (2022)</strong>. [[Paper]](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12611)
 
-- <strong>Longlong Li</strong>, Hu Chen, Ping Li, Jie Han, Guanghui Wang*, Gong Zhang*. The K-Core Decomposition Algorithm Under the Framework of GraphBLAS.
-  <strong>IEEE Conference on High Performance Extreme Computing (HPEC 2021)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9622845)
-
-
+- Planar graphs with maximum degree 8 and without intersecting chordal 4-cycles are 9-totally colorable.
+   <strong>Science China-mathematics (2012)</strong>. [[Paper]](https://link.springer.com/article/10.1007/s11425-012-4531-7)
