@@ -47,14 +47,15 @@
 
 - Kai Yan, Zhiheng Zhou, Sihao Liu, <strong>Guanghui Wang</strong>*, Guiying Yan*, Edwin Wang*. Develop a Deep-Learning Model to Predict Cancer Immunotherapy Response Using In-Born Genomes.  
   <strong>IEEE Journal of Biomedical and Health Informatics (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10944570)
+  
 - Mengjie Chen, Ming Zhang, Guiying Yan, <strong>Guanghui Wang</strong>,Cunquan Qu*. MRHGNN: Enhanced Multimodal Relational Hypergraph Neural Network for Synergistic Drug Combination Forecasting.  
   <strong>IEEE Transactions on Neural Networks and Learning Systems (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10950093)
   
-- Chang Dongxu, Peng Qingqing, <strong>Guanghui Wang</strong>*, Yan Guiyin. A cross-layer scheduling method for pipelined layered multi-edge type QC-LDPC decoder with better conflict resolution.  
+- Dongxu Chang, Qingqing Peng, <strong>Guanghui Wang</strong>*, Guiyin Yan. A cross-layer scheduling method for pipelined layered multi-edge type QC-LDPC decoder with better conflict resolution.  
   <strong>IEEE Communications Letters (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10971375)
   
-- Chang Dongxu, Liu ke, <strong>Guanghui Wang</strong>*, Yan Guiyin, Ma Zhiming. An Analysis and Design of Rate-Dependent Nested Scheduling in Layered Decoding of LDPC Codes.  
+- Dongxu Chang, Ke Liu, <strong>Guanghui Wang</strong>*, Guiyin Yan, Zhiming Ma. An Analysis and Design of Rate-Dependent Nested Scheduling in Layered Decoding of LDPC Codes.  
   <strong>IEEE Transactions on Communications (2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/11069260)
   
-- Dongxu Chang, Guanghui Wang, Guiying Yan, Dawei Yin*. An optimization model for offline scheduling policy of low-density parity-check codes.  
+- Dongxu Chang, <strong>Guanghui Wang</strong>, Guiying Yan, Dawei Yin*. An optimization model for offline scheduling policy of low-density parity-check codes.  
   <strong>IEEE Communications Letters (2024)</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10551701)
