@@ -12,18 +12,18 @@
 
 
 ### Postdoc
-- Fan Yang
-- Fanpeng Song
-- Wanting Sun
-- Tianjiao Dai 
-- Yun Wang
+- [[Fan Yang]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
+- [[Fanpeng Song]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
+- [[Wanting Sun]](https://wanting-sun.github.io/)
+- [[Tianjiao Dai]](https://tianjiaod.github.io/tianjiaodai2023.github.io/) 
+- [[Yun Wang]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
 - Qiancheng Ouyang
-- Wenlin Zhou
+- [[Wenlin Zhou]](https://wenling-zhou.github.io/)
 - Heng Li
 - Weichan Liu
 - Linpeng Zhang
 - Xinyu Hu
-- Xiangxiang Nie
+- [[Xiangxiang Nie]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
 
 ### Former Students
 - [[Laihao Ding]](https://maths.ccnu.edu.cn/info/1041/30773.htm) ➔ (Central China Normal University, Associate professor)
@@ -39,7 +39,7 @@
 - [[Longlong Li]](https://longlee220.github.io/) ➔ (Nanyang Technological University, Postdoc)
 - Xichao Shu ➔ (Max-Planck-Gesellschaft, Ph.D. Candidate)
 - Shumin Sun ➔ (University of Warwick, Ph.D. Candidate)
-- Xu Zhang ➔ (Shandong University, Postdoc)
+- [[Xu Zhang]](https://xuzhang29.github.io/) ➔ (Shandong University, Postdoc)
 - Yantao Tang ➔ (Georgia Institute of Technology, Ph.D. Candidate)
 - Hu Chen ➔ (The Ohio State University, Ph.D. Candidate)
 - Dongxu Chang ➔ (Huawei Technologies Co., Ltd, Senior Researcher)
