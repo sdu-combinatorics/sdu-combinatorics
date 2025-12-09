@@ -25,7 +25,7 @@
   <strong>Journal of Combinatorial Theory, Series B (2022)</strong>. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0095895622000752)
   
 - Laihao Ding, Jie Han, Shumin Sun, <strong>Guanghui Wang</strong>, Wenling Zhou. F F‐factors in Quasi‐random Hypergraphs.  
-  <strong>Journal of Combinatorial Theory, Series B (2022)</strong>. [[Paper]](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12611)
+  <strong>Journal of the London Mathematical Society (2022)</strong>. [[Paper]](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12611)
 
 - LaiHao Ding, <strong>Guanghui Wang</strong>, GuiYing Yan. Neighbor sum distinguishing total colorings via the Combinatorial Nullstellensatz.  
   <strong>Science China-mathematics (2014)</strong>. [[Paper]](https://link.springer.com/article/10.1007/s11425-014-4796-0)
