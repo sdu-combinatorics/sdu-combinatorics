@@ -1,4 +1,4 @@
-#### Published
+c#### Published
 -  Longlong Li, Yipeng Zhang, <strong>Guanghui Wang</strong> and Kelin Xia. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.  
   <strong>Nature Machine Intelligence (2025)</strong>. [[Paper]](https://www.nature.com/articles/s42256-025-01087-7)
 
@@ -27,5 +27,5 @@
 - Laihao Ding, Jie Han, Shumin Sun, <strong>Guanghui Wang</strong>, Wenling Zhou. F F‐factors in Quasi‐random Hypergraphs.  
   <strong>Journal of Combinatorial Theory, Series B (2022)</strong>. [[Paper]](https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12611)
 
-- Planar graphs with maximum degree 8 and without intersecting chordal 4-cycles are 9-totally colorable.
+- JianSheng Cai, <strong>Guanghui Wang</strong>, GuiYing Yan. Planar graphs with maximum degree 8 and without intersecting chordal 4-cycles are 9-totally colorable.
    <strong>Science China-mathematics (2012)</strong>. [[Paper]](https://link.springer.com/article/10.1007/s11425-012-4531-7)
