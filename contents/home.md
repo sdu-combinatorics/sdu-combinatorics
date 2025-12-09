@@ -1,26 +1,19 @@
-I am currently a Research Fellow at the School of Physical and Mathematical Sciences (SPMS), Nanyang Technological University (NTU), Singapore.
+Full Professor  
+School of Mathematics  
+Shandong University, China
 
+My research interests lie in combinatorics and its applications in discrete mathematics and data science.  
+Before joining Shandong University, I was a Professor at École Centrale Paris, and earlier a Postdoctoral Researcher at the Laboratory of Applied Mathematics, École Centrale Paris.  
+I obtained my Ph.D. in Mathematics from Shandong University and Université Paris-Sud (Paris-Saclay) in 2015, supervised by Guizhen Liu and Hao Li.  
 ### Google Schol
 [Google Scholar Profile - Longlong Li](https://scholar.google.com.hk/citations?user=kiaiB_oAAAAJ)
 
 ### Contact
-- **Email:** longlee[at]mail.sdu.edu.cn
+- **Email:** ghwang[at]sdu.edu.cn 
 
-### Education
-- Shandong University, China  
-  Ph.D. Candidate in Data Science  
-  Sept. 2019 – Dec. 2025  
-  Advisor: Prof. Guanghui Wang [[Homepage]](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)<br>
+### Awards
 
-- Nanyang Technological University (NTU), Singapore  
-  School of Physical and Mathematical Sciences (SPMS)  
-  Visiting Student  
-  Oct. 2023 – Oct. 2025  
-  Advisor: Prof. Kelin Xia [[Homepage]](https://personal.ntu.edu.sg/XIAKELIN/)<br>
 
-- Shandong University, China  
-  B.Sc. in Mathematics and Applied Mathematics  
-  Sept. 2015 – Jun. 2019
   
 ### Research Interests
 Graph Neural Networks, Topological Deep Learning, AI for Science
