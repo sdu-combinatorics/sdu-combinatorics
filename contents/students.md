@@ -26,8 +26,9 @@
 - [[Xiangxiang Nie]](https://dsi.sdu.edu.cn/szdw1/bsh.htm)
 
 ### Former Students
-- [[Laihao Ding]](https://maths.ccnu.edu.cn/info/1041/30773.htm) ➔ (Central China Normal University, Associate professor)
+- [[Laihao Ding]](https://maths.ccnu.edu.cn/info/1041/30773.htm) ➔ (Central China Normal University, Associate Professor)
 - Xiaowei Yu ➔ (Jiangsu Normal University, Associate Professor)
+- [[Cunquan Qu]](https://faculty.sdu.edu.cn/qucunquan/zh_CN/index.htm) ➔ (Shandong University, Associate Research Fellow)
 - [[Tong Li]](http://homepage.amss.ac.cn/research/homePage/4d6263e0ef6242668a4432994748492c/myHomePage.html)  ➔ (University of Chinese Academy of Sciences, Research Associate)
 - Hua Liu ➔ (Southern University of Science and Technology, Postdoc)
 - Jialin Bi ➔ (Shandong Jianzhu University, Assistant Professor)
