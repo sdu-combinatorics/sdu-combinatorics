@@ -1,5 +1,12 @@
 @import "./styles.css";
 
+/* === Global Font Setting === */
+body{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.05rem; /* 可微调 */
+    line-height: 1.75rem;
+}
+
 
 :root{
     --h-title-color:#3948d2;
