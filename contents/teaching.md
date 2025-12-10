@@ -1,17 +1,44 @@
 ### Books
-books:
-- title: Graph Theory [English](https://link.springer.com/book/10.1007/978-3-662-70107-2) [Chinese](https://www.douban.com/note/252578174/?_i=5332932S2RCiIx)  
-  authors: Reinhard Diestel  
-  translators: Qinglin Yu, Tao Wang, <strong>Guanghui Wang</strong>  
 
-- title: [Graphs and Networks](https://book.douban.com/subject/36959436/)  
-  authors: Jin Yan, <strong>Guanghui Wang</strong>
+- **Graph Theory**  
+  [English](https://link.springer.com/book/10.1007/978-3-662-70107-2) ｜ [Chinese](https://www.douban.com/note/252578174/?_i=5332932S2RCiIx)  
+  **Authors:** Reinhard Diestel  
+  **Translators:** Qinglin Yu, Tao Wang, <strong>Guanghui Wang</strong>  
 
-- title: [Operations Research (5th Edition)](https://book.douban.com/subject/36959426/)
-  authors: Zaiyun Diao, Xiaoxia Rong, <strong>Guanghui Wang</strong>, Bingqiang Liu, Guizhen Liu
-  
-- title: [Operations Research (4th Edition)](https://book.douban.com/subject/30353992/)  
-  authors: Zaiyun Diao, Guizhen Liu, Xiaoxia Rong, <strong>Guanghui Wang</strong>
+- **Graphs and Networks**  
+  [Link](https://book.douban.com/subject/36959436/)  
+  **Authors:** Jin Yan, <strong>Guanghui Wang</strong>
 
+- **Operations Research (5th Edition)**  
+  [Link](https://book.douban.com/subject/36959426/)  
+  **Authors:** Zaiyun Diao, Xiaoxia Rong, <strong>Guanghui Wang</strong>, Bingqiang Liu, Guizhen Liu
+
+- **Operations Research (4th Edition)**  
+  [Link](https://book.douban.com/subject/30353992/)  
+  **Authors:** Zaiyun Diao, Guizhen Liu, Xiaoxia Rong, <strong>Guanghui Wang</strong>
+
+
+### ConFerences
+
+- **2025 Sino–French International Conference on Graph Theory, Combinatorics and Algorithms**
+  Shandong University | Oct 27-31, 2025
   
-  
+### Summer School
+
+- **Frontiers of Combinatorics (Summer 2022)**  
+  Online | Aug 1–6, 2022  
+  Role: **Initiator & Organizer**
+
+- **Methods in Combinatorics (Summer 2019)**
+  School of Mathematics, Shandong University | Aug 1–6, 2019  
+  Role: **Initiator & Organizer**
+
+### Courses
+
+- **An Introduction to Applied Topology (Winter Course 2025)**  
+  Online · Nov 29, 2025 — Feb 7, 2026  
+  Role: **Initiator & Organizer**
+
+### Teaching
+
+- 
