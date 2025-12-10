@@ -123,4 +123,11 @@ section .main-body{
     font-weight: 700 !important;
 }
 
+#home-md strong {
+    font-weight: 700 !important;
+}
+
+#teaching-md strong {
+    font-weight: 700 !important;
+}
 
