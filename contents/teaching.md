@@ -23,13 +23,24 @@
 ### Summer School
 
 - **Frontiers of Combinatorics (Summer 2022)**  
-  Online | Aug 1–6, 2022  
+  Online · Aug 1–6, 2022  
   Role: **Initiator & Organizer**
 
-- **Methods in Combinatorics (Summer 2019)**
-  School of Mathematics, Shandong University | Aug 1–6, 2019  
+- **Extremal Combinatorics (Summer 2020)**  
+  Online · Jul 26 – Aug 8, 2020  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim), [Joel Moreira](https://warwick.ac.uk/fac/sci/maths/people/staff/moreira/)  
+  Role: **Initiator & Organizer**
+  
+- **Methods in Combinatorics (Summer 2019)**  
+  School of Mathematics, Shandong University · Aug 3–9, 2019  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
   Role: **Initiator & Organizer**
 
+- **Extremal Combinatorics (Summer 2018)**  
+  School of Mathematics, Shandong University · Jul 2–8, 2018  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
+  Role: **Initiator & Organizer**
+  
 ### Courses
 
 - **An Introduction to Applied Topology (Winter Course 2025)**  
