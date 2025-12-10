@@ -18,10 +18,11 @@
   **Authors:** Zaiyun Diao, Guizhen Liu, Xiaoxia Rong, <strong>Guanghui Wang</strong>
 
 
-### ConFerences
+### Conferences
 
-- **2025 Sino–French International Conference on Graph Theory, Combinatorics and Algorithms**
-  Shandong University | Oct 27-31, 2025
+- **2025 Sino–French International Conference on Graph Theory, Combinatorics and Algorithms**  
+  Shandong University, Jinan, China · Oct. 27–31, 2025  
+  Role: **Initiator & Organizer**
   
 ### Summer School
 
