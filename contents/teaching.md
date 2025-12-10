@@ -5,7 +5,7 @@ books:
   translators: Qinglin Yu, Tao Wang, <strong>Guanghui Wang</strong>  
 
 - title: [Graphs and Networks](https://book.douban.com/subject/36959436/)  
-  authors: Jin Yan, <strong>Guanghui Wang<,strong>
+  authors: Jin Yan, <strong>Guanghui Wang</strong>
 
 - title: [Operations Research (5th Edition)](https://book.douban.com/subject/36959426/)
   authors: Zaiyun Diao, Xiaoxia Rong, <strong>Guanghui Wang</strong>, Bingqiang Liu, Guizhen Liu
