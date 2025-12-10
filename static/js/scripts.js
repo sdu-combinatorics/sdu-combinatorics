@@ -63,3 +63,32 @@ window.addEventListener('DOMContentLoaded', event => {
     })
 
 }); 
+
+function formatItemsWithPoster(targetId){
+    const section=document.getElementById(targetId);
+    if(!section) return;
+    
+    const html=section.innerHTML.trim().split("<li>").join("<!--split-->").split("<!--split-->");
+    let result="";
+
+    html.forEach(block=>{
+        const posterMatch = block.match(/Poster:\s*(https?:\/\/[^\s<]+|static\/[^\s<]+)/);
+        if(posterMatch){
+            const posterUrl = posterMatch[1];
+            const cleanBlock = block.replace(/Poster:.*$/, "");
+            result += `
+            <div class="item-wrapper">
+                <div class="item-text">${cleanBlock}</div>
+                <img src="${posterUrl}" loading="lazy">
+            </div>`;
+        }else{
+            result+=block;
+        }
+    });
+
+    section.innerHTML=result;
+}
+
+/*** 让它只作用于你三个模块 ***/
+formatItemsWithPoster("teaching-md");
+
