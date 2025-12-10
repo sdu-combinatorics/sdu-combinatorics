@@ -5,9 +5,9 @@
 - Xia Wang
 - Nannan Chen
 - Lei Huang
+- Junyu Ren
 - Mengjie Chen
 - Mengyang Zhao
-- Chuanbin Xu
 - Zhiwei Zhang
 
 
@@ -30,6 +30,7 @@
 - Xiaowei Yu ➔ (Jiangsu Normal University, Associate Professor)
 - [[Cunquan Qu]](https://faculty.sdu.edu.cn/qucunquan/zh_CN/index.htm) ➔ (Shandong University, Associate Research Fellow)
 - [[Tong Li]](http://homepage.amss.ac.cn/research/homePage/4d6263e0ef6242668a4432994748492c/myHomePage.html)  ➔ (University of Chinese Academy of Sciences, Assistant Research Fellow)
+- [[Yulin Chang]](https://math.ouc.edu.cn/2025/0921/c8925a507129/page.htm) ➔ (Ocean University of China, Associate Professor)
 - Hua Liu ➔ (Southern University of Science and Technology, Postdoc)
 - Jialin Bi ➔ (Shandong Jianzhu University, Assistant Professor)
 - Bin Wang ➔ (Beijing Institute of Technology, Postdoc)
@@ -48,7 +49,6 @@
 
 ### Former Postdocs
 - [[Donglei Yang]](https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index/1737664/list/index.htm) ➔ (Shandong University, Research Fellow)
-- [[Yulin Chang]](https://math.ouc.edu.cn/2025/0921/c8925a507129/page.htm) ➔ (Ocean University of China, Associate Professor)
 - [[Mengjiao Rao]](https://www.researchgate.net/profile/Jiaojiao-Rao) ➔ (Fujian Normal University, Assistant Professor)
 
 ### Former Visiting Students
