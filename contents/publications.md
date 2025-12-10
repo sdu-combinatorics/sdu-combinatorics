@@ -1,16 +1,16 @@
 #### Selected Publications — Fundamental Theory of Combinatorics (Authors listed in alphabetical order)
 
 <ol reversed>
-  <li>Jie Han, Xichao Shu, **Guanghui Wang**. Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.<br>
+  <li>Jie Han, Xichao Shu, <strong>Guanghui Wang</strong>. Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.<br>
       <strong>Journal of Combinatorial Theory, Series B (2026)</strong>. <a href="https://www.sciencedirect.com/science/article/pii/S0095895625000802">Paper</a><br>
       <strong>Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA)</strong>. <a href="https://epubs.siam.org/doi/10.1137/1.9781611976465.6">Paper</a>
   </li>
 
-  <li>Jaehoon Kim, Hong Liu, Yantao Tang, **Guanghui Wang**, Donglei Yang, Fan Yang. Extremal density for subdivisions with length or sparsity constraints.<br>
+  <li>Jaehoon Kim, Hong Liu, Yantao Tang,<strong>Guanghui Wang</strong>, Donglei Yang, Fan Yang. Extremal density for subdivisions with length or sparsity constraints.<br>
       <strong>Journal of Combinatorial Theory, Series B (2026)</strong>. <a href="https://www.sciencedirect.com/science/article/pii/S009589562500084X">Paper</a>
   </li>
 
-  <li>Ming Chen, Jie Han, **Guanghui Wang**, Donglei Yang. H-factors in graphs with small independence number.<br>
+  <li>Ming Chen, Jie Han, <strong>Guanghui Wang</strong>, Donglei Yang. H-factors in graphs with small independence number.<br>
       <strong>Journal of Combinatorial Theory, Series B (2024)</strong>. <a href="https://www.sciencedirect.com/science/article/pii/S0095895624000649">Paper</a>
   </li>
 
