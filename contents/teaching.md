@@ -62,7 +62,7 @@
   Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim), [Jinha Kim](https://sites.google.com/view/jinhakim), [Minki Kim](https://sites.google.com/view/minkikim/home)  
   Role: **Initiator & Organizer**
 
-- **Extremal Combinatorics (Summer 2021)**。
+- **Extremal Combinatorics (Summer 2021)**  
   Online · Jul 26 – Aug 1, 2021  
   Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
   Role: **Initiator & Organizer**
