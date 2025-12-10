@@ -1,9 +1,19 @@
 ### Books
 
-- **Graph Theory**  
-  [English](https://link.springer.com/book/10.1007/978-3-662-70107-2) ｜ [Chinese](https://www.douban.com/note/252578174/?_i=5332932S2RCiIx)  
-  **Authors:** Reinhard Diestel  
-  **Translators:** Qinglin Yu, Tao Wang, <strong>Guanghui Wang</strong>  
+<div class="item-with-poster">
+  <div class="item-text">
+
+**Graph Theory**  
+[English](https://link.springer.com/book/10.1007/978-3-662-70107-2) ｜ [Chinese](https://www.douban.com/note/252578174/?_i=5332932S2RCiIx)  
+**Authors:** Reinhard Diestel  
+**Translators:** Qinglin Yu, Tao Wang, <strong>Guanghui Wang</strong>  
+
+  </div>
+  <div class="item-poster">
+    <img src="static/assets/img/graph_theory.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
 
 - **Graphs and Networks**  
   [Link](https://book.douban.com/subject/36959436/)  
