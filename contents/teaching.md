@@ -3,7 +3,7 @@
 <div class="item-with-poster">
   <div class="item-text">
 
-**Graph Theory**  
+- **Graph Theory**  
 [English](https://link.springer.com/book/10.1007/978-3-662-70107-2) ｜ [Chinese](https://www.douban.com/note/252578174/?_i=5332932S2RCiIx)  
 **Authors:** Reinhard Diestel  
 **Translators:** Qinglin Yu, Tao Wang, <strong>Guanghui Wang</strong>  
@@ -14,10 +14,14 @@
   </div>
 </div>
 
-
-- **Graphs and Networks**  
+-  **Graphs and Networks**  
   [Link](https://book.douban.com/subject/36959436/)  
-  **Authors:** Jin Yan, <strong>Guanghui Wang</strong>
+  **Authors:** Jin Yan, <strong>Guanghui Wang</strong>  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/graphs_networks.jpeg" alt="Graph Networks poster">
+  </div>
+</div>
 
 - **Operations Research (5th Edition)**  
   [Link](https://book.douban.com/subject/36959426/)  
@@ -26,6 +30,11 @@
 - **Operations Research (4th Edition)**  
   [Link](https://book.douban.com/subject/30353992/)  
   **Authors:** Zaiyun Diao, Guizhen Liu, Xiaoxia Rong, <strong>Guanghui Wang</strong>
+  </div>
+  <div class="item-poster">
+    <img src="static/assets/img/operations_research_4.jpeg" alt="operations_research_4 poster">
+  </div>
+</div>
 
 
 
