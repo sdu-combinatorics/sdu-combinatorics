@@ -44,29 +44,29 @@
 </ol>
 
 
-### Selected Publications — Applications in Data Science  ( * indicates corresponding author )
+### Selected Publications — Applications in Data Science  (+ indicates equal contribution, * indicates corresponding author )
 <ol reversed>
-  <li>Longlong Li, Yipeng Zhang, <strong>Guanghui Wang</strong>, Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.<br>
+  <li>Longlong Li+, Yipeng Zhang, <strong>Guanghui Wang</strong>, Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.<br>
       <strong>Nature Machine Intelligence (2025)</strong>. <a href="https://www.nature.com/articles/s42256-025-01087-7">Paper</a>
   </li>
 
-  <li>Kai Yan, Zhiheng Zhou, Sihao Liu, <strong>Guanghui Wang*</strong>, Guiying Yan*, Edwin Wang*. Develop a Deep-Learning Model to Predict Cancer Immunotherapy Response Using In-Born Genomes.<br>
+  <li>Kai Yan+, Zhiheng Zhou+, Sihao Liu, <strong>Guanghui Wang*</strong>, Guiying Yan*, Edwin Wang*. Develop a Deep-Learning Model to Predict Cancer Immunotherapy Response Using In-Born Genomes.<br>
       <strong>IEEE Journal of Biomedical and Health Informatics (2025)</strong>. <a href="https://ieeexplore.ieee.org/document/10944570">Paper</a>
   </li>
 
-  <li>Mengjie Chen, Ming Zhang, Guiying Yan, <strong>Guanghui Wang</strong>, Cunquan Qu*. MRHGNN: Enhanced Multimodal Relational Hypergraph Neural Network for Synergistic Drug Combination Forecasting.<br>
+  <li>Mengjie Chen+, Ming Zhang, Guiying Yan, <strong>Guanghui Wang</strong>, Cunquan Qu*. MRHGNN: Enhanced Multimodal Relational Hypergraph Neural Network for Synergistic Drug Combination Forecasting.<br>
       <strong>IEEE Transactions on Neural Networks and Learning Systems (2025)</strong>. <a href="https://ieeexplore.ieee.org/document/10950093">Paper</a>
   </li>
 
-  <li>Dongxu Chang, Qingqing Peng, <strong>Guanghui Wang*</strong>, Guiyin Yan. A cross-layer scheduling method for pipelined layered multi-edge type QC-LDPC decoder with better conflict resolution.<br>
+  <li>Dongxu Chang+, Qingqing Peng, <strong>Guanghui Wang*</strong>, Guiyin Yan. A cross-layer scheduling method for pipelined layered multi-edge type QC-LDPC decoder with better conflict resolution.<br>
       <strong>IEEE Communications Letters (2025)</strong>. <a href="https://ieeexplore.ieee.org/document/10971375">Paper</a>
   </li>
 
-  <li>Dongxu Chang, Ke Liu, <strong>Guanghui Wang*</strong>, Guiyin Yan, Zhiming Ma. An Analysis and Design of Rate-Dependent Nested Scheduling in Layered Decoding of LDPC Codes.<br>
+  <li>Dongxu Chang+, Ke Liu, <strong>Guanghui Wang*</strong>, Guiyin Yan, Zhiming Ma. An Analysis and Design of Rate-Dependent Nested Scheduling in Layered Decoding of LDPC Codes.<br>
       <strong>IEEE Transactions on Communications (2025)</strong>. <a href="https://ieeexplore.ieee.org/document/11069260">Paper</a>
   </li>
 
-  <li>Dongxu Chang, <strong>Guanghui Wang</strong>, Guiying Yan, Dawei Yin*. An optimization model for offline scheduling policy of low-density parity-check codes.<br>
+  <li>Dongxu Chang+, <strong>Guanghui Wang</strong>, Guiying Yan, Dawei Yin*. An optimization model for offline scheduling policy of low-density parity-check codes.<br>
       <strong>IEEE Communications Letters (2024)</strong>. <a href="https://ieeexplore.ieee.org/document/10551701">Paper</a>
   </li>
 </ol>
