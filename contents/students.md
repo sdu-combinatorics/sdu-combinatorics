@@ -45,7 +45,7 @@
 - [[Lin Sun]](https://maths.qdu.edu.cn/info/1221/3132.htm) ➔ (Qingdao University, Assistant Professor)
 - Dawei Yin ➔ (Huawei Technologies Co., Ltd, Senior Researcher)
 - [[Longlong Li]](https://longlee220.github.io/) ➔ (Nanyang Technological University, Postdoc)
-- Xichao Shu ➔ (Max-Planck-Gesellschaft, Ph.D. Candidate)
+- [[Xichao Shu]](https://xiyuan0208.github.io/) ➔ (Max-Planck-Gesellschaft, Ph.D. Candidate)
 - Shumin Sun ➔ (University of Warwick, Ph.D. Candidate)
 - [[Xu Zhang]](https://xuzhang29.github.io/) ➔ (Shandong University, Postdoc)
 - Yantao Tang ➔ (Georgia Institute of Technology, Ph.D. Candidate)
