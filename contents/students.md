@@ -46,7 +46,7 @@
 - Dawei Yin ➔ (Huawei Technologies Co., Ltd, Senior Researcher)
 - [[Longlong Li]](https://longlee220.github.io/) ➔ (Nanyang Technological University, Postdoc)
 - [[Xichao Shu]](https://xiyuan0208.github.io/) ➔ (Max-Planck-Gesellschaft, Ph.D. Candidate)
-- Shumin Sun ➔ (University of Warwick, Ph.D. Candidate)
+- [[Shumin Sun]](https://warwick.ac.uk/fac/sci/maths/people/staff/sun/) ➔ (University of Warwick, Ph.D. Candidate)
 - [[Xu Zhang]](https://xuzhang29.github.io/) ➔ (Shandong University, Postdoc)
 - Yantao Tang ➔ (Georgia Institute of Technology, Ph.D. Candidate)
 - Hu Chen ➔ (The Ohio State University, Ph.D. Candidate)
