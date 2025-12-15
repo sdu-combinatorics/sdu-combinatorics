@@ -48,7 +48,7 @@
 - [[Xichao Shu]](https://xiyuan0208.github.io/) ➔ (Max-Planck-Gesellschaft, Ph.D. Candidate)
 - [[Shumin Sun]](https://warwick.ac.uk/fac/sci/maths/people/staff/sun/) ➔ (University of Warwick, Ph.D. Candidate)
 - [[Xu Zhang]](https://xuzhang29.github.io/) ➔ (Shandong University, Postdoc)
-- Yantao Tang ➔ (Georgia Institute of Technology, Ph.D. Candidate)
+- [[Yantao Tang]](https://dblp.org/pid/357/9585.html) ➔ (Georgia Institute of Technology, Ph.D. Candidate)
 - Hu Chen ➔ (The Ohio State University, Ph.D. Candidate)
 - Dongxu Chang ➔ (Huawei Technologies Co., Ltd, Senior Researcher)
 - [[Fan Chang]](https://fanchang1997.github.io/FanChangmath.github.io/) ➔ (Nankai University, Ph.D. Candidate)
