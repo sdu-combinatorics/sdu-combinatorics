@@ -1,7 +1,7 @@
 ### Students
 - Ji Jin
 - Xiaojing Zhang
-- [Qingqing Peng](https://201711010208.github.io/qingqingpeng220.github.io/)
+- [[Qingqing Peng]](https://201711010208.github.io/qingqingpeng220.github.io/)
 - Xia Wang
 - Nannan Chen
 - Lei Huang
