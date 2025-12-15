@@ -55,7 +55,8 @@ Organized by:
 - Extremal Group, Shandong University, China
 - Extremal Combinatorics and Probability Group, Institute for Basic Science (IBS), South Korea
 - Combinatorics Group, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China
-[Link](https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0)    
+  
+[**Video Link**](https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0)  
 
 
 <div class="item-with-poster">
