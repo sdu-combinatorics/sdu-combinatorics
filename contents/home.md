@@ -1,10 +1,12 @@
 Welcome to Guanghui Wang Cobinatorics's Group homepage!  
 
-### Research Interests
+## Research Interests
 Our Group research focuses on both the <strong>fundamental theory of combinatorics</strong>, including:
 
-- Extremal and probabilistic combinatorics  
-- Graph theory and discrete mathematics  
-- Combinatorial optimization  
+### Extremal and probabilistic combinatorics 
 
+### Graph theory and discrete mathematics  
 
+### Combinatorial optimization  
+
+## Conjectures
