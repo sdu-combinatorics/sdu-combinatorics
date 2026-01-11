@@ -1,4 +1,4 @@
-Welcome to Sdu-Cobinatorics homepage!  
+Welcome to Guanghui Wang Cobinatorics's Group homepage!  
 
 ### Research Interests
 Our Group research focuses on both the <strong>fundamental theory of combinatorics</strong>, including:
