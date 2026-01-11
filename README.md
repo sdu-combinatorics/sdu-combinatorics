@@ -4,7 +4,7 @@
 # A simple Github Pages template for personal academic websites.
 
 ## Preview
-[HomePage](https://longlee220284.github.io/GuanghuiWang.github.io/)
+[HomePage](https://sdu-combinatorics.github.io/sdu-combinatorics/)
 
 
 ## License
