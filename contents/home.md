@@ -1,5 +1,7 @@
 Welcome to the homepage of the **SDU Combinatorics Group**, led by **[Prof. Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)**.
 
+---
+
 ### Extremal and Probabilistic Combinatorics
 Our research in this area focuses on extremal structures and probabilistic thresholds in discrete systems.
 
@@ -12,6 +14,7 @@ Our research in this area focuses on extremal structures and probabilistic thres
   *Representative work:*  
   - *Title of Paper 3*, Journal / arXiv, Year.
 
+---
 
 ### Graph Theory and Discrete Mathematics
 We study structural and algorithmic properties of graphs and related discrete objects.
@@ -24,6 +27,7 @@ We study structural and algorithmic properties of graphs and related discrete ob
   *Representative work:*  
   - *Title of Paper 5*, Journal / arXiv, Year.
 
+---
 
 ### Combinatorial Optimization
 Our work addresses optimization problems on discrete structures, with both theoretical and algorithmic perspectives.
@@ -36,5 +40,6 @@ Our work addresses optimization problems on discrete structures, with both theor
   *Representative work:*  
   - *Title of Paper 7*, Journal / arXiv, Year.
 
+---
 ## Conjectures
 We propose and investigate several conjectures in combinatorics and related fields, including:
