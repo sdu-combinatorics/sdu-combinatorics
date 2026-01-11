@@ -127,7 +127,19 @@ section .main-body{
     font-weight: 700 !important;
 }
 
-#teaching-md strong {
+#conferences-md strong {
+    font-weight: 700 !important;
+}
+
+#workshops-md strong {
+    font-weight: 700 !important;
+}
+
+#seminars-md strong {
+    font-weight: 700 !important;
+}
+
+#news-md strong {
     font-weight: 700 !important;
 }
 
