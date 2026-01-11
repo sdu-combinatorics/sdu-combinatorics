@@ -119,7 +119,7 @@ section .main-body{
 
 
 /* Fix strong not bold inside Publications section */
-#publications-md strong {
+#members-md strong {
     font-weight: 700 !important;
 }
 
