@@ -170,3 +170,46 @@ section .main-body{
         max-width: 220px;
     }
 }
+
+
+/* ===== News tags ===== */
+.news-tag {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 2px 8px;
+  margin-bottom: 4px;
+  border-radius: 4px;
+}
+
+/* 不同类型 */
+.news-tag.paper {
+  color: #1f4fd8;          /* 深蓝 */
+  background: #e8eeff;
+}
+
+.news-tag.conference {
+  color: #0f5132;          /* 深绿 */
+  background: #e6f4ea;
+}
+
+.news-tag.workshop {
+  color: #5f370e;          /* 深橙 */
+  background: #fff3cd;
+}
+
+.news-tag.recruitment {
+  color: #842029;          /* 深红 */
+  background: #f8d7da;
+}
+
+.news-tag.award {
+  color: #664d03;          /* 金色 */
+  background: #fff3cd;
+}
+
+.news-tag.member {
+  color: #084298;          /* 靛蓝 */
+  background: #cfe2ff;
+}
+
