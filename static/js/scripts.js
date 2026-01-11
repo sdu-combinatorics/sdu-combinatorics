@@ -2,7 +2,7 @@
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'members', 'students', 'projects', 'teaching', 'talks']
+const section_names = ['home', 'members', 'conferences', 'workshops', 'seminars', 'news']
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -90,5 +90,6 @@ function formatItemsWithPoster(targetId){
 }
 
 /*** 让它只作用于你三个模块 ***/
-formatItemsWithPoster("teaching-md");
-
+formatItemsWithPoster("conferences-md");
+formatItemsWithPoster("workshops-md");
+formatItemsWithPoster("seminars-md");
