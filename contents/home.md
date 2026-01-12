@@ -1,5 +1,4 @@
-Welcome to the homepage of the **SDU Combinatorics Group**, led by  
-**[Prof. Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)**.
+Welcome to the homepage of the **SDU Combinatorics Group**, led by **[Prof. Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)**.
 
 ---
 
