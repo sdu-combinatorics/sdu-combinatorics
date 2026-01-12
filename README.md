@@ -1,10 +1,10 @@
 
 
 
-# A simple Github Pages template for personal academic websites.
+# A simple Github Pages template for Group academic websites.
 
 ## Preview
-[HomePage](https://sdu-combinatorics.github.io/sdu-combinatorics/)
+[HomePage](https://www.wgh-comb.net)
 
 
 ## License
