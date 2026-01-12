@@ -2,6 +2,14 @@ Welcome to the homepage of the **SDU Combinatorics Group**, led by **[Prof. Guan
 
 ---
 
+## Contents
+- [Extremal and Probabilistic Combinatorics](#extremal-and-probabilistic-combinatorics)
+- [Graph Theory and Discrete Mathematics](#graph-theory-and-discrete-mathematics)
+- [Combinatorial Optimization](#combinatorial-optimization)
+- [Conjectures](#conjectures)
+
+---
+
 ### Extremal and Probabilistic Combinatorics
 Our research in this area focuses on extremal structures and probabilistic thresholds in discrete systems.
 
@@ -41,5 +49,6 @@ Our work addresses optimization problems on discrete structures, with both theor
   - *Title of Paper 7*, Journal / arXiv, Year.
 
 ---
+
 ## Conjectures
 We propose and investigate several conjectures in combinatorics and related fields, including:
