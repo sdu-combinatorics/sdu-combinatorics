@@ -13,7 +13,7 @@ Participants interested in receiving seminar announcements by email are welcome 
 
 <h3>Online Meeting Information</h3>
 
-<table class="table table-sm">
+<table class="table table-sm table-borderless">
   <thead>
     <tr>
       <th>Platform</th>
