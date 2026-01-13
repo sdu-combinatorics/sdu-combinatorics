@@ -40,7 +40,7 @@
 
 **1. Operations Research (4th Edition)**  
 [Link](https://book.douban.com/subject/30353992/)  
-**Authors:** Zaiyun Diao, Guizhen Liu, Xiaoxia Rong, <strong>Guanghui Wang</strong>  
+**Authors:** Zaijun Diao, Guizhen Liu, Xiaoxia Rong, <strong>Guanghui Wang</strong>  
 
   </div>
   <div class="item-poster">
