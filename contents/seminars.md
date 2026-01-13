@@ -31,7 +31,7 @@
 
 **2. Operations Research (5th Edition)**  
 [Link](https://book.douban.com/subject/36959426/)  
-**Authors:** Zaiyun Diao, Xiaoxia Rong, <strong>Guanghui Wang</strong>, Bingqiang Liu, Guizhen Liu  
+**Authors:** Zaijun Diao, Xiaoxia Rong, <strong>Guanghui Wang</strong>, Bingqiang Liu, Guizhen Liu  
 
 
 
