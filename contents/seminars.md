@@ -13,6 +13,7 @@ Participants interested in receiving seminar announcements by email are welcome 
 
 ---
 
+All time in this webpage refers to Beijing Time (GMT+8).  
 ### Upcoming Talks
 
 <div class="seminar-item">
