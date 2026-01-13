@@ -1,3 +1,63 @@
+## SDU Combinatorics Seminar
+
+The SDU Combinatorics Seminar focuses on recent research developments in combinatorics and related areas, including graph theory, probabilistic methods, and discrete mathematics.
+
+This is a research-oriented seminar. Each session typically consists of an invited talk or a presentation by group members and visitors. The seminar schedule will be announced in advance and updated regularly on this page.
+
+Participants interested in receiving seminar announcements by email are welcome to contact the organizers.
+
+---
+
+### Organizers
+- **Prof. Guanghui Wang** (Shandong University)
+
+---
+
+### Upcoming Talks
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong>Mar 12</strong><br/>
+    2026
+  </div>
+  <div class="seminar-content">
+    <strong>Title:</strong> Extremal Problems in Random Hypergraphs<br/>
+    <strong>Speaker:</strong> Prof. XXX (University of XXX)<br/>
+    <strong>Time:</strong> 16:00–17:30<br/>
+    <strong>Venue:</strong> Room 301, Mathematics Building / Online (Zoom)
+  </div>
+</div>
+
+---
+
+### Pervious Talks
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong>Dec 16</strong><br/>
+    2025
+  </div>
+  <div class="seminar-content">
+    <strong>Title:</strong> <a href="#">The Hypergraph Removal Process</a><br/>
+    <strong>Speaker:</strong> Felix Joos (Heidelberg University)<br/>
+    <strong>Time:</strong> 17:05–18:15<br/>
+    <strong>Venue:</strong> Online (Zoom)
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong>Nov 28</strong><br/>
+    2025
+  </div>
+  <div class="seminar-content">
+    <strong>Title:</strong> Ramsey-Type Problems in Graph Theory<br/>
+    <strong>Speaker:</strong> Dr. XXX (XXX University)<br/>
+    <strong>Time:</strong> 15:30–17:00<br/>
+    <strong>Venue:</strong> Room 402, Mathematics Building
+  </div>
+</div>
+
 ## Books
 
 <div class="item-with-poster">
