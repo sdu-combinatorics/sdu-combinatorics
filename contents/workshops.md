@@ -112,3 +112,108 @@ Organized by:
   Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
   Role: **Initiator & Organizer**
 
+
+
+## Courses
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**7. Extremal Graph Theory (Spring 2023)**  
+  School of Mathematics, Shandong University  
+  Speakers: [Donglei Yang](https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm), Guanghui Wang  
+  Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2023_courses.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**6. Extremal Combinatorics (Fall 2022)**  
+  Online  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+  Role: **Initiator & Organizer**  
+
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_5.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**5. Probabilistic Combinatorics (Fall 20222)**  
+School of Mathematics, Shandong University  
+  Role: **Initiator & Organizer**  
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_4.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**4. Discrete Geometry (Spring 2022)**  
+  Online  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+  Role: **Initiator & Organizer**  
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_3.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+<div class="item-text">
+
+**3. Extremal Graph Theory (Spring 2022)**  
+School of Mathematics, Shandong University  
+  Speakers: Guanghui Wang  
+  Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_2.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
+
+<div class="item-with-poster">
+<div class="item-text">
+
+**2. Analysis of Boolean Functions (Spring 2022)**  
+  Online  
+  Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2022_courses_1.png" alt="Graph Theory poster">
+  </div>
+</div>
+
+<div class="item-with-poster">
+<div class="item-text">
+
+**1. Frontiers of Combinatorics (Spring 2021)**  
+  Online  
+  Speakers: [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
+  Role: **Initiator & Organizer**
+  
+</div>
+  <div class="item-poster">
+    <img src="static/assets/img/2021_courses.jpeg" alt="Graph Theory poster">
+  </div>
+</div>
+
