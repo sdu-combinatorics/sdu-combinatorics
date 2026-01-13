@@ -213,3 +213,39 @@ section .main-body{
   background: #cfe2ff;
 }
 
+
+.seminar-item {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid #ddd;
+    padding: 12px 0;
+    margin-bottom: 12px;
+}
+
+.seminar-date {
+    width: 90px;
+    min-width: 90px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    text-align: center;
+    padding: 6px 4px;
+    margin-right: 16px;
+    font-size: 14px;
+    color: #003399;
+}
+
+.seminar-content {
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+.seminar-content a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.seminar-content a:hover {
+    text-decoration: underline;
+}
+
+
