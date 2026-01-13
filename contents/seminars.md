@@ -33,23 +33,39 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### Previous Talks
 
+<div class="seminar-item">
 
+  <div class="seminar-date">
+    <strong>Dec 16</strong><br/>
+    2025
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong> The Hypergraph Removal Process<br/>
+    <strong>Speaker:</strong> Felix Joos (Heidelberg University)<br/>
+    <strong>Time:</strong> 17:05–18:15<br/>
+    <strong>Venue:</strong> Online (Zoom)
+  </div>
+
+  <div class="item-poster">
+    <img src="static/assets/img/graph_theory.jpeg" alt="Seminar poster">
+  </div>
+
+</div>
 
 
 <div class="seminar-item">
 
-  <div class="item-text">
-    <div class="seminar-date">
-      <strong>Dec 16</strong><br/>
-      2025
-    </div>
+  <div class="seminar-date">
+    <strong>Dec 16</strong><br/>
+    2025
+  </div>
 
-    <div class="seminar-content">
-      <strong>Title:</strong> The Hypergraph Removal Process<br/>
-      <strong>Speaker:</strong> Felix Joos (Heidelberg University)<br/>
-      <strong>Time:</strong> 17:05–18:15<br/>
-      <strong>Venue:</strong> Online (Zoom)
-    </div>
+  <div class="seminar-content">
+    <strong>Title:</strong> Ramsey-Type Problems in Graph Theory<br/>
+    <strong>Speaker:</strong> Dr. XXX (XXX University)<br/>
+    <strong>Time:</strong> 15:30–17:00<br/>
+    <strong>Venue:</strong> Room 402, Mathematics Building
   </div>
 
   <div class="item-poster">
@@ -59,27 +75,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
 </div>
 
 
-<div class="item-with-poster">
-
-  <div class="item-text">
-    <div class="seminar-date">
-      <strong>Nov 28</strong><br/>
-      2025
-    </div>
-
-    <div class="seminar-content">
-      <strong>Title:</strong> Ramsey-Type Problems in Graph Theory<br/>
-      <strong>Speaker:</strong> Dr. XXX (XXX University)<br/>
-      <strong>Time:</strong> 15:30–17:00<br/>
-      <strong>Venue:</strong> Room 402, Mathematics Building
-    </div>
-  </div>
-
-  <div class="item-poster">
-    <img src="static/assets/img/graph_theory.jpeg" alt="Seminar poster">
-  </div>
-
-</div>
 
 ## Books
 
