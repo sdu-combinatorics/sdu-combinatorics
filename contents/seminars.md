@@ -10,10 +10,15 @@ Participants interested in receiving seminar announcements by email are welcome 
 
 ### Organizers
 - **Prof. Guanghui Wang** (Shandong University)
+-- Online Meeting Information
 
----
+| Platform | Meeting ID | Password |
+|---------|------------|----------|
+| Zoom | xxx xxxx | xxx |
+| 腾讯会议 | xxx xxx | xxx |
 
 All time in this webpage refers to Beijing Time (GMT+8).  
+
 ### Upcoming Talks
 
 <div class="seminar-item">
@@ -23,10 +28,15 @@ All time in this webpage refers to Beijing Time (GMT+8).
   </div>
   <div class="seminar-content">
     <strong>Title:</strong> Extremal Problems in Random Hypergraphs<br/>
-    <strong>Speaker:</strong> Prof. XXX (University of XXX)<br/>
+    <strong>Speaker:</strong> Prof.[Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)<br/>
     <strong>Time:</strong> 16:00–17:30<br/>
     <strong>Venue:</strong> Room 301, Mathematics Building / Online (Zoom)
   </div>
+
+  <div class="item-poster">
+    <img src="static/assets/img/graph_theory.jpeg" alt="Seminar poster">
+  </div>
+  
 </div>
 
 ---
@@ -42,9 +52,10 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong> The Hypergraph Removal Process<br/>
-    <strong>Speaker:</strong> Felix Joos (Heidelberg University)<br/>
+    <strong>Speaker:</strong> Prof.[Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)<br/>
     <strong>Time:</strong> 17:05–18:15<br/>
     <strong>Venue:</strong> Online (Zoom)
+    <strong>Video:</strong> [Link](https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0)  
   </div>
 
   <div class="item-poster">
