@@ -235,42 +235,28 @@ section .main-body{
 }
 
 .seminar-content {
+    flex: 1;                 /* ⭐ 关键这一行 */
     line-height: 1.6;
     font-size: 15px;
 }
 
-.seminar-content a {
-    color: #1a73e8;
-    text-decoration: none;
-}
-
-.seminar-content a:hover {
-    text-decoration: underline;
-}
-
-/* 右侧 poster（可选） */
-.seminar-item .item-poster {
-    margin-left: 16px;
-}
-
-.seminar-item .item-poster img {
+.item-poster img {
     width: 140px;
     border-radius: 6px;
     box-shadow: 0 0 10px rgba(0,0,0,.15);
 }
 
-/* 小屏幕自动换行 */
+/* 手机端 */
 @media (max-width: 900px) {
     .seminar-item {
         flex-direction: column;
     }
 
-    .seminar-item .item-poster {
-        margin-left: 0;
+    .item-poster {
         margin-top: 12px;
     }
 
-    .seminar-item .item-poster img {
+    .item-poster img {
         width: 60%;
         max-width: 220px;
     }
