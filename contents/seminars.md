@@ -10,12 +10,30 @@ Participants interested in receiving seminar announcements by email are welcome 
 
 ### Organizers
 - **Prof. Guanghui Wang** (Shandong University)
-- Online Meeting Information
 
-| Platform | Meeting ID | Password |
-|---------|------------|----------|
-| Zoom | xxx xxxx | xxx |
-| 腾讯会议 | xxx xxx | xxx |
+<h3>Online Meeting Information</h3>
+
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>Platform</th>
+      <th>Meeting ID</th>
+      <th>Password</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Zoom</td>
+      <td>xxx xxxx</td>
+      <td>xxx</td>
+    </tr>
+    <tr>
+      <td>腾讯会议</td>
+      <td>xxx xxx</td>
+      <td>xxx</td>
+    </tr>
+  </tbody>
+</table>
 
 All time in this webpage refers to Beijing Time (GMT+8).  
 
