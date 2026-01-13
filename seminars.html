@@ -4,25 +4,36 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Seminars - Academic Webpage" />
-    <meta name="author" content="senli1073" />
-    <title>Seminars</title>
 
+    <meta name="description" content="Seminars - SDU Combinatorics Group" />
+    <meta name="author" content="SDU Combinatorics Group" />
+    <title>Seminars | SDU Combinatorics Group</title>
+
+    <!-- Icon -->
     <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
-          rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
-          rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
-          rel="stylesheet" />
-    <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
-    <link type="text/css" href="static/css/main.css" rel="stylesheet" />
 
-    <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script type="text/javascript" src="static/js/marked.min.js"></script>
+    <!-- Bootstrap Icons (LOCAL) -->
+    <link rel="stylesheet" href="static/vendor/bootstrap-icons/bootstrap-icons.css" />
+
+    <!-- System fonts (No Google Fonts) -->
+    <style>
+        :root {
+            --bs-font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+                Arial, sans-serif;
+        }
+    </style>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="static/css/styles.css" />
+    <link rel="stylesheet" href="static/css/main.css" />
+
+    <!-- JS (LOCAL) -->
+    <script src="static/js/bootstrap.bundle.min.js"></script>
+    <script src="static/js/marked.min.js"></script>
+    <script src="static/js/js-yaml.min.js"></script>
+
+    <!-- MathJax (LOCAL) -->
     <script>
         MathJax = {
             tex: {
@@ -34,44 +45,29 @@
             }
         };
     </script>
-    <script id="MathJax-script"
-            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
-            defer></script>
+    <script defer src="static/js/mathjax/tex-mml-chtml.js"></script>
 
-    <script type="text/javascript" src="static/js/scripts.js"></script>
-    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
+    <!-- Core JS -->
+    <script src="static/js/scripts.js"></script>
 </head>
 
 <body>
     <!-- Navigation-->
     <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
-            <a id="page-top-title" class="navbar-brand fw-bold" href="index.html"></a>
+            <a id="page-top-title" class="navbar-brand fw-bold" href="index.html">SDU Comb Group</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                     aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                MENU
-                <i class="bi-list"></i>
+                MENU <i class="bi bi-list"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3 active" href="index.html">HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="members.html">MEMBERS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="conferences.html">CONFERENCES</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="workshops.html">WORKSHOPS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="seminars.html">SEMINARS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="news.html">NEWS</a>
-                    </li>
+                    <li class="nav-item"><a class="nav-link me-lg-arnav-link me-lg-3" href="index.html">HOME</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="members.html">MEMBERS</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="conferences.html">CONFERENCES</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="workshops.html">WORKSHOPS</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="news.html">NEWS</a></li>
                 </ul>
             </div>
         </div>
@@ -91,22 +87,18 @@
         <div class="container px-5">
             <header>
                 <h2 id="seminars-subtitle">
-                    <i class="bi bi-easel"></i> SEMINARS
+                    <i class="bi bi-easel"></i>&nbsp;SEMINARS
                 </h2>
             </header>
             <div class="main-body" id="seminars-md"></div>
         </div>
     </section>
 
-    <!-- Footer-->
+    <!-- Footer (clean) -->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
             <div class="text-white-50 small">
                 <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/senli1073">Github</a>
-                <span class="mx-1">&middot;</span>
-                <a id="license-link"
-                   href="https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE">License</a>
             </div>
         </div>
     </footer>
