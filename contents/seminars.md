@@ -33,7 +33,10 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### Previous Talks
 
-<div class="item-with-poster">
+
+
+
+<div class="seminar-item">
 
   <div class="item-text">
     <div class="seminar-date">
