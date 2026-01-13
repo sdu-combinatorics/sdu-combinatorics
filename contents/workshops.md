@@ -1,4 +1,16 @@
-## Workshops
+This page lists workshops, summer schools, and short courses organized or co-organized by the SDU Combinatorics Group.  
+For recurring activities, we provide posters/materials when available.  
+Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
+
+---
+
+## Contents
+- [Workshops](#workshops)
+- [Summer School](#summer-school)
+- [Courses](#courses)
+
+
+## <a id="workshops"></a>Workshops
 
 ### 2026
 
@@ -39,7 +51,7 @@
 
 
   
-## Summer School
+## <a id="summer-school"></a>Summer School
 
 Organized by:
 - Extremal Group, Shandong University, China
@@ -114,7 +126,7 @@ Organized by:
 
 
 
-## Courses
+## <a id="courses"></a>Courses
 
 <div class="item-with-poster">
   <div class="item-text">
