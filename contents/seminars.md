@@ -10,7 +10,7 @@ Participants interested in receiving seminar announcements by email are welcome 
 
 ### Organizers
 - **Prof. Guanghui Wang** (Shandong University)
--- Online Meeting Information
+- Online Meeting Information
 
 | Platform | Meeting ID | Password |
 |---------|------------|----------|
@@ -18,6 +18,8 @@ Participants interested in receiving seminar announcements by email are welcome 
 | 腾讯会议 | xxx xxx | xxx |
 
 All time in this webpage refers to Beijing Time (GMT+8).  
+
+---
 
 ### Upcoming Talks
 
@@ -39,7 +41,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
   
 </div>
 
----
+
 
 ### Previous Talks
 
