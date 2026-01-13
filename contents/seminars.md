@@ -14,7 +14,7 @@ Participants interested in receiving seminar announcements by email are welcome 
 ---
 
 All time in this webpage refers to Beijing Time (GMT+8).  
-### <span class="news-tag paper">Upcoming Talks</span>  
+### Upcoming Talks
 
 <div class="seminar-item">
   <div class="seminar-date">
@@ -31,7 +31,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ---
 
-### <span class="news-tag conference">Previous Talks</span>
+### Previous Talks
 
 <div class="item-with-poster">
 
