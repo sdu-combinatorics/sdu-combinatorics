@@ -248,4 +248,30 @@ section .main-body{
     text-decoration: underline;
 }
 
+/* 右侧 poster（可选） */
+.seminar-item .item-poster {
+    margin-left: 16px;
+}
 
+.seminar-item .item-poster img {
+    width: 140px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,.15);
+}
+
+/* 小屏幕自动换行 */
+@media (max-width: 900px) {
+    .seminar-item {
+        flex-direction: column;
+    }
+
+    .seminar-item .item-poster {
+        margin-left: 0;
+        margin-top: 12px;
+    }
+
+    .seminar-item .item-poster img {
+        width: 60%;
+        max-width: 220px;
+    }
+}
