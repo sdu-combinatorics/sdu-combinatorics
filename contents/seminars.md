@@ -28,7 +28,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
   </div>
   <div class="seminar-content">
     <strong>Title:</strong> Extremal Problems in Random Hypergraphs<br/>
-    <strong>Speaker:</strong> Prof.[Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)<br/>
+    <strong>Speaker:</strong> Prof. <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu</a><br/>
     <strong>Time:</strong> 16:00–17:30<br/>
     <strong>Venue:</strong> Room 301, Mathematics Building / Online (Zoom)
   </div>
@@ -52,10 +52,18 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong> The Hypergraph Removal Process<br/>
-    <strong>Speaker:</strong> Prof.[Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)<br/>
+    <strong>Speaker:</strong> Prof. 
+    <a href="https://sites.google.com/view/jaehoon-kim"
+       target="_blank" rel="noopener">
+       Jaehoon Kim
+    </a><br/>
     <strong>Time:</strong> 17:05–18:15<br/>
-    <strong>Venue:</strong> Online (Zoom)
-    <strong>Video:</strong> [Link](https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0)  
+    <strong>Venue:</strong> Online (Zoom)<br/>
+    <strong>Video:</strong> 
+    <a href="https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0"
+       target="_blank" rel="noopener">
+       Link
+    </a>
   </div>
 
   <div class="item-poster">
