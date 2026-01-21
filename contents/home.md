@@ -1,4 +1,5 @@
 Welcome to the homepage of the **SDU Combinatorics Group**, led by **[Prof. Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm)**.
+<!--
 ## Books
 This section lists selected textbooks and monographs authored or translated by the group leader, covering graph theory and operations research.
 
@@ -59,6 +60,7 @@ This section lists selected textbooks and monographs authored or translated by t
 </div>
 
 ---
+-->
 
 The SDU Combinatorics Group focuses on fundamental problems in combinatorics, with particular emphasis on the following research themes.
 
