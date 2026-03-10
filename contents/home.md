@@ -31,14 +31,14 @@ extremal combinatorics, and discrete mathematics.
 
 <!--<div class="news-item">
 <div class="news-date">2026-03-10</div>
-<a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 18.</a>
+<a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 19.</a>
 </div> -->
 <div class="news-item">
  We are pleased to announce that <strong>Prof. Jørgen Bang-Jensen</strong> will give a seminar on March 18, 2026.
     The title of his talk is <strong><em>“Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs”</em></strong>.
   </p>
  
-  <strong>Time:</strong> 17:00–18:00 (UTC+8)</strong>;
+  <strong>Time:</strong> 17:00–18:10 (UTC+8)</strong>;
   
    <strong>Zoom ID:</strong> 632 7868 8120;
     
