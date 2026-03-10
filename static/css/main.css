@@ -213,7 +213,10 @@ section .main-body{
   background: #cfe2ff;
 }
 
-
+.news-tag.seminar {
+  color: #5a3ec8;          /* 紫蓝 */
+  background: #ece8ff;
+}
 
 
 .item-poster img {
