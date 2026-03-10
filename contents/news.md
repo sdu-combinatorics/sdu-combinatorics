@@ -36,7 +36,7 @@
   </p>
 </div>
 
-<div id="news-20260115" class="news-entry">
+<div id="news-20260310" class="news-entry">
   <h3><span class="news-tag recruitment">Recruitment</span> Open Positions</h3>
   <p>
     We are recruiting <strong>Ph.D. students and postdoctoral researchers</strong>
