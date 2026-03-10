@@ -30,7 +30,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 ### Upcoming Talks
 <div class="seminar-item">
   <div class="seminar-date">
-    <strong style="font-size: 17px;">Mar 18</strong><br />
+    <strong style="font-size: 17px;">Mar 19</strong><br />
     <span style="font-size: 17px;">2026</span>
   </div>
 
@@ -40,7 +40,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
     <strong>Speaker:</strong>
     Prof.
    <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a><br />
-    <strong>Time:</strong> 17:00–18:00
+    <strong>Time:</strong> 17:00–18:10
     &nbsp;&nbsp;
     <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
   </div>
