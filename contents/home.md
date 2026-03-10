@@ -1,8 +1,8 @@
 <div class="home-layout">
 <div class="home-main">
 <p>
-Welcome to the homepage of the <strong>SDU Combinatorics Group</strong>, led by
-<strong><a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Prof. Guanghui Wang</a></strong>.
+Welcome to the homepage of the <strong>SDU Combinatorics Group</strong>, led by Prof.
+<strong><a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener"> Guanghui Wang</a></strong>.
 </p>
 
 <h2>Introduction</h2>
