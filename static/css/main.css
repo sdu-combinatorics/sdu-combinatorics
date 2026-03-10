@@ -436,3 +436,128 @@ section .main-body{
   opacity: 0.6;
   cursor: wait;
 }
+
+.home-welcome {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin-bottom: 1.75rem;
+}
+
+.home-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+.home-main {
+  flex: 0 0 60%;
+  min-width: 0;
+}
+
+.home-news {
+  flex: 0 0 40%;
+  width: auto;
+}
+
+.home-section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #102a5c;
+  margin-bottom: 1rem;
+}
+
+.home-intro {
+  font-size: 1.05rem;
+  line-height: 1.9;
+  margin-bottom: 1.5rem;
+  color: #222;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.research-card {
+  background: #f8fbff;
+  border: 1px solid #dbe8f7;
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+  font-weight: 600;
+  color: #1e3c72;
+  box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.05);
+}
+
+.news-box {
+  background: #f8fbff;
+  border: 1px solid #d7e6f7;
+  border-radius: 16px;
+  padding: 1.25rem 1.25rem 1rem 1.25rem;
+  box-shadow: 0 0.35rem 1rem rgba(0, 0, 0, 0.08);
+}
+
+.news-box-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e3edf8;
+}
+
+.news-box-header h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #1e3c72;
+}
+
+.news-more {
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: #2a5298;
+}
+
+.news-more:hover {
+  text-decoration: underline;
+}
+
+.news-item {
+  padding-top: 0.25rem;
+}
+
+.news-date {
+  font-size: 0.82rem;
+  color: #6c757d;
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.02em;
+}
+
+.news-item a {
+  color: #1f4fa8;
+  text-decoration: none;
+  line-height: 1.7;
+  font-size: 1.05rem;
+}
+
+.news-item a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 992px) {
+  .home-layout {
+    flex-direction: column;
+  }
+
+  .home-main,
+  .home-news {
+    width: 100%;
+    flex: none;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
