@@ -27,19 +27,11 @@ with particular emphasis on the following research themes.
 </div>
 
 <div class="news-item">
-<div class="news-date">2026-03-12</div>
-<a href="news.html#news-20260310">Seminar by Prof. Hong Liu will be held on March 12.</a>
+<div class="news-date">2026-03-10</div>
+<a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 18.</a>
 </div>
 
-<div class="news-item">
-<div class="news-date">2026-02-20</div>
-<a href="news.html">New seminar schedule for Spring 2026 has been announced.</a>
-</div>
 
-<div class="news-item">
-<div class="news-date">2026-01-08</div>
-<a href="news.html">The group website has been updated.</a>
-</div>
 </div>
 </aside>
 </div>
