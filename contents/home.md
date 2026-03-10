@@ -34,18 +34,16 @@ extremal combinatorics, and discrete mathematics.
 <a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 18.</a>
 </div> -->
 <div class="news-item">
- We are pleased to announce that Prof. Jørgen Bang-Jensen will give a seminar on March 18, 2026.
-    The title of his talk is <em>“Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs”</em>.
+ We are pleased to announce that <strong>Prof. Jørgen Bang-Jensen</strong> will give a seminar on March 18, 2026.
+    The title of his talk is <strong><em>“Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs”</em></strong>.
   </p>
-  <p>
-    <strong>Time:</strong> 17:00–18:00 (UTC+8)
-    &nbsp;&nbsp;&nbsp;
-    <strong>Zoom ID:</strong>
-    <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
-      632 7868 8120
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <strong>Password:</strong> SDUCOMB</div> 
+ 
+  <strong>Time:</strong> 17:00–18:00 (UTC+8)</strong>;
+  
+   <strong>Zoom ID:</strong> 632 7868 8120;
+    
+<strong>Password:</strong> SDUCOMB
+    </div> 
 </div>
 </aside>
 </div>
