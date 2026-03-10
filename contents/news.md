@@ -4,11 +4,11 @@
 <div id="news-20260310" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Jørgen Bang-Jensen on March 18</h3>
   <p>
-     We are pleased to announce that Prof. <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a> will give a <a href="abstract.html?id=2601" target="_blank" rel="noopener">seminar</a> on March 18, 2026.
+     We are pleased to announce that Prof. <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a> will give a <a href="abstract.html?id=2601" target="_blank" rel="noopener">seminar</a> on March 19, 2026.
     The title of his talk is <em>“Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs”</em>.
   </p>
   <p>
-    <strong>Time:</strong> 17:00–18:00 (UTC+8)
+    <strong>Time:</strong> 17:00–18:10 (UTC+8)
     &nbsp;&nbsp;&nbsp;
     <strong>Zoom ID:</strong>
     <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
