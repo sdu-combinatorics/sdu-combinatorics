@@ -28,7 +28,7 @@ with particular emphasis on the following research themes.
 
 <div class="news-item">
 <div class="news-date">2026-03-12</div>
-<a href="news.html#news-20260312">Seminar by Prof. Hong Liu will be held on March 12.</a>
+<a href="news.html#news-20260310">Seminar by Prof. Hong Liu will be held on March 12.</a>
 </div>
 
 <div class="news-item">
