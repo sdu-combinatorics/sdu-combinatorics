@@ -34,8 +34,6 @@ extremal combinatorics, and discrete mathematics.
 <a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 18.</a>
 </div> -->
 <div class="news-item">
- <b>Seminar by Prof. Jørgen Bang-Jensen on March 18.</b>
-  
  We are pleased to announce that Prof. Jørgen Bang-Jensen will give a seminar on March 18, 2026.
     The title of his talk is <em>“Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs”</em>.
   </p>
