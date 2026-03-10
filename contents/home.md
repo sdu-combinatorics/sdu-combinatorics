@@ -29,9 +29,7 @@
 
       <div class="news-item">
         <div class="news-date">2026-03-10</div>
-        <a href="news.html#news-20260310">
-          Seminar by Prof. Jørgen Bang-Jensen on March 18.
-        </a>
+        <a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 18.</a>
       </div>
     </div>
   </aside>
