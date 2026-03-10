@@ -12,12 +12,12 @@ with particular emphasis on graph theory, probabilistic methods,
 extremal combinatorics, and discrete mathematics.
 </p>
 
-<div class="research-grid">
+<!--<div class="research-grid">
 <div class="research-card">Graph theory</div>
 <div class="research-card">Probabilistic methods</div>
 <div class="research-card">Extremal combinatorics</div>
 <div class="research-card">Discrete mathematics</div>
-</div>
+</div>-->
 </div>
 
 <aside class="home-news">
