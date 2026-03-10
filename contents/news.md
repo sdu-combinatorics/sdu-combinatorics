@@ -2,14 +2,15 @@
 
 ### 2026
 
-<div id="news-20260312" class="news-entry">
-  <h3>Seminar by Prof. Hong Liu will be held on March 12</h3>
+<div id="news-20260220" class="news-entry">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Jørgen Bang-Jensen on March 18</h3>
   <p>
-    Members of our group are pleased to announce that Prof. Hong Liu will give a seminar talk on March 12, 2026.
+     We are pleased to announce that Prof. <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a> will give a <a href="abstract.html?id=2601" target="_blank" rel="noopener">seminar</a> on March 18, 2026.
+    The title of his talk is <em>“Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs”</em>.
   </p>
 </div>
 
-<div id="news-20260220" class="news-entry">
+<!--<div id="news-20260220" class="news-entry">
   <h3><span class="news-tag paper">Paper</span> Paper Accepted</h3>
   <p>
     Our paper <em>“Title of the Paper”</em> has been accepted by
@@ -43,7 +44,7 @@
     in combinatorics and graph theory.
     Interested applicants are welcome to contact us by email.
   </p>
-</div>
+</div>-->
 
 ---
 
