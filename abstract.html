@@ -89,12 +89,6 @@
             padding-right: 28%;
         }
 
-        .abstract-card .date {
-            color: var(--theme-blue-muted);
-            margin-bottom: 1.5rem;
-            margin-top: 0.75rem;
-        }
-
         .abstract-card .abstract-label {
             font-weight: 700;
             color: var(--theme-blue-dark);
@@ -115,6 +109,36 @@
             margin-bottom: 1rem;
         }
 
+        .abstract-card .meta-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem 1.5rem;
+            align-items: center;
+            color: var(--theme-blue-muted);
+            margin-top: 0.75rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.98rem;
+            line-height: 1.7;
+        }
+
+        .abstract-card .meta-item {
+            white-space: nowrap;
+        }
+
+        .abstract-card .meta-item strong {
+            color: var(--theme-blue-dark);
+            font-weight: 700;
+        }
+
+        .abstract-card .meta-item a {
+            color: var(--theme-blue);
+            text-decoration: none;
+        }
+
+        .abstract-card .meta-item a:hover {
+            text-decoration: underline;
+        }
+
         .btn-outline-primary {
             border-color: var(--theme-blue);
             color: var(--theme-blue);
@@ -133,20 +157,6 @@
             width: 28%;
             max-width: 220px;
             height: auto;
-        }
-
-        .zoom-info {
-            border-left: 4px solid var(--theme-blue);
-            background-color: var(--theme-blue-soft);
-            font-size: 0.95rem;
-            margin-top: 1.5rem;
-            padding: 1rem;
-            border-radius: 0.5rem;
-            line-height: 1.7;
-        }
-
-        .zoom-info strong {
-            color: var(--theme-blue-dark);
         }
 
         /* MathJax stability inside screenshot card */
@@ -183,6 +193,14 @@
                 width: 120px;
                 max-width: 40%;
                 margin: 0 0 1rem auto;
+            }
+
+            .abstract-card .meta-row {
+                gap: 0.5rem 1rem;
+            }
+
+            .abstract-card .meta-item {
+                white-space: normal;
             }
         }
     </style>
@@ -439,7 +457,6 @@
                 const zoomMeetingId = "632 7868 8120";
                 const zoomPasscode = "SDUCOMB";
                 const zoomUrl = "https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1";
-                
 
                 const cardHtml = `
                     <div id="abstract-card" class="abstract-card">
@@ -447,21 +464,24 @@
 
                         <div class="name">${escapeHtml(data.name || 'Unknown')}</div>
                         <div class="title">${escapeHtml(data.title || 'Untitled')}</div>
-                        <div class="date">${escapeHtml(data.date || '')}</div>
+
+                        <div class="meta-row">
+                            <span class="meta-item">
+                                <strong>Time:</strong> ${escapeHtml(data.date || '')}
+                            </span>
+                            <span class="meta-item">
+                                <strong>Zoom ID:</strong>
+                                <a href="${zoomUrl}" target="_blank" rel="noopener">${zoomMeetingId}</a>
+                            </span>
+                            <span class="meta-item">
+                                <strong>Password:</strong> ${zoomPasscode}
+                            </span>
+                        </div>
 
                         <div class="abstract-label">Abstract</div>
                         <div class="abstract-content fs-5 mb-4">${rawHtml(data.abstract, '')}</div>
 
                         ${data.bio ? `<div class="abstract-label">Introduction</div><div class="bio-content">${rawHtml(data.bio, '')}</div>` : ''}
-
-                        <div class="zoom-info">
-    <strong>Zoom Meeting:</strong>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    ID:
-    <a href="${zoomUrl}" target="_blank" rel="noopener">${zoomMeetingId}</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    Password: ${zoomPasscode}
-</div>
                     </div>
                 `;
 
