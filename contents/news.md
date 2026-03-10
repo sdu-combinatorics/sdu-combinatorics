@@ -2,46 +2,85 @@
 
 ### 2026
 
-- <span class="news-tag paper">Paper</span>  
-  Our paper *“Title of the Paper”* has been accepted by  
-  *Journal Name*, 2026.  
-  [arXiv](https://arxiv.org/abs/xxxx.xxxxx)
+<div id="news-20260312" class="news-entry">
+  <h3>Seminar by Prof. Hong Liu will be held on March 12</h3>
+  <p>
+    Members of our group are pleased to announce that Prof. Hong Liu will give a seminar talk on March 12, 2026.
+  </p>
+</div>
 
-- <span class="news-tag conference">Conference</span>  
-  Prof. Guanghui Wang will give an invited talk at  
-  *International Conference on Combinatorics and Graph Theory*,  
-  June 2026, Jinan, China.
+<div id="news-20260220" class="news-entry">
+  <h3><span class="news-tag paper">Paper</span> Paper Accepted</h3>
+  <p>
+    Our paper <em>“Title of the Paper”</em> has been accepted by
+    <em>Journal Name</em>, 2026.
+    <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank" rel="noopener">arXiv</a>
+  </p>
+</div>
 
-- <span class="news-tag workshop">Workshop</span>  
-  The SDU Combinatorics Group will organize the  
-  *Workshop on Extremal and Probabilistic Combinatorics*,  
-  May 12–14, 2026, Jinan, China.
+<div id="news-20260601" class="news-entry">
+  <h3><span class="news-tag conference">Conference</span> Invited Talk</h3>
+  <p>
+    Prof. Guanghui Wang will give an invited talk at
+    <em>International Conference on Combinatorics and Graph Theory</em>,
+    June 2026, Jinan, China.
+  </p>
+</div>
 
-- <span class="news-tag recruitment">Recruitment</span>  
-  We are recruiting **Ph.D. students and postdoctoral researchers**  
-  in combinatorics and graph theory.  
-  Interested applicants are welcome to contact us by email.
+<div id="news-20260512" class="news-entry">
+  <h3><span class="news-tag workshop">Workshop</span> Workshop Announcement</h3>
+  <p>
+    The SDU Combinatorics Group will organize the
+    <em>Workshop on Extremal and Probabilistic Combinatorics</em>,
+    May 12–14, 2026, Jinan, China.
+  </p>
+</div>
+
+<div id="news-20260115" class="news-entry">
+  <h3><span class="news-tag recruitment">Recruitment</span> Open Positions</h3>
+  <p>
+    We are recruiting <strong>Ph.D. students and postdoctoral researchers</strong>
+    in combinatorics and graph theory.
+    Interested applicants are welcome to contact us by email.
+  </p>
+</div>
 
 ---
 
+<!--
 ### 2025
 
-- <span class="news-tag paper">Paper</span>  
-  *“Another Paper Title”* has been published in  
-  *Journal Name*, 2025.
+<div id="news-20251001" class="news-entry">
+  <h3><span class="news-tag paper">Paper</span> Paper Published</h3>
+  <p>
+    <em>“Another Paper Title”</em> has been published in
+    <em>Journal Name</em>, 2025.
+  </p>
+</div>
 
-- <span class="news-tag award">Award</span>  
-  One of our group members received the  
-  *Outstanding Graduate Student Award*.
+<div id="news-20250901" class="news-entry">
+  <h3><span class="news-tag award">Award</span> Student Award</h3>
+  <p>
+    One of our group members received the
+    <em>Outstanding Graduate Student Award</em>.
+  </p>
+</div>
 
-- <span class="news-tag member">Member</span>  
-  We warmly welcome **Name** to join our group as a Ph.D. student.
-
----
+<div id="news-20250801" class="news-entry">
+  <h3><span class="news-tag member">Member</span> New Group Member</h3>
+  <p>
+    We warmly welcome <strong>Name</strong> to join our group as a Ph.D. student.
+  </p>
+</div>
 
 ### 2024
 
-- <span class="news-tag conference">Conference</span>  
-  Members of our group participated in  
-  *International Workshop on Discrete Mathematics*,  
-  April 2024, Shanghai, China.
+<div id="news-20240401" class="news-entry">
+  <h3><span class="news-tag conference">Conference</span> International Workshop on Discrete Mathematics</h3>
+  <p>
+    Members of our group participated in the
+    <em>International Workshop on Discrete Mathematics</em>,
+    April 2024, Shanghai, China.
+  </p>
+</div>
+-->
