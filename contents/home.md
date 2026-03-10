@@ -2,7 +2,7 @@
 Welcome to the homepage of the <strong>SDU Combinatorics Group</strong>, led by
 Prof. <strong><a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang</a></strong>.
 Prof. <strong><a href="https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm" target="_blank" rel="noopener">Jin Yan</a></strong>.
-Prof. <strong><a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm" target="_blank" rel="noopener">DongLei Yang</a></strong>.
+and Prof. <strong><a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm" target="_blank" rel="noopener">DongLei Yang</a></strong>.
 </p>
 
 <div class="home-layout">
