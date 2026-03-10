@@ -436,6 +436,8 @@
 
                 const zoomMeetingId = "632 7868 8120";
                 const zoomPasscode = "SDUCOMB";
+                const zoomUrl = "https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1";
+                
 
                 const cardHtml = `
                     <div id="abstract-card" class="abstract-card">
@@ -451,8 +453,13 @@
                         ${data.bio ? `<div class="abstract-label">Introduction</div><div class="bio-content">${rawHtml(data.bio, '')}</div>` : ''}
 
                         <div class="zoom-info">
-                            <strong>Zoom Meeting:</strong>             &nbsp;&nbsp;&nbsp;&nbsp;            ID: ${zoomMeetingId}  &nbsp;&nbsp;&nbsp;&nbsp;    Password: ${zoomPasscode}
-                        </div>
+    <strong>Zoom Meeting:</strong>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    ID:
+    <a href="${zoomUrl}" target="_blank" rel="noopener">${zoomMeetingId}</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    Password: ${zoomPasscode}
+</div>
                     </div>
                 `;
 
