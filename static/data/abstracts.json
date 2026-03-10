@@ -1,0 +1,18 @@
+{
+    "2601": {
+        "name": "Jørgen Bang-Jensen",
+        "title": " Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs",
+        "date": "2026-03-18: 17:00-18:00 (UTC +8)",
+        "abstract": "The <strong>dichromatic number</strong>  of a digraph $D$ is the minimum number of sets in a partition $V_1,V_2,\\ldots,V_k$ of $V(D)$ with the property that each of the induced subdigraphs $D[V_i]$ is acyclic. This parameter has been studied intensively in the last decades. Recently we generalized the concept of dichromatic number to <strong> acyclic dichromatic number</strong>, where we seek a vertex partition as above but we also require that each of the bipartite digraphs induced by the arcs between $V_i$ and $V_j$ is acyclic for all distinct indices $i$, $j$. This new refinement of dichromatic number leads many interesting  new questions. In particular, while the dichromatic number of a bipartite digraph is obviously at most $2$, for every integer $K$,  there exist  bipartite digraphs whose acyclic dichromatic number is at least $K$ and it is even NP-complete to decide whether a given bipartite digraph has acyclic dichromatic number $2$. We discuss other differences between this new parameter and the dichromatic number. One of these is that while it is NP-complete to decide whether a tournament is dichromatic number $2$, there exists a polynomial algorithm for finding an acyclic dicolouring using $2$ colours if one exists. <br><br> We also discuss several variants of the well-known linkage problems for digraphs. A (di)graph $H$ is $k$-linked if, for every choice of distinct vertices $s_1,\\ldots,s_k,t_1,\\ldots,t_k$ there exist $k$ disjoint (directed) paths $P_1,\\ldots,P_k$ in $H$ such that $P_i$ is an $(s_i,t_i)$-path. While the existence of $P_1,\\ldots,P_k$ can be checked in polynomial time for undirected graphs, the  problem is already NP-complete for $k=2$ in digraphs and there is no degree $K$ of strong connectivity which guarantees that a $K$-strong digraph $D$ has the desired paths. We discuss  a number of linkage problems where we either relax the orientation of some of the paths or the number of terminals that can be linked.",
+        "bio": "Jørgen Bang-Jensen is a Professor of Algorithms in the Department of Mathematics and Computer Science (IMADA) at the University of Southern Denmark (SDU) in Odense, Denmark. His research focuses on discrete mathematics, graph theory, combinatorial optimization, and algorithms, with a strong emphasis on digraphs. He has published over 140 papers and 2 monographs. He is the co-author (with Gregory Gutin) of the definitive monograph <em> Digraphs: Theory, Algorithms and Applications</em>. The book has amassed more than 1,800 citations on Google Scholar, making it a highly influential text in graph theory and discrete mathematics."
+    },
+     "2602": {
+        "name": "efs",
+        "title": " Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs",
+        "date": "2025-03-18",
+        "abstract": "444",
+        "bio": "Zhiwei Zhang, a PhD in Shandong University, he is intersted in digraphs and decompostion."
+    }
+
+}
+    
