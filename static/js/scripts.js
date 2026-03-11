@@ -136,23 +136,161 @@ async function waitForImagesInNode(root) {
     }));
 }
 
-async function copyBlobToClipboard(blob) {
-    if (!window.ClipboardItem || !navigator.clipboard || !navigator.clipboard.write) {
-        throw new Error('Clipboard image write is not supported.');
-    }
+function isWeChatBrowser() {
+    return /MicroMessenger/i.test(navigator.userAgent);
+}
 
+function canWriteImageToClipboard() {
+    return !!(
+        window.isSecureContext &&
+        navigator.clipboard &&
+        typeof navigator.clipboard.write === 'function' &&
+        window.ClipboardItem
+    );
+}
+
+async function tryWriteBlobToClipboard(blob) {
     await navigator.clipboard.write([
         new ClipboardItem({ [blob.type]: blob })
     ]);
 }
 
-async function captureNodeToClipboard(node, button, title = 'Screenshot') {
-    if (!node) return;
+async function tryNativeShare(blob, fileName = 'screenshot.png') {
+    if (!navigator.canShare || !navigator.share) return false;
+
+    try {
+        const file = new File([blob], fileName, { type: blob.type });
+        if (navigator.canShare({ files: [file] })) {
+            await navigator.share({
+                files: [file],
+                title: 'Screenshot'
+            });
+            return true;
+        }
+    } catch (err) {
+        console.warn('Native share failed:', err);
+    }
+    return false;
+}
+
+function showImagePreviewOverlay(blob, tipText = 'Press and hold the image to save or share.') {
+    const url = URL.createObjectURL(blob);
+
+    const overlay = document.createElement('div');
+    overlay.style.position = 'fixed';
+    overlay.style.inset = '0';
+    overlay.style.background = 'rgba(0,0,0,0.75)';
+    overlay.style.zIndex = '99999';
+    overlay.style.display = 'flex';
+    overlay.style.flexDirection = 'column';
+    overlay.style.alignItems = 'center';
+    overlay.style.justifyContent = 'center';
+    overlay.style.padding = '1rem';
+
+    const tip = document.createElement('div');
+    tip.textContent = tipText;
+    tip.style.color = '#fff';
+    tip.style.fontSize = '1rem';
+    tip.style.marginBottom = '1rem';
+    tip.style.textAlign = 'center';
+    tip.style.maxWidth = '90%';
+
+    const img = document.createElement('img');
+    img.src = url;
+    img.alt = 'Screenshot Preview';
+    img.style.maxWidth = '95%';
+    img.style.maxHeight = '75vh';
+    img.style.borderRadius = '12px';
+    img.style.boxShadow = '0 0.5rem 1rem rgba(0,0,0,0.25)';
+    img.style.background = '#fff';
+
+    const closeBtn = document.createElement('button');
+    closeBtn.textContent = 'Close';
+    closeBtn.style.marginTop = '1rem';
+    closeBtn.style.padding = '0.5rem 1rem';
+    closeBtn.style.border = 'none';
+    closeBtn.style.borderRadius = '8px';
+    closeBtn.style.cursor = 'pointer';
+
+    function cleanup() {
+        URL.revokeObjectURL(url);
+        overlay.remove();
+    }
+
+    closeBtn.addEventListener('click', cleanup);
+    overlay.addEventListener('click', (e) => {
+        if (e.target === overlay) cleanup();
+    });
+
+    overlay.appendChild(tip);
+    overlay.appendChild(img);
+    overlay.appendChild(closeBtn);
+    document.body.appendChild(overlay);
+}
+
+async function shareImageBlob(blob, options = {}) {
+    const {
+        fileName = 'screenshot.png',
+        successMessage = '✅ Screenshot copied to clipboard.'
+    } = options;
+
+    if (!isWeChatBrowser() && canWriteImageToClipboard()) {
+        try {
+            await tryWriteBlobToClipboard(blob);
+            alert(successMessage);
+            return;
+        } catch (err) {
+            console.warn('Clipboard image write failed:', err);
+        }
+    }
+
+    const shared = await tryNativeShare(blob, fileName);
+    if (shared) return;
+
+    showImagePreviewOverlay(
+        blob,
+        isWeChatBrowser()
+            ? 'In WeChat, please long-press the image to save or share.'
+            : 'Press and hold the image to save or share.'
+    );
+}
+
+async function captureNodeToBlob(node, options = {}) {
+    const { needMath = true } = options;
+
+    if (!node) {
+        throw new Error('Target node not found.');
+    }
 
     if (!window.domtoimage) {
-        alert('Screenshot library is not loaded.');
-        return;
+        throw new Error('Screenshot library is not loaded.');
     }
+
+    if (document.fonts && document.fonts.ready) {
+        await document.fonts.ready;
+    }
+
+    if (needMath && window.MathJax && typeof MathJax.typesetPromise === 'function') {
+        await MathJax.typesetPromise([node]).catch(console.error);
+    }
+
+    await waitForImagesInNode(node);
+    await new Promise(resolve => requestAnimationFrame(resolve));
+
+    return await domtoimage.toBlob(node, {
+        bgcolor: '#ffffff',
+        style: {
+            transform: 'none'
+        }
+    });
+}
+
+async function captureNodeAndShare(node, button, options = {}) {
+    const {
+        title = 'Screenshot',
+        fileName = 'screenshot.png',
+        needMath = true
+    } = options;
 
     const originalHtml = button ? button.innerHTML : '';
 
@@ -162,65 +300,13 @@ async function captureNodeToClipboard(node, button, title = 'Screenshot') {
             button.innerHTML = '<i class="bi bi-hourglass-split"></i>';
         }
 
-        if (document.fonts && document.fonts.ready) {
-            await document.fonts.ready;
-        }
-
-        if (window.MathJax && typeof MathJax.typesetPromise === 'function') {
-            await MathJax.typesetPromise([node]).catch(console.error);
-        }
-
-        await waitForImagesInNode(node);
-        await new Promise(resolve => requestAnimationFrame(resolve));
-
-        const blob = await domtoimage.toBlob(node, {
-            bgcolor: '#ffffff',
-            style: {
-                transform: 'none'
-            }
+        const blob = await captureNodeToBlob(node, { needMath });
+        await shareImageBlob(blob, {
+            fileName,
+            successMessage: '✅ Screenshot copied to clipboard.'
         });
-
-        try {
-            await copyBlobToClipboard(blob);
-            alert('✅ Screenshot copied to clipboard.');
-        } catch (err) {
-            const url = URL.createObjectURL(blob);
-            const win = window.open();
-            if (win) {
-                win.document.write(`
-                    <!DOCTYPE html>
-                    <html lang="en">
-                    <head>
-                        <meta charset="utf-8">
-                        <title>${title}</title>
-                        <style>
-                            body {
-                                margin: 0;
-                                padding: 1rem;
-                                background: #f5f5f5;
-                                text-align: center;
-                            }
-                            img {
-                                max-width: 100%;
-                                height: auto;
-                                background: #fff;
-                                border-radius: 12px;
-                                box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15);
-                            }
-                        </style>
-                    </head>
-                    <body>
-                        <img src="${url}" alt="${title}">
-                    </body>
-                    </html>
-                `);
-                win.document.close();
-            } else {
-                alert('The screenshot was generated, but your browser blocked the new window.');
-            }
-        }
     } catch (error) {
-        console.error('Failed to generate screenshot:', error);
+        console.error(`Failed to generate ${title}:`, error);
         alert('Failed to generate screenshot. Please check the console for details.');
     } finally {
         if (button) {
@@ -247,7 +333,11 @@ function addNewsShareButtons(targetId = 'news-md') {
         btn.addEventListener('click', async (e) => {
             e.preventDefault();
             e.stopPropagation();
-            await captureNodeToClipboard(entry, btn, 'News Screenshot');
+            await captureNodeAndShare(entry, btn, {
+                title: 'News Screenshot',
+                fileName: 'news.png',
+                needMath: true
+            });
         });
 
         entry.appendChild(btn);
