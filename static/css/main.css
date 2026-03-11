@@ -12,7 +12,6 @@ body {
     --h-title-color: #3948d2;
 }
 
-/* === Header / Footer === */
 .header {
     border-bottom: solid 2px var(--bs-blue);
     z-index: 10000;
@@ -22,7 +21,6 @@ body {
     background-color: var(--h-title-color);
 }
 
-/* === Top Section === */
 .top-section {
     position: relative;
     background-position: center;
@@ -47,26 +45,6 @@ body {
     background: rgba(0, 0, 0, 0.5);
 }
 
-.top-bg {
-    background-position: center;
-    background-size: fill;
-    width: 100%;
-    height: 100%;
-}
-
-.top-bg::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.4);
-}
-
-.on-top {
-    position: relative;
-    z-index: 10000;
-}
-
-/* === Section Titles / Body === */
 section header h2 {
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
@@ -88,7 +66,26 @@ section .main-body {
     background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
 }
 
-/* === Avatar === */
+.on-top {
+    position: relative;
+    z-index: 10000;
+}
+
+.top-bg {
+    background-position: center;
+    background-size: fill;
+    width: 100%;
+    height: 100%;
+}
+
+.top-bg::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+/* Avatar */
 #avatar {
     position: relative;
     height: 0;
@@ -104,13 +101,7 @@ section .main-body {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 991px) {
-    #avatar {
-        margin: 0;
-    }
-}
-
-/* === Strong Weight Fix === */
+/* Fix strong */
 #members-md strong,
 #home-md strong,
 #conferences-md strong,
@@ -120,7 +111,7 @@ section .main-body {
     font-weight: 700 !important;
 }
 
-/* === Item With Poster === */
+/* Item with poster */
 .item-with-poster {
     display: flex;
     align-items: flex-start;
@@ -139,7 +130,7 @@ section .main-body {
     box-shadow: 0 0 10px rgba(0, 0, 0, .15);
 }
 
-/* === News tags === */
+/* News tags */
 .news-tag {
     display: inline-block;
     font-weight: 600;
@@ -184,7 +175,7 @@ section .main-body {
     background: #ece8ff;
 }
 
-/* === Seminar cards === */
+/* Seminar item */
 .seminar-item {
     display: grid;
     grid-template-columns: 120px 1fr;
@@ -218,7 +209,7 @@ section .main-body {
     box-sizing: border-box;
 }
 
-/* === Home page layout === */
+/* Home layout */
 .home-welcome {
     font-size: 1.1rem;
     line-height: 1.8;
@@ -272,7 +263,7 @@ section .main-body {
     box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.05);
 }
 
-/* === News box / list === */
+/* News box */
 .news-box {
     background: #f8fbff;
     border: 1px solid #d7e6f7;
@@ -330,7 +321,7 @@ section .main-body {
     text-decoration: underline;
 }
 
-/* === Faculty cards === */
+/* Faculty */
 .faculty-row {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -363,7 +354,7 @@ section .main-body {
     text-decoration: underline;
 }
 
-/* === News entry share button === */
+/* News entry */
 .news-entry {
     position: relative;
     padding: 1rem 3rem 1rem 1rem;
@@ -395,21 +386,15 @@ section .main-body {
     cursor: wait;
 }
 
-/* === Keep mobile close to desktop === */
-@media (max-width: 900px) {
+/* Keep mobile like a scaled desktop page */
+@media (max-width: 991px) {
     body {
-        font-size: 1rem;
+        font-size: 0.98rem;
     }
 
-    .item-with-poster .item-poster img,
-    .item-poster img {
-        width: 120px;
-        max-width: none;
-    }
-
-    .faculty-photo {
-        width: 150px;
-        height: 210px;
+    section .main-body {
+        font-size: 1.15rem;
+        line-height: 2.1rem;
     }
 
     .home-layout {
@@ -418,5 +403,15 @@ section .main-body {
 
     .home-news {
         min-width: 320px;
+    }
+
+    .item-with-poster .item-poster img,
+    .item-poster img {
+        width: 120px;
+    }
+
+    .faculty-photo {
+        width: 150px;
+        height: 210px;
     }
 }
