@@ -325,100 +325,7 @@
                 );
             }
 
-            async function copyImageBlobToClipboard(blob) {
-                if (!window.ClipboardItem || !navigator.clipboard || !navigator.clipboard.write) {
-                    throw new Error('Clipboard image write is not supported.');
-                }
-
-                await navigator.clipboard.write([
-                    new ClipboardItem({ [blob.type]: blob })
-                ]);
-            }
-
-            async function captureElementFast(element, button, options = {}) {
-                const {
-                    needMath = false,
-                    successMessage = '✅ Screenshot copied to clipboard.',
-                    blockedMessage = 'The screenshot was generated, but your browser blocked the new window.'
-                } = options;
-
-                if (!element) return;
-
-                const originalText = button ? button.innerHTML : '';
-
-                try {
-                    if (button) {
-                        button.disabled = true;
-                        button.innerHTML = `<i class="bi bi-hourglass-split"></i> Generating...`;
-                    }
-
-                    if (needMath && window.MathJax && window.MathJax.typesetPromise) {
-                        await MathJax.typesetPromise([element]);
-                    }
-
-                    if (document.fonts && document.fonts.ready) {
-                        await document.fonts.ready;
-                    }
-
-                    await waitForImages(element);
-                    await new Promise(resolve => requestAnimationFrame(resolve));
-
-                    const blob = await domtoimage.toBlob(element, {
-                        bgcolor: '#ffffff',
-                        style: {
-                            transform: 'none'
-                        }
-                    });
-
-                    try {
-                        await copyImageBlobToClipboard(blob);
-                        alert(successMessage);
-                    } catch (clipboardError) {
-                        const url = URL.createObjectURL(blob);
-                        const newWindow = window.open();
-                        if (newWindow) {
-                            newWindow.document.write(`
-                                <!DOCTYPE html>
-                                <html lang="en">
-                                <head>
-                                    <meta charset="utf-8">
-                                    <title>Abstract Image</title>
-                                    <style>
-                                        body {
-                                            margin: 0;
-                                            padding: 1rem;
-                                            background: #f5f5f5;
-                                            text-align: center;
-                                        }
-                                        img {
-                                            max-width: 100%;
-                                            height: auto;
-                                            box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15);
-                                            border-radius: 0.75rem;
-                                            background: white;
-                                        }
-                                    </style>
-                                </head>
-                                <body>
-                                    <img src="${url}" alt="Screenshot">
-                                </body>
-                                </html>
-                            `);
-                            newWindow.document.close();
-                        } else {
-                            alert(blockedMessage);
-                        }
-                    }
-                } catch (error) {
-                    console.error('Failed to generate screenshot:', error);
-                    alert('Failed to generate screenshot. Please check the console for details.');
-                } finally {
-                    if (button) {
-                        button.disabled = false;
-                        button.innerHTML = originalText;
-                    }
-                }
-            }
+    
 
             const urlParams = new URLSearchParams(window.location.search);
             const id = urlParams.get('id');
@@ -494,9 +401,12 @@
 
                 copyScreenshotBtn.addEventListener('click', async function () {
                     const card = document.getElementById('abstract-card');
-                    await captureElementFast(card, this, { needMath: false });
-                });
-
+                        await captureNodeAndShare(card, this, {
+                        title: 'Abstract Screenshot',
+                        fileName: 'abstract.png',
+                        needMath: false
+                        });
+            });
             } catch (error) {
                 if (loadingSpinner) loadingSpinner.style.display = 'none';
                 container.innerHTML = `
