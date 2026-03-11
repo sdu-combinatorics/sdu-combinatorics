@@ -15,7 +15,7 @@
     <!-- Bootstrap Icons (LOCAL) -->
     <link rel="stylesheet" href="static/vendor/bootstrap-icons/bootstrap-icons.css" />
 
-    <!-- System fonts (No Google Fonts) -->
+    <!-- System fonts -->
     <style>
         :root {
             --bs-font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
@@ -52,28 +52,23 @@
 </head>
 
 <body>
-    <!-- Navigation-->
-    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
+    <!-- Navigation -->
+    <nav class="header navbar navbar-expand navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
             <a id="page-top-title" class="navbar-brand fw-bold" href="index.html">SDU Comb Group</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-                    aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                MENU <i class="bi bi-list"></i>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-               <!-- <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                    <li class="nav-item"><a class="nav-link me-lg-arnav-link me-lg-3" href="index.html">HOME</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3" href="workshops.html">WORKSHOPS</a></li>
-                     <li class="nav-item"><a class="nav-link me-lg-3" href="conferences.html">CONFERENCES</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3" href="members.html">MEMBERS</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3" href="news.html">NEWS</a></li>
-                </ul>-->
+
+            <div class="collapse navbar-collapse show" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                                <li class="nav-item"><a class="nav-link me-lg-arnav-link me-lg-3" href="index.html">HOME</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3" href="news.html">NEWS</a></li>
-            </ul>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="index.html">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="news.html">NEWS</a>
+                    </li>
+                </ul>
             </div>
         </div>
     </nav>
@@ -90,16 +85,11 @@
     <!-- Seminars -->
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="seminars">
         <div class="container px-5">
-           <!-- <header>
-                <h2 id="seminars-subtitle">
-                    <i class="bi bi-easel"></i>&nbsp;SEMINARS
-                </h2>
-            </header>-->
             <div class="main-body" id="seminars-md"></div>
         </div>
     </section>
 
-    <!-- Footer (clean) -->
+    <!-- Footer -->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
             <div class="text-white-50 small">
@@ -107,6 +97,16 @@
             </div>
         </div>
     </footer>
+
+    <script>
+        (function () {
+            const copyrightEl = document.getElementById('copyright-text');
+            if (copyrightEl) {
+                const year = new Date().getFullYear();
+                copyrightEl.innerHTML = `© ${year} SDU Combinatorics Group. All rights reserved.`;
+            }
+        })();
+    </script>
 </body>
 
 </html>
