@@ -139,7 +139,7 @@ section .main-body {
     box-shadow: 0 0 10px rgba(0, 0, 0, .15);
 }
 
-/* === News Tags === */
+/* === News tags === */
 .news-tag {
     display: inline-block;
     font-weight: 600;
@@ -184,7 +184,7 @@ section .main-body {
     background: #ece8ff;
 }
 
-/* === Seminar Cards === */
+/* === Seminar cards === */
 .seminar-item {
     display: grid;
     grid-template-columns: 120px 1fr;
@@ -218,7 +218,7 @@ section .main-body {
     box-sizing: border-box;
 }
 
-/* === Home Page Layout === */
+/* === Home page layout === */
 .home-welcome {
     font-size: 1.1rem;
     line-height: 1.8;
@@ -272,7 +272,7 @@ section .main-body {
     box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.05);
 }
 
-/* === News Box / News List === */
+/* === News box / list === */
 .news-box {
     background: #f8fbff;
     border: 1px solid #d7e6f7;
@@ -330,7 +330,7 @@ section .main-body {
     text-decoration: underline;
 }
 
-/* === Faculty Cards === */
+/* === Faculty cards === */
 .faculty-row {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -363,7 +363,7 @@ section .main-body {
     text-decoration: underline;
 }
 
-/* === News Entry Share Button === */
+/* === News entry share button === */
 .news-entry {
     position: relative;
     padding: 1rem 3rem 1rem 1rem;
