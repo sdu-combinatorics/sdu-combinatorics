@@ -211,24 +211,12 @@
     <nav class="header navbar navbar-expand navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
             <a class="navbar-brand fw-bold" href="index.html">SDU Comb Group</a>
-            <!--<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                MENU <i class="bi bi-list"></i>
-            </button>-->
             <div class="collapse navbar-collapse" id="navbarResponsive">
-                               <!-- <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                    <li class="nav-item"><a class="nav-link me-lg-arnav-link me-lg-3" href="index.html">HOME</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3" href="workshops.html">WORKSHOPS</a></li>
-                     <li class="nav-item"><a class="nav-link me-lg-3" href="conferences.html">CONFERENCES</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3" href="members.html">MEMBERS</a></li>
-                    <li class="nav-item"><a class="nav-link me-lg-3" href="news.html">NEWS</a></li>
-                </ul>-->
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-            <li class="nav-item"><a class="nav-link me-lg-arnav-link me-lg-3" href="index.html">HOME</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="index.html">HOME</a></li>
                     <li class="nav-item"><a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a></li>
                     <li class="nav-item"><a class="nav-link me-lg-3" href="news.html">NEWS</a></li>
-            </ul>
+                </ul>
             </div>
         </div>
     </nav>
@@ -325,7 +313,165 @@
                 );
             }
 
-    
+            function isWeChatBrowser() {
+                return /MicroMessenger/i.test(navigator.userAgent);
+            }
+
+            function canWriteImageToClipboard() {
+                return !!(
+                    window.isSecureContext &&
+                    navigator.clipboard &&
+                    typeof navigator.clipboard.write === 'function' &&
+                    window.ClipboardItem
+                );
+            }
+
+            async function tryWriteBlobToClipboard(blob) {
+                await navigator.clipboard.write([
+                    new ClipboardItem({ [blob.type]: blob })
+                ]);
+            }
+
+            async function tryNativeShare(blob, fileName = 'abstract.png') {
+                if (!navigator.canShare || !navigator.share) return false;
+
+                try {
+                    const file = new File([blob], fileName, { type: blob.type });
+                    if (navigator.canShare({ files: [file] })) {
+                        await navigator.share({
+                            files: [file],
+                            title: 'Abstract Screenshot'
+                        });
+                        return true;
+                    }
+                } catch (err) {
+                    console.warn('Native share failed:', err);
+                }
+
+                return false;
+            }
+
+            function showImagePreviewOverlay(blob, tipText = 'Press and hold the image to save or share.') {
+                const url = URL.createObjectURL(blob);
+
+                const overlay = document.createElement('div');
+                overlay.style.position = 'fixed';
+                overlay.style.inset = '0';
+                overlay.style.background = 'rgba(0,0,0,0.75)';
+                overlay.style.zIndex = '99999';
+                overlay.style.display = 'flex';
+                overlay.style.flexDirection = 'column';
+                overlay.style.alignItems = 'center';
+                overlay.style.justifyContent = 'center';
+                overlay.style.padding = '1rem';
+
+                const tip = document.createElement('div');
+                tip.textContent = tipText;
+                tip.style.color = '#fff';
+                tip.style.fontSize = '1rem';
+                tip.style.marginBottom = '1rem';
+                tip.style.textAlign = 'center';
+                tip.style.maxWidth = '90%';
+
+                const img = document.createElement('img');
+                img.src = url;
+                img.alt = 'Abstract Screenshot Preview';
+                img.style.maxWidth = '95%';
+                img.style.maxHeight = '75vh';
+                img.style.borderRadius = '12px';
+                img.style.boxShadow = '0 0.5rem 1rem rgba(0,0,0,0.25)';
+                img.style.background = '#fff';
+
+                const closeBtn = document.createElement('button');
+                closeBtn.textContent = 'Close';
+                closeBtn.style.marginTop = '1rem';
+                closeBtn.style.padding = '0.5rem 1rem';
+                closeBtn.style.border = 'none';
+                closeBtn.style.borderRadius = '8px';
+                closeBtn.style.cursor = 'pointer';
+
+                function cleanup() {
+                    URL.revokeObjectURL(url);
+                    overlay.remove();
+                }
+
+                closeBtn.addEventListener('click', cleanup);
+                overlay.addEventListener('click', (e) => {
+                    if (e.target === overlay) cleanup();
+                });
+
+                overlay.appendChild(tip);
+                overlay.appendChild(img);
+                overlay.appendChild(closeBtn);
+                document.body.appendChild(overlay);
+            }
+
+            async function shareImageBlob(blob, options = {}) {
+                const {
+                    fileName = 'abstract.png',
+                    successMessage = '✅ Screenshot copied to clipboard.'
+                } = options;
+
+                if (!isWeChatBrowser() && canWriteImageToClipboard()) {
+                    try {
+                        await tryWriteBlobToClipboard(blob);
+                        alert(successMessage);
+                        return;
+                    } catch (err) {
+                        console.warn('Clipboard image write failed:', err);
+                    }
+                }
+
+                const shared = await tryNativeShare(blob, fileName);
+                if (shared) return;
+
+                showImagePreviewOverlay(
+                    blob,
+                    isWeChatBrowser()
+                        ? 'In WeChat, please long-press the image to save or share.'
+                        : 'Press and hold the image to save or share.'
+                );
+            }
+
+            async function captureAbstractAndShare(node, button) {
+                if (!node) return;
+
+                const originalText = button ? button.innerHTML : '';
+
+                try {
+                    if (button) {
+                        button.disabled = true;
+                        button.innerHTML = '<i class="bi bi-hourglass-split"></i> Generating...';
+                    }
+
+                    if (document.fonts && document.fonts.ready) {
+                        await document.fonts.ready;
+                    }
+
+                    await waitForImages(node);
+                    await new Promise(resolve => requestAnimationFrame(resolve));
+
+                    const blob = await domtoimage.toBlob(node, {
+                        bgcolor: '#ffffff',
+                        style: {
+                            transform: 'none'
+                        }
+                    });
+
+                    await shareImageBlob(blob, {
+                        fileName: 'abstract.png',
+                        successMessage: '✅ Screenshot copied to clipboard.'
+                    });
+                } catch (error) {
+                    console.error('Failed to generate screenshot:', error);
+                    alert('Failed to generate screenshot. Please check the console for details.');
+                } finally {
+                    if (button) {
+                        button.disabled = false;
+                        button.innerHTML = originalText;
+                    }
+                }
+            }
 
             const urlParams = new URLSearchParams(window.location.search);
             const id = urlParams.get('id');
@@ -401,12 +547,8 @@
 
                 copyScreenshotBtn.addEventListener('click', async function () {
                     const card = document.getElementById('abstract-card');
-                        await captureNodeAndShare(card, this, {
-                        title: 'Abstract Screenshot',
-                        fileName: 'abstract.png',
-                        needMath: false
-                        });
-            });
+                    await captureAbstractAndShare(card, this);
+                });
             } catch (error) {
                 if (loadingSpinner) loadingSpinner.style.display = 'none';
                 container.innerHTML = `
