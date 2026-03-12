@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1400" />
+
+    <meta name="description" content="Abstract - SDU Combinatorics Group" />
+    <meta name="author" content="SDU Combinatorics Group" />
+    <title>Abstract | SDU Combinatorics Group</title>
+
+    <!-- Icon -->
+    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
+
+    <!-- Bootstrap Icons (CDN) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- System fonts -->
+    <style>
+        :root {
+            --bs-font-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
+                Arial, sans-serif;
+
+            --theme-blue-dark: #1e3c72;
+            --theme-blue: #2a5298;
+            --theme-blue-soft: #eef4ff;
+            --theme-blue-muted: #6c757d;
+        }
+    </style>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="static/css/styles.css" />
+    <link rel="stylesheet" href="static/css/main.css" />
+
+    <!-- JS -->
+    <script src="static/js/bootstrap.bundle.min.js"></script>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            },
+            svg: {
+                fontCache: 'local'
+            },
+            startup: {
+                typeset: true
+            }
+        };
+    </script>
+    <script defer id="MathJax-script"
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+
+    <!-- Screenshot library -->
+    <script src="https://cdn.jsdelivr.net/npm/dom-to-image-more@3.7.2/dist/dom-to-image-more.min.js"></script>
+
+    <!-- Core JS -->
+    <script src="static/js/scripts.js"></script>
+
+    <style>
+        .abstract-card {
+            background: #ffffff;
+            border-radius: 1rem;
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            position: relative;
+            border-top: 4px solid var(--theme-blue);
+            color: #2b2b2b;
+        }
+
+        .abstract-card .name {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--theme-blue-dark);
+            line-height: 1.25;
+            padding-right: 28%;
+        }
+
+        .abstract-card .title {
+            font-size: 1.5rem;
+            font-style: italic;
+            color: var(--theme-blue);
+            margin-top: 0.5rem;
+            line-height: 1.4;
+            padding-right: 28%;
+        }
+
+        .abstract-card .abstract-label {
+            font-weight: 700;
+            color: var(--theme-blue-dark);
+            border-bottom: 2px solid var(--theme-blue);
+            display: inline-block;
+            margin-bottom: 1rem;
+            padding-bottom: 0.15rem;
+        }
+
+        .abstract-card .abstract-content,
+        .abstract-card .bio-content {
+            line-height: 1.8;
+            word-break: break-word;
+        }
+
+        .abstract-card .bio-content p,
+        .abstract-card .abstract-content p {
+            margin-bottom: 1rem;
+        }
+
+        .abstract-card .meta-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem 1.5rem;
+            align-items: center;
+            color: var(--theme-blue-muted);
+            margin-top: 0.75rem;
+            margin-bottom: 1.5rem;
+            font-size: 0.98rem;
+            line-height: 1.7;
+        }
+
+        .abstract-card .meta-item {
+            white-space: nowrap;
+        }
+
+        .abstract-card .meta-item strong {
+            color: var(--theme-blue-dark);
+            font-weight: 700;
+        }
+
+        .abstract-card .meta-item a {
+            color: var(--theme-blue);
+            text-decoration: none;
+        }
+
+        .abstract-card .meta-item a:hover {
+            text-decoration: underline;
+        }
+
+        .btn-outline-primary {
+            border-color: var(--theme-blue);
+            color: var(--theme-blue);
+        }
+
+        .btn-outline-primary:hover {
+            background-color: var(--theme-blue);
+            border-color: var(--theme-blue);
+            color: #fff;
+        }
+
+        .card-logo {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            width: 28%;
+            max-width: 220px;
+            height: auto;
+        }
+
+        /* MathJax stability inside screenshot card */
+        #abstract-card mjx-container {
+            margin: 0;
+        }
+
+        #abstract-card mjx-container[jax="SVG"] {
+            overflow: visible !important;
+        }
+
+        #abstract-card mjx-container[jax="SVG"] > svg {
+            vertical-align: middle !important;
+        }
+
+        #abstract-card .MathJax_Display,
+        #abstract-card mjx-container[display="true"] {
+            margin: 1rem 0 !important;
+        }
+
+        @media (max-width: 768px) {
+            .abstract-card {
+                padding: 1.5rem;
+            }
+
+            .abstract-card .name,
+            .abstract-card .title {
+                padding-right: 0;
+            }
+
+            .card-logo {
+                position: static;
+                display: block;
+                width: 120px;
+                max-width: 40%;
+                margin: 0 0 1rem auto;
+            }
+
+            .abstract-card .meta-row {
+                gap: 0.5rem 1rem;
+            }
+
+            .abstract-card .meta-item {
+                white-space: normal;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <nav class="header navbar navbar-expand navbar-light fixed-top shadow-sm" id="mainNav">
+        <div class="container px-5">
+            <a class="navbar-brand fw-bold" href="index.html">SDU Comb Group</a>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="index.html">HOME</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="news.html">NEWS</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Top Section -->
+    <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
+        <div class="top-section-content">
+            <div class="container px-5">
+                <h2 class="text-white display-3 lh-1 font-alt">&nbsp;</h2>
+            </div>
+        </div>
+    </section>
+
+    <!-- Abstract Content -->
+    <section class="bg-gradient-primary-to-secondary-gray py-5" id="abstract">
+        <div class="container px-5">
+            <div class="mb-4">
+                <a href="seminars.html" class="btn btn-outline-secondary ms-2">
+                    All seminars
+                </a>
+            </div>
+
+            <div id="abstract-container">
+                <div class="text-center py-5" id="loading-spinner">
+                    <div class="spinner-border text-primary" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="d-flex gap-3 justify-content-center mt-4" id="action-buttons" style="display: none;">
+                <button class="btn btn-outline-primary btn-lg" id="copy-screenshot-btn">
+                    Share
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-bottom text-center py-5">
+        <div class="container px-5">
+            <div class="text-white-50 small">
+                <div id="copyright-text" class="mb-2"></div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        (async function () {
+            function escapeHtml(unsafe) {
+                if (unsafe === null || unsafe === undefined) return '';
+                return String(unsafe)
+                    .replace(/&/g, "&amp;")
+                    .replace(/</g, "&lt;")
+                    .replace(/>/g, "&gt;")
+                    .replace(/"/g, "&quot;")
+                    .replace(/'/g, "&#039;");
+            }
+
+            function rawHtml(value, fallback = '') {
+                return value === null || value === undefined || value === '' ? fallback : value;
+            }
+
+            async function waitForImages(root) {
+                const images = Array.from(root.querySelectorAll('img'));
+                await Promise.all(images.map(img => {
+                    if (img.complete && img.naturalWidth > 0) return Promise.resolve();
+                    return new Promise(resolve => {
+                        img.addEventListener('load', resolve, { once: true });
+                        img.addEventListener('error', resolve, { once: true });
+                    });
+                }));
+            }
+
+            async function waitForMathReady(node) {
+                if (window.MathJax && window.MathJax.startup && window.MathJax.startup.promise) {
+                    await window.MathJax.startup.promise;
+                }
+
+                if (window.MathJax && window.MathJax.typesetPromise) {
+                    await window.MathJax.typesetPromise([node]);
+                }
+
+                if (document.fonts && document.fonts.ready) {
+                    await document.fonts.ready;
+                }
+
+                await waitForImages(node);
+
+                await new Promise(resolve =>
+                    requestAnimationFrame(() =>
+                        requestAnimationFrame(resolve)
+                    )
+                );
+            }
+
+            function isWeChatBrowser() {
+                return /MicroMessenger/i.test(navigator.userAgent);
+            }
+
+            function canWriteImageToClipboard() {
+                return !!(
+                    window.isSecureContext &&
+                    navigator.clipboard &&
+                    typeof navigator.clipboard.write === 'function' &&
+                    window.ClipboardItem
+                );
+            }
+
+            async function tryWriteBlobToClipboard(blob) {
+                await navigator.clipboard.write([
+                    new ClipboardItem({ [blob.type]: blob })
+                ]);
+            }
+
+            async function tryNativeShare(blob, fileName = 'abstract.png') {
+                if (!navigator.canShare || !navigator.share) return false;
+
+                try {
+                    const file = new File([blob], fileName, { type: blob.type });
+                    if (navigator.canShare({ files: [file] })) {
+                        await navigator.share({
+                            files: [file],
+                            title: 'Abstract Screenshot'
+                        });
+                        return true;
+                    }
+                } catch (err) {
+                    console.warn('Native share failed:', err);
+                }
+
+                return false;
+            }
+
+            function showImagePreviewOverlay(blob, tipText = 'Press and hold the image to save or share.') {
+                const url = URL.createObjectURL(blob);
+
+                const overlay = document.createElement('div');
+                overlay.style.position = 'fixed';
+                overlay.style.inset = '0';
+                overlay.style.background = 'rgba(0,0,0,0.75)';
+                overlay.style.zIndex = '99999';
+                overlay.style.display = 'flex';
+                overlay.style.flexDirection = 'column';
+                overlay.style.alignItems = 'center';
+                overlay.style.justifyContent = 'center';
+                overlay.style.padding = '1rem';
+
+                const tip = document.createElement('div');
+                tip.textContent = tipText;
+                tip.style.color = '#fff';
+                tip.style.fontSize = '1rem';
+                tip.style.marginBottom = '1rem';
+                tip.style.textAlign = 'center';
+                tip.style.maxWidth = '90%';
+
+                const img = document.createElement('img');
+                img.src = url;
+                img.alt = 'Abstract Screenshot Preview';
+                img.style.maxWidth = '95%';
+                img.style.maxHeight = '75vh';
+                img.style.borderRadius = '12px';
+                img.style.boxShadow = '0 0.5rem 1rem rgba(0,0,0,0.25)';
+                img.style.background = '#fff';
+
+                const closeBtn = document.createElement('button');
+                closeBtn.textContent = 'Close';
+                closeBtn.style.marginTop = '1rem';
+                closeBtn.style.padding = '0.5rem 1rem';
+                closeBtn.style.border = 'none';
+                closeBtn.style.borderRadius = '8px';
+                closeBtn.style.cursor = 'pointer';
+
+                function cleanup() {
+                    URL.revokeObjectURL(url);
+                    overlay.remove();
+                }
+
+                closeBtn.addEventListener('click', cleanup);
+                overlay.addEventListener('click', (e) => {
+                    if (e.target === overlay) cleanup();
+                });
+
+                overlay.appendChild(tip);
+                overlay.appendChild(img);
+                overlay.appendChild(closeBtn);
+                document.body.appendChild(overlay);
+            }
+
+            async function shareImageBlob(blob, options = {}) {
+                const {
+                    fileName = 'abstract.png',
+                    successMessage = '✅ Screenshot copied to clipboard.'
+                } = options;
+
+                if (!isWeChatBrowser() && canWriteImageToClipboard()) {
+                    try {
+                        await tryWriteBlobToClipboard(blob);
+                        alert(successMessage);
+                        return;
+                    } catch (err) {
+                        console.warn('Clipboard image write failed:', err);
+                    }
+                }
+
+                const shared = await tryNativeShare(blob, fileName);
+                if (shared) return;
+
+                showImagePreviewOverlay(
+                    blob,
+                    isWeChatBrowser()
+                        ? 'In WeChat, please long-press the image to save or share.'
+                        : 'Press and hold the image to save or share.'
+                );
+            }
+
+            async function captureAbstractAndShare(node, button) {
+                if (!node) return;
+
+                const originalText = button ? button.innerHTML : '';
+
+                try {
+                    if (button) {
+                        button.disabled = true;
+                        button.innerHTML = '<i class="bi bi-hourglass-split"></i> Generating...';
+                    }
+
+                    if (document.fonts && document.fonts.ready) {
+                        await document.fonts.ready;
+                    }
+
+                    await waitForImages(node);
+                    await new Promise(resolve => requestAnimationFrame(resolve));
+
+                    const blob = await domtoimage.toBlob(node, {
+                        bgcolor: '#ffffff',
+                        style: {
+                            transform: 'none'
+                        }
+                    });
+
+                    await shareImageBlob(blob, {
+                        fileName: 'abstract.png',
+                        successMessage: '✅ Screenshot copied to clipboard.'
+                    });
+                } catch (error) {
+                    console.error('Failed to generate screenshot:', error);
+                    alert('Failed to generate screenshot. Please check the console for details.');
+                } finally {
+                    if (button) {
+                        button.disabled = false;
+                        button.innerHTML = originalText;
+                    }
+                }
+            }
+
+            const urlParams = new URLSearchParams(window.location.search);
+            const id = urlParams.get('id');
+
+            const container = document.getElementById('abstract-container');
+            const loadingSpinner = document.getElementById('loading-spinner');
+            const actionButtonsDiv = document.getElementById('action-buttons');
+            const copyScreenshotBtn = document.getElementById('copy-screenshot-btn');
+
+            if (!id) {
+                if (loadingSpinner) loadingSpinner.style.display = 'none';
+                container.innerHTML = `
+                    <div class="alert alert-warning text-center py-5" role="alert">
+                        <i class="bi bi-exclamation-triangle" style="font-size: 3rem;"></i>
+                        <h3 class="mt-3">Missing ID Parameter</h3>
+                        <p>Please specify ?id=xxx in the URL.</p>
+                        <a href="seminars.html" class="btn btn-primary mt-3">Back to Seminar List</a>
+                    </div>
+                `;
+                return;
+            }
+
+            try {
+                const response = await fetch('static/data/abstracts.json', { cache: 'no-store' });
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status} - Failed to load data file`);
+                }
+
+                const abstractsData = await response.json();
+                const data = abstractsData[id];
+
+                if (!data) {
+                    throw new Error(`ID "${id}" does not exist`);
+                }
+
+                const zoomMeetingId = "632 7868 8120";
+                const zoomPasscode = "SDUCOMB";
+                const zoomUrl = "https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1";
+
+                const cardHtml = `
+                    <div id="abstract-card" class="abstract-card">
+                        <img src="static/assets/img/SDU-logo.png" alt="Logo" class="card-logo">
+
+                        <div class="name">${escapeHtml(data.name || 'Unknown')}</div>
+                        <div class="title">${escapeHtml(data.title || 'Untitled')}</div>
+
+                        <div class="meta-row">
+                            <span class="meta-item">
+                                <strong>Time:</strong> ${escapeHtml(data.date || '')}
+                            </span>
+                            <span class="meta-item">
+                                <strong>Zoom ID:</strong>
+                                <a href="${zoomUrl}" target="_blank" rel="noopener">${zoomMeetingId}</a>
+                            </span>
+                            <span class="meta-item">
+                                <strong>Password:</strong> ${zoomPasscode}
+                            </span>
+                        </div>
+
+                        <div class="abstract-label">Abstract</div>
+                        <div class="abstract-content fs-5 mb-4">${rawHtml(data.abstract, '')}</div>
+
+                        ${data.bio ? `<div class="abstract-label">Introduction</div><div class="bio-content">${rawHtml(data.bio, '')}</div>` : ''}
+                    </div>
+                `;
+
+                if (loadingSpinner) loadingSpinner.style.display = 'none';
+                container.innerHTML = cardHtml;
+                actionButtonsDiv.style.setProperty('display', 'flex');
+
+                const cardElement = document.getElementById('abstract-card');
+                await waitForMathReady(cardElement);
+
+                copyScreenshotBtn.addEventListener('click', async function () {
+                    const card = document.getElementById('abstract-card');
+                    await captureAbstractAndShare(card, this);
+                });
+            } catch (error) {
+                if (loadingSpinner) loadingSpinner.style.display = 'none';
+                container.innerHTML = `
+                    <div class="alert alert-danger text-center py-5" role="alert">
+                        <i class="bi bi-exclamation-triangle" style="font-size: 3rem;"></i>
+                        <h3 class="mt-3">Failed to Load</h3>
+                        <p>${escapeHtml(error.message)}</p>
+                        <a href="seminars.html" class="btn btn-primary mt-3">Back to Seminar List</a>
+                    </div>
+                `;
+            }
+
+            const copyrightEl = document.getElementById('copyright-text');
+            if (copyrightEl) {
+                const year = new Date().getFullYear();
+                copyrightEl.innerHTML = `© ${year} SDU Combinatorics Group. All rights reserved.`;
+            }
+        })();
+    </script>
+</body>
+
+</html>
