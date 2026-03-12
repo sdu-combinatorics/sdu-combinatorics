@@ -33,6 +33,7 @@ extremal combinatorics, and discrete mathematics.
 <div class="news-date">2026-03-10</div>
 <a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 19.</a>
 </div> -->
+
 <div class="news-item">
  We are pleased to announce that <strong>Prof. <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a></strong> will give a seminar on March 19, 2026.
     The title of his talk is <strong><em>“  <a href="abstract.html?id=2601" target="_blank" rel="noopener">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>”</em></strong>.
@@ -46,6 +47,7 @@ extremal combinatorics, and discrete mathematics.
     
 <strong>Password:</strong> SDUCOMB
     </div> 
-</div>
+
+<!--</div>
 </aside>
-</div>
+</div>-->
