@@ -11,7 +11,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
 <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a>
 ## <a id="workshops"></a>Workshops
-
+<a href="video.html?id=talk-001">Watch video</a>
 ### 2026
 
 - **Workshop on Extremal and Probabilistic Combinatorics**  &nbsp;&nbsp; <a href="https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0" target="_blank" rel="noopener">website</a><br/>
