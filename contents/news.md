@@ -19,6 +19,25 @@
   </p>
 </div>
 
+<div id="news-20260402" class="news-entry">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Gregory Gutin on April 2</h3>
+  <p>
+     We are pleased to announce that Prof. <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a> will give a seminar on April 2, 2026.
+    The title of his talk is <em>“<a href="abstract.html?id=2602" target="_blank" rel="noopener">Hamiltonian oriented path and cycle discrepancy of digraphs</a>”</em>.
+  </p>
+  <p>
+    <strong>Time:</strong> 17:00–18:10 (UTC+8)
+    &nbsp;&nbsp;&nbsp;
+    <strong>Zoom ID:</strong>
+    <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
+      632 7868 8120
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <strong>Password:</strong> SDUCOMB
+  </p>
+</div>
+
+
 <!--<div id="news-20260220" class="news-entry">
   <h3><span class="news-tag paper">Paper</span> Paper Accepted</h3>
   <p>
