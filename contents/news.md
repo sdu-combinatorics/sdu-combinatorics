@@ -1,11 +1,11 @@
 ### 2026
 
 
-<div id="news-20260310" class="news-entry">
-  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Jørgen Bang-Jensen on March 19</h3>
+<div id="news-20260402" class="news-entry">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Gregory Gutin on April 2</h3>
   <p>
-     We are pleased to announce that Prof. <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a> will give a seminar on March 19, 2026.
-    The title of his talk is <em>“<a href="abstract.html?id=2601" target="_blank" rel="noopener">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>”</em>.
+     We are pleased to announce that Prof. <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a> will give a seminar on April 2, 2026.
+    The title of his talk is <em>“<a href="abstract.html?id=2602" target="_blank" rel="noopener">Hamiltonian oriented path and cycle discrepancy of digraphs</a>”</em>.
   </p>
   <p>
     <strong>Time:</strong> 17:00–18:10 (UTC+8)
@@ -19,11 +19,11 @@
   </p>
 </div>
 
-<div id="news-20260402" class="news-entry">
-  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Gregory Gutin on April 2</h3>
+<div id="news-20260310" class="news-entry">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Jørgen Bang-Jensen on March 19</h3>
   <p>
-     We are pleased to announce that Prof. <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a> will give a seminar on April 2, 2026.
-    The title of his talk is <em>“<a href="abstract.html?id=2602" target="_blank" rel="noopener">Hamiltonian oriented path and cycle discrepancy of digraphs</a>”</em>.
+     We are pleased to announce that Prof. <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a> will give a seminar on March 19, 2026.
+    The title of his talk is <em>“<a href="abstract.html?id=2601" target="_blank" rel="noopener">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>”</em>.
   </p>
   <p>
     <strong>Time:</strong> 17:00–18:10 (UTC+8)
