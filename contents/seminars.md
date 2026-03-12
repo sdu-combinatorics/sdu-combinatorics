@@ -48,7 +48,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### Previous Talks
 
-<a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=FCcZXN" target="_blank" rel="noonpener"> awdawdawdawd</a>
+
 
 <!-- <div class="seminar-item">
   <div class="seminar-date">
