@@ -46,6 +46,24 @@ All time in this webpage refers to Beijing Time (GMT+8).
   </div>
 </div>
 
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">Apr 2</strong><br />
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2602" target="_blank">Hamiltonian oriented path and cycle discrepancy of digraphs</a><br />
+    <strong>Speaker:</strong>
+    Prof.
+   <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a><br />
+    <strong>Time:</strong> 17:00–18:10
+    &nbsp;&nbsp;
+    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
+  </div>
+</div>
+
 ### Previous Talks
 <!-- <div class="seminar-item">
   <div class="seminar-date">
