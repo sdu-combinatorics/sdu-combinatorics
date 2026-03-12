@@ -41,6 +41,9 @@ Professor, Shandong University
 <li> Wenling Zhou — Research area
 <li> Wanting Sun — Research area
 <li> Qiancheng Ouyang — Research area
+<li> Xiangxiang Nie — Research area
+<li> Weichan Liu — Research area
+<li> Jialu Zhu — Research area
   </ul>
 </details>
 
@@ -52,6 +55,10 @@ Professor, Shandong University
   </summary>
   <ul style="margin-top: 0.5rem;">
 <li> Zhiwei Zhang 
+<li> Lan Wei
+<li> Xia Wang 
+<li> Pingchuan Yang
+<li> Longma Du
   </ul>
 </details>
 
@@ -63,6 +70,10 @@ Professor, Shandong University
   </summary>
   <ul style="margin-top: 0.5rem;">
 <li> Wenxu Lu
+<li>Zhenyu Li
+<li>Guowei Sun
+<li>Yiming Zhou
+<li>Linghao Zhang
   </ul>
 </details>
 
