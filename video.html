@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="static/css/styles.css" />
     <link rel="stylesheet" href="static/css/main.css" />
     <script src="static/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
     <style>
         :root {
@@ -49,20 +48,21 @@
             padding: 0 1rem;
         }
 
-        .video-wrapper {
+        .video-embed-wrapper {
             width: 100%;
             max-width: 960px;
-            margin: 0 auto; /* 居中 */
-            background: #000;
+            margin: 0 auto;
             border-radius: 16px;
             overflow: hidden;
+            background: #000;
             box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.18);
         }
 
-        .video-player {
+        .video-embed-frame {
             display: block;
             width: 100%;
-            aspect-ratio: 16 / 9;
+            height: 540px;
+            border: 0;
             background: #000;
         }
 
@@ -71,6 +71,22 @@
             color: var(--theme-blue-muted);
             font-size: 0.95rem;
             text-align: center;
+        }
+
+        .action-row {
+            margin-top: 1rem;
+            text-align: center;
+        }
+
+        .btn-outline-primary {
+            border-color: var(--theme-blue);
+            color: var(--theme-blue);
+        }
+
+        .btn-outline-primary:hover {
+            background-color: var(--theme-blue);
+            border-color: var(--theme-blue);
+            color: #fff;
         }
 
         .description {
@@ -95,6 +111,14 @@
             width: 22%;
             max-width: 180px;
             height: auto;
+        }
+
+        @media (max-width: 992px) {
+            .video-embed-frame {
+                height: 56.25vw;
+                max-height: 540px;
+                min-height: 280px;
+            }
         }
 
         @media (max-width: 768px) {
@@ -182,36 +206,13 @@
                 return value === null || value === undefined || value === '' ? fallback : value;
             }
 
-            function updateStatus(text) {
-                const el = document.getElementById('video-status');
-                if (el) el.textContent = text;
-            }
-
-            function initVideoPlayer(videoEl, hlsUrl) {
-                if (videoEl.canPlayType('application/vnd.apple.mpegurl')) {
-                    videoEl.src = hlsUrl;
-                    updateStatus('Playing with native HLS.');
-                    return;
+            function isSafeUrl(url) {
+                try {
+                    const u = new URL(url, window.location.href);
+                    return u.protocol === 'https:' || u.protocol === 'http:';
+                } catch (e) {
+                    return false;
                 }
-
-                if (window.Hls && Hls.isSupported()) {
-                    const hls = new Hls();
-                    hls.loadSource(hlsUrl);
-                    hls.attachMedia(videoEl);
-
-                    hls.on(Hls.Events.MANIFEST_PARSED, function () {
-                        updateStatus('Adaptive streaming ready.');
-                    });
-
-                    hls.on(Hls.Events.ERROR, function (event, data) {
-                        console.error('HLS error:', data);
-                        updateStatus('Playback error.');
-                    });
-
-                    return;
-                }
-
-                updateStatus('This browser does not support HLS playback.');
             }
 
             const urlParams = new URLSearchParams(window.location.search);
@@ -247,12 +248,11 @@
                 }
 
                 const title = data.title || 'Untitled Video';
-                const hlsUrl = data.hls;
-                const poster = data.poster || 'static/assets/img/background.jpeg';
+                const overdriveUrl = data.overdrive || data.url || '';
                 const description = data.description || '';
 
-                if (!hlsUrl) {
-                    throw new Error(`No HLS URL found for ID "${id}"`);
+                if (!overdriveUrl || !isSafeUrl(overdriveUrl)) {
+                    throw new Error(`No valid Overdrive URL found for ID "${id}"`);
                 }
 
                 const html = `
@@ -261,18 +261,28 @@
 
                         <div class="title">${escapeHtml(title)}</div>
 
-                        <div class="video-wrapper">
-                            <video
-                                id="main-video"
-                                class="video-player"
-                                controls
-                                playsinline
-                                preload="metadata"
-                                poster="${escapeHtml(poster)}"
-                            ></video>
+                        <div class="video-embed-wrapper">
+                            <iframe
+                                id="video-frame"
+                                class="video-embed-frame"
+                                src="${escapeHtml(overdriveUrl)}"
+                                loading="lazy"
+                                allow="autoplay; fullscreen; picture-in-picture"
+                                allowfullscreen
+                                referrerpolicy="strict-origin-when-cross-origin"
+                                title="${escapeHtml(title)}"
+                            ></iframe>
                         </div>
 
-                        <div id="video-status" class="status-bar">Preparing player...</div>
+                        <div class="status-bar">
+                            If the embedded player does not load, please open it in a new tab.
+                        </div>
+
+                        <div class="action-row">
+                            <a class="btn btn-outline-primary" href="${escapeHtml(overdriveUrl)}" target="_blank" rel="noopener">
+                                Open video in new tab
+                            </a>
+                        </div>
 
                         ${description ? `
                             <div class="mt-4">
@@ -285,9 +295,6 @@
 
                 if (loadingSpinner) loadingSpinner.style.display = 'none';
                 container.innerHTML = html;
-
-                const videoEl = document.getElementById('main-video');
-                initVideoPlayer(videoEl, hlsUrl);
 
             } catch (error) {
                 if (loadingSpinner) loadingSpinner.style.display = 'none';
