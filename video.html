@@ -202,183 +202,60 @@
         </div>
     </footer>
 
-    <script>
-        (async function () {
-            function escapeHtml(unsafe) {
-                if (unsafe === null || unsafe === undefined) return '';
-                return String(unsafe)
-                    .replace(/&/g, "&amp;")
-                    .replace(/</g, "&lt;")
-                    .replace(/>/g, "&gt;")
-                    .replace(/"/g, "&quot;")
-                    .replace(/'/g, "&#039;");
-            }
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1"></script>
+<script>
+(async function () {
+    const urlParams = new URLSearchParams(window.location.search);
+    const id = urlParams.get('id');
 
-            function rawHtml(value, fallback = '') {
-                return value === null || value === undefined || value === '' ? fallback : value;
-            }
+    const response = await fetch('static/data/videos.json', { cache: 'no-store' });
+    const videosData = await response.json();
 
-            function showError(container, message) {
-                container.innerHTML = `
-                    <div class="alert alert-danger text-center py-5" role="alert">
-                        <i class="bi bi-exclamation-triangle" style="font-size: 3rem;"></i>
-                        <h3 class="mt-3">Failed to Load</h3>
-                        <p>${escapeHtml(message)}</p>
-                        <a href="seminars.html" class="btn btn-primary mt-3">Back to Seminar List</a>
-                    </div>
-                `;
-            }
+    const item = videosData[id];
+    if (!item) {
+        alert(`ID "${id}" does not exist`);
+        return;
+    }
 
-            function updateStatus(text) {
-                const el = document.getElementById('video-status');
-                if (el) el.textContent = text;
-            }
+    // 兼容两种写法：
+    // 1. 直接字符串： "xxx.m3u8"
+    // 2. 对象： { hls: "...", poster: "...", title: "..." }
+    const hlsUrl = typeof item === 'string' ? item : item.hls;
+    const poster = typeof item === 'string' ? '' : (item.poster || '');
+    const title = typeof item === 'string' ? id : (item.title || id);
 
-            function initVideoPlayer(videoEl, data) {
-                const hlsUrl = data.hls || '';
-                const mp4Url = data.mp4 || '';
+    const container = document.getElementById('video-container');
+    container.innerHTML = `
+        <h2>${title}</h2>
+        <video id="main-video" controls playsinline preload="metadata" ${poster ? `poster="${poster}"` : ''} style="width:100%;max-width:1000px;background:#000;"></video>
+        <div id="video-status" style="margin-top:12px;color:#666;">Preparing player...</div>
+    `;
 
-                // 优先原生 HLS（Safari / iOS 常见）
-                if (hlsUrl && videoEl.canPlayType('application/vnd.apple.mpegurl')) {
-                    videoEl.src = hlsUrl;
-                    updateStatus('Playing with native HLS.');
-                    return;
-                }
+    const video = document.getElementById('main-video');
+    const status = document.getElementById('video-status');
 
-                // 其他浏览器用 hls.js
-                if (hlsUrl && window.Hls && Hls.isSupported()) {
-                    const hls = new Hls({
-                        enableWorker: true,
-                        lowLatencyMode: false,
-                        backBufferLength: 90
-                    });
-
-                    hls.loadSource(hlsUrl);
-                    hls.attachMedia(videoEl);
-
-                    hls.on(Hls.Events.MANIFEST_PARSED, function () {
-                        updateStatus('Adaptive streaming ready.');
-                    });
-
-                    hls.on(Hls.Events.ERROR, function (event, data) {
-                        console.error('HLS error:', data);
-
-                        if (data.fatal) {
-                            if (data.type === Hls.ErrorTypes.NETWORK_ERROR) {
-                                updateStatus('Network issue detected, retrying...');
-                                hls.startLoad();
-                            } else if (data.type === Hls.ErrorTypes.MEDIA_ERROR) {
-                                updateStatus('Media issue detected, recovering...');
-                                hls.recoverMediaError();
-                            } else {
-                                hls.destroy();
-                                if (mp4Url) {
-                                    videoEl.src = mp4Url;
-                                    updateStatus('Fell back to MP4 playback.');
-                                } else {
-                                    updateStatus('Unable to play this video.');
-                                }
-                            }
-                        }
-                    });
-
-                    return;
-                }
-
-                // 最后退回 MP4
-                if (mp4Url) {
-                    videoEl.src = mp4Url;
-                    updateStatus('Playing MP4 source.');
-                    return;
-                }
-
-                updateStatus('No playable source found.');
-            }
-
-            const urlParams = new URLSearchParams(window.location.search);
-            const id = urlParams.get('id');
-
-            const container = document.getElementById('video-container');
-            const loadingSpinner = document.getElementById('loading-spinner');
-
-            if (!id) {
-                if (loadingSpinner) loadingSpinner.style.display = 'none';
-                container.innerHTML = `
-                    <div class="alert alert-warning text-center py-5" role="alert">
-                        <i class="bi bi-exclamation-triangle" style="font-size: 3rem;"></i>
-                        <h3 class="mt-3">Missing ID Parameter</h3>
-                        <p>Please specify ?id=xxx in the URL.</p>
-                        <a href="seminars.html" class="btn btn-primary mt-3">Back to Seminar List</a>
-                    </div>
-                `;
-                return;
-            }
-
-            try {
-                const response = await fetch('static/data/videos.json', { cache: 'no-store' });
-                if (!response.ok) {
-                    throw new Error(`HTTP ${response.status} - Failed to load video data`);
-                }
-
-                const videosData = await response.json();
-                const data = videosData[id];
-
-                if (!data) {
-                    throw new Error(`ID "${id}" does not exist`);
-                }
-
-                const html = `
-                    <div id="video-card" class="video-card">
-                        <img src="static/assets/img/SDU-logo.png" alt="Logo" class="card-logo">
-
-                        <div class="speaker">${escapeHtml(data.name || 'Unknown')}</div>
-                        <div class="title">${escapeHtml(data.title || 'Untitled')}</div>
-
-                        <div class="meta-row">
-                            <span class="meta-item"><strong>Date:</strong> ${escapeHtml(data.date || '')}</span>
-                            ${data.duration ? `<span class="meta-item"><strong>Duration:</strong> ${escapeHtml(data.duration)}</span>` : ''}
-                            ${data.category ? `<span class="meta-item"><strong>Category:</strong> ${escapeHtml(data.category)}</span>` : ''}
-                        </div>
-
-                        <div class="section-label">Video</div>
-                        <div class="video-wrapper">
-                            <video
-                                id="main-video"
-                                class="video-player"
-                                controls
-                                playsinline
-                                preload="metadata"
-                                poster="${escapeHtml(data.poster || 'static/assets/img/background.jpeg')}"
-                            ></video>
-                        </div>
-
-                        <div id="video-status" class="status-bar">Preparing player...</div>
-
-                        ${data.description ? `
-                            <div class="section-label mt-4">Description</div>
-                            <div class="description">${rawHtml(data.description)}</div>
-                        ` : ''}
-                    </div>
-                `;
-
-                if (loadingSpinner) loadingSpinner.style.display = 'none';
-                container.innerHTML = html;
-
-                const videoEl = document.getElementById('main-video');
-                initVideoPlayer(videoEl, data);
-
-            } catch (error) {
-                if (loadingSpinner) loadingSpinner.style.display = 'none';
-                showError(container, error.message);
-            }
-
-            const copyrightEl = document.getElementById('copyright-text');
-            if (copyrightEl) {
-                const year = new Date().getFullYear();
-                copyrightEl.innerHTML = `© ${year} SDU Combinatorics Group. All rights reserved.`;
-            }
-        })();
-    </script>
+    // 先走浏览器原生 HLS（Safari 常见）
+    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+        video.src = hlsUrl;
+        status.textContent = 'Playing with native HLS.';
+    }
+    // 其他浏览器走 hls.js
+    else if (window.Hls && Hls.isSupported()) {
+        const hls = new Hls();
+        hls.loadSource(hlsUrl);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, function () {
+            status.textContent = 'Adaptive streaming ready.';
+        });
+        hls.on(Hls.Events.ERROR, function (event, data) {
+            console.error(data);
+            status.textContent = 'Playback error.';
+        });
+    } else {
+        status.textContent = 'This browser does not support HLS playback.';
+    }
+})();
+</script>
 </body>
 
 </html>
