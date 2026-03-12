@@ -1,10 +1,8 @@
 {
+  {
   "talk-001": {
-    "title": "Extremal Problems in Graph Theory",
-    "overdrive": "https://1drv.ms/v/c/70c479e820b718d9/IQScFo399qGmRqiVNEva7_XiATK-16eUQGNuoW4bpdBy2p0?width=660"
-  },
-  "talk-002": {
-    "title": "A Survey on Combinatorial Designs",
-    "overdrive": "https://your-site.overdrive.io/another-video-page"
+    "title": "12.15",
+    "embedHtml": "<img src="https://1drv.ms/v/c/70c479e820b718d9/IQScFo399qGmRqiVNEva7_XiATK-16eUQGNuoW4bpdBy2p0?width=1024" width="1024" height="auto" />"
   }
+}
 }
