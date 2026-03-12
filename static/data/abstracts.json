@@ -12,6 +12,5 @@
          "date": "2026-04-2: 17:00-18:10 (UTC +8)",
         "abstract": "Erdos (1963) initiated extensive graph discrepancy research on 2-edge-colored graphs. Gishboliner, Krivelevich, and Michaeli (JGT 2023) launched similar research on oriented graphs. They conjectured the following extension of Dirac's theorem: If $D$ is an oriented graph on $n \\ge 3$ vertices with minimum degree $\\delta(D) \\ge n/ 2$, then $D$ contains a Hamilton oriented cycle with at least $\\delta(D)$ arcs in the same direction. This conjecture was proved by Freschi and Lo (JCTB 2024) who posed an open problem to extend their result to an Ore-type condition. We propose two conjectures for such extensions and prove results which provide support to the conjectures. For maximization of the number of arcs in the same direction in Hamilton oriented cycles and paths of semicomplete multipartite digraphs and locally semicomplete digraphs, we obtain characterizations which lead to polynomial-time algorithms. Note that the maximization problem is NP-hard for some other generalizations of tournaments.",
         "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Gregory Gutin is Professor in the Department of Computer Science, Royal Holloway University of London. His research interests include graph theory and algorithms, exact and approximation algorithms, combinatorial optimization, game theory, and access control in information security.  In 2017, he was elected a member of Academia Europaea. He has over 300 papers, chapters and sections published in refereed journals, conference proceedings and books. His publications have over 14750 citations.</div>"
-
-},
-    
+    },
+}
