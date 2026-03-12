@@ -47,9 +47,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
 </div>
 
 ### Previous Talks
-
-
-
 <!-- <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">Mar 12</strong><br />
