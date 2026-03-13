@@ -177,36 +177,41 @@ section .main-body {
 
 /* Seminar item */
 .seminar-item {
-    display: grid;
-    grid-template-columns: 120px 1fr;
-    gap: 1rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 1.2rem;
     margin-bottom: 1.25rem;
-    align-items: stretch;
 }
 
 .seminar-date {
-    padding: 0.9rem 0.75rem;
-    background: #f8f9fa;
-    border: 2px solid #444;
-    border-radius: 16px;
-    text-align: center;
-    box-sizing: border-box;
+    width: 110px;
+    min-width: 110px;
+    min-height: 110px;
+    padding: 10px 8px;
+    border: 2px solid #555;
+    border-radius: 18px;
+    background: #f3f3f3;
+
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: center;   /* 关键：不要 space-between */
     align-items: center;
-    min-width: 120px;
+    gap: 0.35rem;              /* 关键：控制上下间距 */
+    text-align: center;
+    line-height: 1.1;
 }
 
 .seminar-date strong,
 .seminar-date span {
-    line-height: 1.4;
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: 1.1;
 }
 
 .seminar-content {
-    line-height: 1.7;
-    padding-top: 0.15rem;
-    box-sizing: border-box;
+    flex: 1;
+    line-height: 1.65;
 }
 
 /* Home layout */
