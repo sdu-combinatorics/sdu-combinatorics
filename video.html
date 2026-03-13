@@ -119,7 +119,7 @@
                         <a class="nav-link me-lg-3" href="index.html">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="seminars.html">SEMINARS</a>
+                        <a class="nav-link me-lg-3 active" href="seminars.html">SEMINARS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="news.html">NEWS</a>
@@ -237,7 +237,6 @@
 
                     const title = item.title || 'Untitled Video';
                     const mp4 = item.mp4 || item.url || '';
-                    const poster = item.poster || 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900"><rect width="100%25" height="100%25" fill="black"/></svg>';
                     const description = item.description || '';
 
                     if (!isSafeUrl(mp4)) {
@@ -256,7 +255,6 @@
                                     controls
                                     playsinline
                                     preload="none"
-                                    poster="${escapeHtml(poster)}"
                                 ></video>
                             </div>
 
