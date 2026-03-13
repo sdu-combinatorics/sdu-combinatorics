@@ -237,7 +237,7 @@
 
                     const title = item.title || 'Untitled Video';
                     const mp4 = item.mp4 || item.url || '';
-                    const poster = item.poster || '';
+                    const poster = item.poster || 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900"><rect width="100%25" height="100%25" fill="black"/></svg>';
                     const description = item.description || '';
 
                     if (!isSafeUrl(mp4)) {
@@ -255,8 +255,8 @@
                                     class="video-player"
                                     controls
                                     playsinline
-                                    preload="metadata"
-                                    ${poster ? `poster="${escapeHtml(poster)}"` : ''}
+                                    preload="none"
+                                    poster="${escapeHtml(poster)}"
                                 ></video>
                             </div>
 
