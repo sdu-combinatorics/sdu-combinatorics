@@ -77,14 +77,6 @@
             background: #000;
         }
 
-        .status-bar {
-            margin-top: 1rem;
-            color: var(--theme-blue-muted);
-            font-size: 0.95rem;
-            text-align: center;
-            line-height: 1.7;
-        }
-
         .description-wrap {
             margin-top: 1.75rem;
         }
@@ -101,22 +93,6 @@
         .description-content {
             line-height: 1.8;
             word-break: break-word;
-        }
-
-        .action-row {
-            margin-top: 1rem;
-            text-align: center;
-        }
-
-        .btn-outline-primary {
-            border-color: var(--theme-blue);
-            color: var(--theme-blue);
-        }
-
-        .btn-outline-primary:hover {
-            background-color: var(--theme-blue);
-            border-color: var(--theme-blue);
-            color: #fff;
         }
 
         @media (max-width: 768px) {
@@ -235,11 +211,6 @@
                 `;
             }
 
-            function setStatus(text) {
-                const el = document.getElementById('video-status');
-                if (el) el.textContent = text;
-            }
-
             async function init() {
                 setCopyright();
 
@@ -289,14 +260,6 @@
                                 ></video>
                             </div>
 
-                            <div id="video-status" class="status-bar">Preparing player...</div>
-
-                            <div class="action-row">
-                                <a class="btn btn-outline-primary" href="${escapeHtml(mp4)}" target="_blank" rel="noopener">
-                                    Open raw video link
-                                </a>
-                            </div>
-
                             ${description ? `
                                 <div class="description-wrap">
                                     <div class="section-label">Description</div>
@@ -308,33 +271,6 @@
 
                     const video = document.getElementById('video-player');
                     video.src = mp4;
-
-                    video.addEventListener('loadedmetadata', function () {
-                        setStatus('Video metadata loaded.');
-                    });
-
-                    video.addEventListener('canplay', function () {
-                        setStatus('Video ready to play.');
-                    });
-
-                    video.addEventListener('playing', function () {
-                        setStatus('Playing.');
-                    });
-
-                    video.addEventListener('pause', function () {
-                        setStatus('Paused.');
-                    });
-
-                    video.addEventListener('ended', function () {
-                        setStatus('Playback finished.');
-                    });
-
-                    video.addEventListener('error', function () {
-                        const err = video.error;
-                        setStatus('HTML5 video error: ' + (err ? err.code : 'unknown'));
-                    });
-
-                    setStatus('Loading video source...');
                 } catch (error) {
                     renderError(error.message);
                 }
