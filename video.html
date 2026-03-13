@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Video | SDU Combinatorics Group</title>
 
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-
     <style>
         :root {
             --theme-blue-dark: #1e3c72;
@@ -81,25 +79,12 @@
             background: #000;
         }
 
-        .status, .debug {
+        .status {
             margin-top: 14px;
+            text-align: center;
             color: var(--theme-blue-muted);
             font-size: 14px;
             line-height: 1.7;
-            word-break: break-all;
-        }
-
-        .status { text-align: center; }
-
-        .debug {
-            max-width: 960px;
-            margin-left: auto;
-            margin-right: auto;
-            background: #f8fafc;
-            border: 1px solid #e5e7eb;
-            border-radius: 12px;
-            padding: 14px;
-            white-space: pre-wrap;
         }
 
         .actions {
@@ -131,10 +116,6 @@
             border-radius: 14px;
             padding: 20px;
             text-align: center;
-        }
-
-        @media (max-width: 992px) {
-            .title { font-size: 26px; }
         }
     </style>
 </head>
@@ -173,18 +154,13 @@
             }
 
             function renderError(message) {
-                document.getElementById('video-container').innerHTML =
-                    `<div class="error-box">${escapeHtml(message)}</div>`;
+                const container = document.getElementById('video-container');
+                container.innerHTML = `<div class="error-box">${escapeHtml(message)}</div>`;
             }
 
             function setStatus(text) {
                 const el = document.getElementById('status');
                 if (el) el.textContent = text;
-            }
-
-            function addDebug(text) {
-                const el = document.getElementById('debug');
-                if (el) el.textContent += text + '\n';
             }
 
             const params = new URLSearchParams(window.location.search);
@@ -204,9 +180,12 @@
                 if (!item) throw new Error('This id does not exist in videos.json');
 
                 const title = item.title || 'Untitled Video';
-                const hls = item.hls || '';
                 const mp4 = item.mp4 || item.url || '';
                 const poster = item.poster || '';
+
+                if (!isSafeUrl(mp4)) {
+                    throw new Error('No valid mp4 URL found in videos.json');
+                }
 
                 document.getElementById('video-container').innerHTML = `
                     <div class="card">
@@ -218,101 +197,37 @@
                                 controls
                                 playsinline
                                 preload="metadata"
-                                crossorigin="anonymous"
                                 ${poster ? `poster="${escapeHtml(poster)}"` : ''}
                             ></video>
                         </div>
 
                         <div id="status" class="status">Preparing player...</div>
-                        <div id="debug" class="debug"></div>
 
                         <div class="actions">
-                            ${isSafeUrl(mp4) ? `
-                                <a class="btn" href="${escapeHtml(mp4)}" target="_blank" rel="noopener">
-                                    Open raw video link
-                                </a>
-                            ` : ''}
-                            ${isSafeUrl(hls) ? `
-                                <a class="btn" href="${escapeHtml(hls)}" target="_blank" rel="noopener" style="margin-left:10px;">
-                                    Open HLS link
-                                </a>
-                            ` : ''}
+                            <a class="btn" href="${escapeHtml(mp4)}" target="_blank" rel="noopener">
+                                Open raw video link
+                            </a>
                         </div>
                     </div>
                 `;
 
                 const video = document.getElementById('video-player');
-
-                addDebug('id = ' + id);
-                addDebug('hls = ' + (hls || '[empty]'));
-                addDebug('mp4 = ' + (mp4 || '[empty]'));
-                addDebug('poster = ' + (poster || '[empty]'));
+                video.src = mp4;
 
                 video.addEventListener('loadedmetadata', () => {
-                    addDebug('video event: loadedmetadata');
+                    setStatus('Video metadata loaded.');
                 });
+
                 video.addEventListener('canplay', () => {
-                    addDebug('video event: canplay');
+                    setStatus('Video ready to play.');
                 });
-                video.addEventListener('playing', () => {
-                    addDebug('video event: playing');
-                });
+
                 video.addEventListener('error', () => {
                     const err = video.error;
-                    addDebug('video error: ' + (err ? `code=${err.code}` : 'unknown'));
-                    setStatus('HTML5 video error.');
+                    setStatus('HTML5 video error: ' + (err ? err.code : 'unknown'));
                 });
 
-                if (isSafeUrl(hls) && video.canPlayType('application/vnd.apple.mpegurl')) {
-                    addDebug('use native HLS');
-                    video.src = hls;
-                    setStatus('Playing with native HLS.');
-                    return;
-                }
-
-                if (isSafeUrl(hls) && window.Hls && Hls.isSupported()) {
-                    addDebug('use hls.js');
-                    const hlsPlayer = new Hls({
-                        enableWorker: true,
-                        lowLatencyMode: false,
-                        backBufferLength: 90
-                    });
-
-                    hlsPlayer.loadSource(hls);
-                    hlsPlayer.attachMedia(video);
-
-                    hlsPlayer.on(Hls.Events.MANIFEST_PARSED, function () {
-                        addDebug('hls.js: manifest parsed');
-                        setStatus('Adaptive streaming ready.');
-                    });
-
-                    hlsPlayer.on(Hls.Events.ERROR, function (event, data) {
-                        addDebug('hls.js error: ' + JSON.stringify({
-                            type: data.type,
-                            details: data.details,
-                            fatal: data.fatal
-                        }));
-
-                        if (isSafeUrl(mp4)) {
-                            video.src = mp4;
-                            setStatus('HLS failed, switched to MP4.');
-                            addDebug('fallback to mp4');
-                        } else {
-                            setStatus('Playback error.');
-                        }
-                    });
-
-                    return;
-                }
-
-                if (isSafeUrl(mp4)) {
-                    addDebug('use mp4 directly');
-                    video.src = mp4;
-                    setStatus('Playing MP4 source.');
-                    return;
-                }
-
-                setStatus('No playable source found.');
+                setStatus('Playing MP4 source.');
             } catch (err) {
                 renderError(err.message);
             }
