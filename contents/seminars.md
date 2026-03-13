@@ -30,7 +30,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 ### Upcoming Talks
 <div class="seminar-item">
   <div class="seminar-date">
-    <strong style="font-size: 17px;">Mar 19</strong><br />
+    <strong style="font-size: 17px;">Mar 19</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
 
@@ -48,7 +48,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 <div class="seminar-item">
   <div class="seminar-date">
-    <strong style="font-size: 17px;">Apr 2</strong><br />
+    <strong style="font-size: 17px;">Apr 2</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
 
