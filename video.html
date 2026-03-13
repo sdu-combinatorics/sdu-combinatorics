@@ -15,9 +15,7 @@
             --theme-bg: #f5f7fb;
         }
 
-        * {
-            box-sizing: border-box;
-        }
+        * { box-sizing: border-box; }
 
         body {
             margin: 0;
@@ -48,10 +46,6 @@
             color: var(--theme-blue);
             text-decoration: none;
             font-size: 15px;
-        }
-
-        .back-link:hover {
-            text-decoration: underline;
         }
 
         .card {
@@ -87,12 +81,25 @@
             background: #000;
         }
 
-        .status {
+        .status, .debug {
             margin-top: 14px;
-            text-align: center;
             color: var(--theme-blue-muted);
             font-size: 14px;
             line-height: 1.7;
+            word-break: break-all;
+        }
+
+        .status { text-align: center; }
+
+        .debug {
+            max-width: 960px;
+            margin-left: auto;
+            margin-right: auto;
+            background: #f8fafc;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            padding: 14px;
+            white-space: pre-wrap;
         }
 
         .actions {
@@ -127,9 +134,7 @@
         }
 
         @media (max-width: 992px) {
-            .title {
-                font-size: 26px;
-            }
+            .title { font-size: 26px; }
         }
     </style>
 </head>
@@ -168,15 +173,18 @@
             }
 
             function renderError(message) {
-                const container = document.getElementById('video-container');
-                container.innerHTML = `
-                    <div class="error-box">${escapeHtml(message)}</div>
-                `;
+                document.getElementById('video-container').innerHTML =
+                    `<div class="error-box">${escapeHtml(message)}</div>`;
             }
 
             function setStatus(text) {
                 const el = document.getElementById('status');
                 if (el) el.textContent = text;
+            }
+
+            function addDebug(text) {
+                const el = document.getElementById('debug');
+                if (el) el.textContent += text + '\n';
             }
 
             const params = new URLSearchParams(window.location.search);
@@ -188,28 +196,17 @@
             }
 
             try {
-                // GitHub Pages 下用相对路径最稳
                 const res = await fetch('./static/data/videos.json', { cache: 'no-store' });
-                if (!res.ok) {
-                    throw new Error('Failed to load ./static/data/videos.json');
-                }
+                if (!res.ok) throw new Error('Failed to load ./static/data/videos.json');
 
                 const videos = await res.json();
                 const item = videos[id];
-
-                if (!item) {
-                    throw new Error('This id does not exist in videos.json');
-                }
+                if (!item) throw new Error('This id does not exist in videos.json');
 
                 const title = item.title || 'Untitled Video';
                 const hls = item.hls || '';
                 const mp4 = item.mp4 || item.url || '';
                 const poster = item.poster || '';
-                const description = item.description || '';
-
-                if (!isSafeUrl(hls) && !isSafeUrl(mp4)) {
-                    throw new Error('No valid video URL found. Please fill hls or mp4 in videos.json');
-                }
 
                 document.getElementById('video-container').innerHTML = `
                     <div class="card">
@@ -227,17 +224,17 @@
                         </div>
 
                         <div id="status" class="status">Preparing player...</div>
-
-                        ${description ? `
-                            <div class="status" style="max-width: 900px; margin-left: auto; margin-right: auto;">
-                                ${escapeHtml(description)}
-                            </div>
-                        ` : ''}
+                        <div id="debug" class="debug"></div>
 
                         <div class="actions">
                             ${isSafeUrl(mp4) ? `
                                 <a class="btn" href="${escapeHtml(mp4)}" target="_blank" rel="noopener">
                                     Open raw video link
+                                </a>
+                            ` : ''}
+                            ${isSafeUrl(hls) ? `
+                                <a class="btn" href="${escapeHtml(hls)}" target="_blank" rel="noopener" style="margin-left:10px;">
+                                    Open HLS link
                                 </a>
                             ` : ''}
                         </div>
@@ -246,13 +243,35 @@
 
                 const video = document.getElementById('video-player');
 
+                addDebug('id = ' + id);
+                addDebug('hls = ' + (hls || '[empty]'));
+                addDebug('mp4 = ' + (mp4 || '[empty]'));
+                addDebug('poster = ' + (poster || '[empty]'));
+
+                video.addEventListener('loadedmetadata', () => {
+                    addDebug('video event: loadedmetadata');
+                });
+                video.addEventListener('canplay', () => {
+                    addDebug('video event: canplay');
+                });
+                video.addEventListener('playing', () => {
+                    addDebug('video event: playing');
+                });
+                video.addEventListener('error', () => {
+                    const err = video.error;
+                    addDebug('video error: ' + (err ? `code=${err.code}` : 'unknown'));
+                    setStatus('HTML5 video error.');
+                });
+
                 if (isSafeUrl(hls) && video.canPlayType('application/vnd.apple.mpegurl')) {
+                    addDebug('use native HLS');
                     video.src = hls;
                     setStatus('Playing with native HLS.');
                     return;
                 }
 
                 if (isSafeUrl(hls) && window.Hls && Hls.isSupported()) {
+                    addDebug('use hls.js');
                     const hlsPlayer = new Hls({
                         enableWorker: true,
                         lowLatencyMode: false,
@@ -263,15 +282,21 @@
                     hlsPlayer.attachMedia(video);
 
                     hlsPlayer.on(Hls.Events.MANIFEST_PARSED, function () {
+                        addDebug('hls.js: manifest parsed');
                         setStatus('Adaptive streaming ready.');
                     });
 
                     hlsPlayer.on(Hls.Events.ERROR, function (event, data) {
-                        console.error('HLS error:', data);
+                        addDebug('hls.js error: ' + JSON.stringify({
+                            type: data.type,
+                            details: data.details,
+                            fatal: data.fatal
+                        }));
 
                         if (isSafeUrl(mp4)) {
                             video.src = mp4;
                             setStatus('HLS failed, switched to MP4.');
+                            addDebug('fallback to mp4');
                         } else {
                             setStatus('Playback error.');
                         }
@@ -281,6 +306,7 @@
                 }
 
                 if (isSafeUrl(mp4)) {
+                    addDebug('use mp4 directly');
                     video.src = mp4;
                     setStatus('Playing MP4 source.');
                     return;
