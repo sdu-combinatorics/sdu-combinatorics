@@ -137,7 +137,7 @@
     <div class="topbar">SDU Comb Group</div>
 
     <div class="page">
-        <a class="back-link" href="seminars.html">← All seminars</a>
+        <a class="back-link" href="./seminars.html">← All seminars</a>
 
         <div id="video-container">
             <div class="card">
@@ -188,9 +188,10 @@
             }
 
             try {
-                const res = await fetch('static/data/videos.json', { cache: 'no-store' });
+                // GitHub Pages 下用相对路径最稳
+                const res = await fetch('./static/data/videos.json', { cache: 'no-store' });
                 if (!res.ok) {
-                    throw new Error('Failed to load static/data/videos.json');
+                    throw new Error('Failed to load ./static/data/videos.json');
                 }
 
                 const videos = await res.json();
@@ -204,6 +205,7 @@
                 const hls = item.hls || '';
                 const mp4 = item.mp4 || item.url || '';
                 const poster = item.poster || '';
+                const description = item.description || '';
 
                 if (!isSafeUrl(hls) && !isSafeUrl(mp4)) {
                     throw new Error('No valid video URL found. Please fill hls or mp4 in videos.json');
@@ -219,11 +221,18 @@
                                 controls
                                 playsinline
                                 preload="metadata"
+                                crossorigin="anonymous"
                                 ${poster ? `poster="${escapeHtml(poster)}"` : ''}
                             ></video>
                         </div>
 
                         <div id="status" class="status">Preparing player...</div>
+
+                        ${description ? `
+                            <div class="status" style="max-width: 900px; margin-left: auto; margin-right: auto;">
+                                ${escapeHtml(description)}
+                            </div>
+                        ` : ''}
 
                         <div class="actions">
                             ${isSafeUrl(mp4) ? `
@@ -237,14 +246,12 @@
 
                 const video = document.getElementById('video-player');
 
-                // Safari / iPhone 原生 HLS
                 if (isSafeUrl(hls) && video.canPlayType('application/vnd.apple.mpegurl')) {
                     video.src = hls;
                     setStatus('Playing with native HLS.');
                     return;
                 }
 
-                // Chrome / Edge / Firefox 走 hls.js
                 if (isSafeUrl(hls) && window.Hls && Hls.isSupported()) {
                     const hlsPlayer = new Hls({
                         enableWorker: true,
@@ -273,7 +280,6 @@
                     return;
                 }
 
-                // 兜底 MP4
                 if (isSafeUrl(mp4)) {
                     video.src = mp4;
                     setStatus('Playing MP4 source.');
