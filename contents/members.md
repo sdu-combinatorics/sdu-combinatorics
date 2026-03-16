@@ -37,13 +37,8 @@ Professor, Shandong University
       Postdoctoral Researchers
   </summary>
   <ul style="margin-top: 0.5rem;">
-<li> Yun Wang — Research area
-<li> Wenling Zhou — Research area
-<li> Wanting Sun — Research area
-<li> Qiancheng Ouyang — Research area
-<li> Xiangxiang Nie — Research area
-<li> Weichan Liu — Research area
-<li> Jialu Zhu — Research area
+<li> Current: Yun Wang, Wenling Zhou, Heng Li, Wanting Sun, Qiancheng Ouyang, Xiangxiang Nie, Weichan Liu, Jialu Zhu, Xinyu Hu, Linpeng Zhang
+<li> Former: Donglei Yang, Fan Yang, Tianjiao Dai, Lida Jing, Mengjiao Rao, Fanpeng Song
   </ul>
 </details>
 
@@ -59,6 +54,9 @@ Professor, Shandong University
 <li> Xia Wang 
 <li> Pingchuan Yang
 <li> Longma Du
+<li> Nannan Chen
+<li> Jie Wang
+<li> Bingyu Luan
   </ul>
 </details>
 
@@ -74,6 +72,7 @@ Professor, Shandong University
 <li>Guowei Sun
 <li>Yiming Zhou
 <li>Linghao Zhang
+<li> 
   </ul>
 </details>
 
