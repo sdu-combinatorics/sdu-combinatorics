@@ -49,7 +49,7 @@ Professor, Shandong University
       Ph.D. Students
   </summary>
   <ul style="margin-top: 0.5rem;">
-<li> Current：Zhiwei Zhang, Lan Wei, Xia Wang, Pingchuan Yang, Longma Du, Nannan Chen, Jie Wang, Mengyang Zhao, Mengjie Chen, Xiaojing Zhang, Junyu Ren, ChenCheng Ma, Dongxu Chang, Qingqing Peng, Lei Huang, Jin Ji
+<li> Current：Zhiwei Zhang, Lan Wei, Xia Wang, Pingchuan Yang, Longma Du, Nannan Chen, Jie Wang, Mengyang Zhao, Mengjie Chen, Xiaojing Zhang, Junyu Ren, ChenCheng Ma, Dongxu Chang, Qingqing Peng, Lei Huang, Ji Jin
 <li> Former: Bingyu Luan, Longlong Li, Lin Sun, Kai Yan, Jialin Bi, Bin Wang, Dawei Yin, Hua Liu 
   </ul>
 </details>
