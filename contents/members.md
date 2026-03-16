@@ -61,12 +61,8 @@ Professor, Shandong University
      Current Master Students
   </summary>
   <ul style="margin-top: 0.5rem;">
-<li> Wenxu Lu
-<li>Zhenyu Li
-<li>Guowei Sun
-<li>Yiming Zhou
-<li>Linghao Zhang
-<li> 
+<li> Current: Wenxu Lu, Zhenyu Li, Guowei Sun, Yiming Zhou, Linghao Zhang, Jian Miao, Tianhao Chen, Chenyuan Jia, Xin Li, Hao Dong, Kezhen Li, Ran Zhuang, Peihan Duan, Anchen Liu, Zhuoran Li, Zhenyu Wang, Mingkai Li, Ming Sun, Huichuan Wang, Yunjing Sun, Yuanhao Bai, Jiande Zhang, Xudong Yan, Shuxian Li, Hao Yuan, Jun Jiang, Xiaoyi Wang, Fulong Ye, Liangui Zhou, Junyu Ren,  Hu Chen, Chenchen Wang, Lidan Ping
+<li> Former: Yuqi Zhao, Junjie Chen
   </ul>
 </details>
 
