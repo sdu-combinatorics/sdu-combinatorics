@@ -38,7 +38,7 @@ Professor, Shandong University
   </summary>
   <ul style="margin-top: 0.5rem;">
 <li> Current: Wanting Sun, Qiancheng Ouyang, Wenling Zhou, Weichan Liu, Xinyu Hu, Yun Wang, Xiangxiang Nie, Linpeng Zhang, Jialu Zhu
-<li> Former: Donglei Yang, Fan Yang, Tianjiao Dai, Lida Jing, Mengjiao Rao, Fanpeng Song, Yulin Chang, Heng Li
+<li> Former: Donglei Yang, Yulin Chang, Lida Jing, Mengjiao Rao, Fan Yang, Tianjiao Dai, Fanpeng Song, Heng Li
   </ul>
 </details>
 
