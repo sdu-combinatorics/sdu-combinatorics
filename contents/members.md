@@ -40,7 +40,6 @@ Professor, Shandong University
   <li style="margin-bottom: 10px;">
     <strong>Current:</strong>
     <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wanting Sun</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenling Zhou</div>
@@ -51,11 +50,9 @@ Professor, Shandong University
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linpeng Zhang</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jialu Zhu</div>
  </div>
-</div>
 <li style="margin-bottom: 10px;">
     <strong>Former:</strong>
     <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-        <div style="display: flex; flex-wrap: wrap; gap: 20px;">
             <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Donglei Yang</div>
             <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yulin Chang</div>
             <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lida Jing</div>
@@ -64,7 +61,6 @@ Professor, Shandong University
             <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tianjiao Dai</div>
             <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fanpeng Song</div>
             <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Heng Li</div>
-        </div>
     </div>
 </li>
   </ul>
