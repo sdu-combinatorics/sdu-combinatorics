@@ -12,7 +12,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 <!--<a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a>
 ## <a id="workshops"></a>Workshops
 <a href="video.html?id=talk-001">Watch video</a>-->
-## <a id="seminar（student）"></a>seminar（student）
+## <a id="seminar（student）"></a>Seminar（student）
 ### 2026
 
 
