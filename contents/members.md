@@ -36,25 +36,19 @@ Professor, Shandong University
   <summary style="list-style: none; cursor: pointer; font-family: 'Kanit', sans-serif; font-size: 1.75rem; font-weight: 600; color: var(--h-title-color); margin: 1.2rem 0 0.8rem 0;">
       Postdoctoral Researchers
   </summary>
-  <ul style="margin-top: 2rem;">
-<strong>Current：</strong><table>
-  <tr>
-    <td align="left">Wanting Sun</td>
-    <td align="left">Qiancheng Ouyang</td>
-    <td align="left">Wenling Zhou</td>
-    <td align="left">Weichan Liu</td>
-  </tr>
-  <tr>
-     <td align="left">Xinyu Hu</td>
-    <td align="left">Yun Wang</td>
-    <td align="left">Xiangxiang Nie</td>
-    <td align="left">Linpeng Zhang</td>
-  </tr>
-  <tr>
-    <td align="left">Jialu Zhu</td>
-    <td></td><td></td><td></td> <!-- 填充空白以保持格式整洁 -->
-  </tr>
-</table>
+  <ul style="margin-top: 0.5rem;">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Wanting Sun</div>
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Qiancheng Ouyang</div>
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Wenling Zhou</div>
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Weichan Liu</div>
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Xinyu Hu</div>
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Yun Wang</div>
+  
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Xiangxiang Nie</div>
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Linpeng Zhang</div>
+  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Jialu Zhu</div>
+</div>
 <li> Former: Donglei Yang, Yulin Chang, Lida Jing, Mengjiao Rao, Fan Yang, Tianjiao Dai, Fanpeng Song, Heng Li
   </ul>
 </details>
