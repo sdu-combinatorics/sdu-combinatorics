@@ -37,16 +37,16 @@
   </summary>
  <ul style="list-style-type: none; padding: 0; margin: 0; width: 100%; box-sizing: border-box;">
   <li>
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; width: 100%;">
-      <div style="text-align: left; overflow-wrap: break-word;">Wanting Sun</div>
-      <div style="text-align: left; overflow-wrap: break-word;">Qiancheng Ouyang</div>
-      <div style="text-align: left; overflow-wrap: break-word;">Wenling Zhou</div>
-      <div style="text-align: left; overflow-wrap: break-word;">Weichan Liu</div>
-      <div style="text-align: left; overflow-wrap: break-word;">Xinyu Hu</div>
-      <div style="text-align: left; overflow-wrap: break-word;">Yun Wang</div> 
-      <div style="text-align: left; overflow-wrap: break-word;">Xiangxiang Nie</div>
-      <div style="text-align: left; overflow-wrap: break-word;">Linpeng Zhang</div>
-      <div style="text-align: left; overflow-wrap: break-word;">Jialu Zhu</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; width: 100%; box-sizing: border-box;">
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Wanting Sun</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Qiancheng Ouyang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Wenling Zhou</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Weichan Liu</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xinyu Hu</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yun Wang</div> 
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xiangxiang Nie</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Linpeng Zhang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jialu Zhu</div>
     </div>
   </li>
 </ul>
@@ -140,15 +140,15 @@
   </summary>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 <li style="margin-bottom: 10px;">
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Donglei Yang</div>
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yulin Chang</div>
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lida Jing</div>
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengjiao Rao</div>
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fan Yang</div>
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tianjiao Dai</div>
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fanpeng Song</div>
-            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Heng Li</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; width: 100%; box-sizing: border-box;">
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Donglei Yang</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yulin Chang</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Lida Jing</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Mengjiao Rao</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Fan Yang</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Tianjiao Dai</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Fanpeng Song</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Heng Li</div>
     </div>
 </li>
 </ul>
