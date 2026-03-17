@@ -76,7 +76,7 @@ Organized by:
     
 **1. Extremal Combinatorics (Summer 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_summer_school.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online** · Aug 1–6, 2022  
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim), [Jinha Kim](https://sites.google.com/view/jinhakim), [Minki Kim](https://sites.google.com/view/minkikim/home)  
+  **Speakers:**<a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> , <a href="https://sites.google.com/view/jinhakim" target="_blank" rel="noopener">Jinha Kim</a>, <a href="https://sites.google.com/view/minkikim/home" target="_blank" rel="noopener">Minki Kim</a>
   <!--**Role:** Initiator & Organizer-->
   
 
@@ -87,7 +87,7 @@ Organized by:
     
 **2. Extremal Combinatorics (Summer 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_summer_school.png" target="_blank" rel="noopener">poster</a><br/>
   **Online** · Jul 26 – Aug 1, 2021  
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
   
 
@@ -97,7 +97,7 @@ Organized by:
     
 **3. Extremal Combinatorics (Summer 2020)**  &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_1.jpeg" target="_blank" rel="noopener">poster</a><br/> &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online** · Jul 26 – Aug 8, 2020  
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim), [Joel Moreira](https://warwick.ac.uk/fac/sci/maths/people/staff/moreira/)  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>, <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/moreira/" target="_blank" rel="noopener">Joel Moreira</a>  
   <!--**Role:** Initiator & Organizer-->
 
 
@@ -106,14 +106,14 @@ Organized by:
     
 **4. Methods in Combinatorics (Summer 2019)**  &nbsp;&nbsp; <a href="static/assets/img/2019_summer_school.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University** · Aug 3–9, 2019  
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
 
 
 
 **5. Extremal Combinatorics (Summer 2018)**  
   **School of Mathematics, Shandong University** · Jul 2–8, 2018  
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
 
 
@@ -125,13 +125,13 @@ Organized by:
     
 **1. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/>
   **School of Mathematics, Shandong University**  
-  **Speakers:** [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm), Yangyang Cheng, Qiancheng Ouyang, [Fan Chang](https://fanchang1997.github.io/FanChangmath.github.io/)
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Yangyang Cheng, Qiancheng Ouyang, <a href="https://fanchang1997.github.io/FanChangmath.github.io/" target="_blank" rel="noopener">Fan Chang</a>
   <!--**Role:** Initiator & Organizer-->
 
     
 **2. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
-  **Speakers:** [Donglei Yang](https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm), Guanghui Wang  
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index/1737664/list/index.htm" target="_blank" rel="noopener">DongLei Yang </a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
   <!--**Role:** Initiator & Organizer-->
   
 
@@ -142,7 +142,7 @@ Organized by:
     
 **3. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
   <!--**Role:** Initiator & Organizer  -->
 
 
@@ -163,7 +163,7 @@ Organized by:
     
 **5. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online** 
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
   <!--**Role:** Initiator & Organizer -->
   
 
@@ -193,6 +193,6 @@ Organized by:
 
 **8. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
-  **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>  
   <!--**Role:** Initiator & Organizer-->
   
