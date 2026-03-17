@@ -174,7 +174,7 @@ Organized by:
 
 **6. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
 **School of Mathematics, Shandong University**  
-  **Speakers:** Guanghui Wang  
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
   <!--**Role:** Initiator & Organizer-->
   
 
