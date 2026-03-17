@@ -125,7 +125,7 @@ Organized by:
     
 **1. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/>
   **School of Mathematics, Shandong University**  
-  **Speakers:** Yangyang Cheng, Qiancheng Ouyang, [Fan Chang](https://fanchang1997.github.io/FanChangmath.github.io/)  
+  **Speakers:** Guanghui Wang, Yangyang Cheng, Qiancheng Ouyang, [Fan Chang](https://fanchang1997.github.io/FanChangmath.github.io/)
   <!--**Role:** Initiator & Organizer-->
 
     
