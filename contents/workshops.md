@@ -191,7 +191,7 @@ Organized by:
 <div class="item-with-poster">
 <div class="item-text">
 
-**7. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**8. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
   **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/), [Jaehoon Kim](https://sites.google.com/view/jaehoon-kim)  
   <!--**Role:** Initiator & Organizer-->
