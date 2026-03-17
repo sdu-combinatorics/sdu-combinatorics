@@ -41,15 +41,15 @@ Professor, Shandong University
     <strong>Current:</strong>
     <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wanting Sun</div>
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenling Zhou</div>
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Weichan Liu</div>
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xinyu Hu</div>
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yun Wang</div> 
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiangxiang Nie</div>
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linpeng Zhang</div>
-  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jialu Zhu</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wanting Sun</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenling Zhou</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Weichan Liu</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xinyu Hu</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yun Wang</div> 
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiangxiang Nie</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linpeng Zhang</div>
+  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jialu Zhu</div>
 </div>
 <li> Former: Donglei Yang, Yulin Chang, Lida Jing, Mengjiao Rao, Fan Yang, Tianjiao Dai, Fanpeng Song, Heng Li
   </ul>
