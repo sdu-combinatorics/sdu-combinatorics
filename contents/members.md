@@ -4,7 +4,7 @@
     <img src="static/assets/img/Guanghui Wang.png" alt="Prof. Guanghui Wang" class="faculty-photo">
     <div class="faculty-name">
       <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">
-        Prof. Guanghui Wang
+        Prof. Guanghui Wang  
       </a>
     </div>
   </div>
@@ -27,7 +27,6 @@
     </div>
   </div>
 </div>
-Professor, Shandong University  
 
 ---
 
