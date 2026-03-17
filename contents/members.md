@@ -155,7 +155,28 @@ Professor, Shandong University
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shishen Shen</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenxu Lu</div>
     </div>
-  </li> Former: Yuqi Zhao, Junjie Chen, Lidan Ping, Ji Jin, Hualong Li, Qiancheng Ouyang, Jie Liu, Jiaxuan Li, Chenchen Wang, Jie Hu, Xia Wang, Xichao Shu, Jian Gong, Tianjiao Dai, Shumin Sun, Fan Chang, Hu Chen
+ <li style="margin-bottom: 10px;">
+    <strong>Former:</strong>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yuqi Zhao</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junjie Chen</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lidan Ping</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hualong Li</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Liu</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jiaxuan Li</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Chenchen Wang</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Hu</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xia Wang</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xichao Shu</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jian Gong</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tianjiao Dai</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shumin Sun</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fan Chang</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hu Chen</div>
+    </div>
+ </li>
 </ul>
 </details>
 
