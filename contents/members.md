@@ -160,20 +160,20 @@ Professor, Shandong University
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yuqi Zhao</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junjie Chen</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lidan Ping</div>
-        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hualong Li</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Liu</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jiaxuan Li</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Chenchen Wang</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Hu</div>
-        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xia Wang</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xichao Shu</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jian Gong</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tianjiao Dai</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shumin Sun</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fan Chang</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hu Chen</div>
+      <!--<div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
+          <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xia Wang</div>-->
     </div>
  </li>
 </ul>
