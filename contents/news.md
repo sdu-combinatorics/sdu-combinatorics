@@ -1,6 +1,29 @@
 ### 2026
 
 
+
+<div id="news-20260416" class="news-entry">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Anders Yeo on April 16</h3>
+  <p>
+     We are pleased to announce that Prof. <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a> will give a seminar on April 16, 2026.
+    The title of his talk is <em>“<a href="abstract.html?id=2603" target="_blank" rel="noopener">Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree</a>”</em>.
+  </p>
+  <p>
+    <strong>Time:</strong> 17:00–18:10 (UTC+8)
+    &nbsp;&nbsp;&nbsp;
+    <strong>Zoom ID:</strong>
+    <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
+      632 7868 8120
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <strong>Password:</strong> SDUCOMB
+    &nbsp;&nbsp;&nbsp;
+        <strong>Website:</strong>
+        <a href="https://www.wgh-comb.net" target="_blank" rel="noopener">wgh-comb.net</a>
+  </p>
+</div>
+
+
 <div id="news-20260402" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Gregory Gutin on April 2</h3>
   <p>
