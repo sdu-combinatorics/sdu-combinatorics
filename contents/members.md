@@ -63,6 +63,7 @@
     <!--<strong>Current:</strong>-->
     <div style="display: flex; flex-wrap: wrap; gap: 15px; width: 100%; box-sizing: border-box;">
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Lan Wei</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Shunan Wei</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xia Wang</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Pingchuan Yang</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://zhiwei-sdu.github.io/homepage/" target="_blank" rel="noopener">Zhiwei Zhang</a></div>
@@ -122,6 +123,7 @@
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Liangui Zhou</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Shishen Shen</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Wenxu Lu</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xinyu He</div>
     </div>
   </li>
 </ul>
@@ -198,6 +200,7 @@
         <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jian Gong</div>
         <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Tianjiao Dai</div>
         <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Shumin Sun</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yangyang Cheng</div>
         <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://fanchang1997.github.io/FanChangmath.github.io/" target="_blank" rel="noopener">Fan Chang</a></div>
         <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Hu Chen</div>
       <!--<div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Ji Jin</div>
