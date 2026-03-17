@@ -72,7 +72,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2603" target="_blank">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a><br />
+      <a href="abstract.html?id=2603" target="_blank">Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree</a><br />
     <strong>Speaker:</strong>
     Prof.
    <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a><br />
