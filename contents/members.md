@@ -76,22 +76,22 @@ Professor, Shandong University
   <li style="margin-bottom: 10px;">
     <strong>Current:</strong>
     <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhiwei Zhang</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lan Wei</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xia Wang</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Pingchuan Yang</div>
+    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhiwei Zhang</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Longma Du</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Nannan Chen</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Wang</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengyang Zhao</div>
+    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengjie Chen</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiaojing Zhang</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junyu Ren</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">ChenCheng Ma</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Dongxu Chang</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qingqing Peng</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lei Huang</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
+    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiaojing Zhang</div>
   </div>
 <li style="margin-bottom: 10px;">
     <strong>Former:</strong>
