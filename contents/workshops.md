@@ -5,7 +5,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ---
 
 ## Contents
-- [seminar（student）](#seminar（student）)<br/>
+- [Seminar（student）](#seminar（student）)<br/>
 - [Summer School](#summer-school)<br/>
 - [Courses](#courses)<br/>
 
