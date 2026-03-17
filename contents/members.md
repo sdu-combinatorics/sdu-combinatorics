@@ -50,8 +50,23 @@ Professor, Shandong University
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiangxiang Nie</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linpeng Zhang</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jialu Zhu</div>
+ </div>
 </div>
-<li> Former: Donglei Yang, Yulin Chang, Lida Jing, Mengjiao Rao, Fan Yang, Tianjiao Dai, Fanpeng Song, Heng Li
+<li style="margin-bottom: 10px;">
+    <strong>Former:</strong>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Donglei Yang</div>
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yulin Chang</div>
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lida Jing</div>
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengjiao Rao</div>
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fan Yang</div>
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tianjiao Dai</div>
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fanpeng Song</div>
+            <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Heng Li</div>
+        </div>
+    </div>
+</li>
   </ul>
 </details>
 
