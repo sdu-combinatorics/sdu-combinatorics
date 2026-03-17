@@ -35,7 +35,7 @@ Professor, Shandong University
 <details>
   <summary style="list-style: none; cursor: pointer; font-family: 'Kanit', sans-serif; font-size: 1.75rem; font-weight: 600; color: var(--h-title-color); margin: 1.2rem 0 0.8rem 0;">
       Postdoctoral Researchers
-  </summary>:
+  </summary>
  <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li style="margin-bottom: 10px;">
     <strong>Current:</strong>
