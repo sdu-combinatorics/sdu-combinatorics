@@ -9,54 +9,43 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 - [Summer School](#summer-school)<br/>
 - [Courses](#courses)<br/>
 
-<a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a>
+<!--<a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a>
 ## <a id="workshops"></a>Workshops
-<a href="video.html?id=talk-001">Watch video</a>
+<a href="video.html?id=talk-001">Watch video</a>-->
+## <a id="workshops"></a>Workshops
 ### 2026
 
-- **Workshop on Extremal and Probabilistic Combinatorics**  &nbsp;&nbsp; <a href="https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0" target="_blank" rel="noopener">website</a><br/>
+<!--  **Workshop on Extremal and Probabilistic Combinatorics**  &nbsp;&nbsp; <a href="https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0" target="_blank" rel="noopener">website</a><br/>
   <div style="display: flex; gap: 3rem;">  
     <span><strong>Date:</strong> May 12–14, 2026</span>  
     <span><strong>Location:</strong> Jinan, China</span>  
-  </div>
-
-- **Mini-Workshop on Graph Theory and Applications**  &nbsp;&nbsp; <a href="static/assets/img/2019_summer_school.jpeg" target="_blank" rel="noopener">poster</a><br/>
+  </div> **Mini-Workshop on Graph Theory and Applications**  &nbsp;&nbsp; <a href="static/assets/img/2019_summer_school.jpeg" target="_blank" rel="noopener">poster</a><br/>
   <div style="display: flex; gap: 3rem;">  
     <span><strong>Date:</strong> March 22–23, 2026</span>  
     <span><strong>Location:</strong> Beijing, China</span>  
     <!--<span><strong>Role:</strong> Invited Participant</span>-->
   </div>
-
----
-
 ### 2025
-
-- **Workshop on Structural Graph Theory**
+ **Workshop on Structural Graph Theory**
   <div style="display: flex; gap: 3rem;">  
     <span><strong>Date:</strong> October 18–20, 2025</span>  
     <span><strong>Location:</strong> Shanghai, China</span>  
     <!--<span><strong>Role:</strong> Co-organizer </span>-->
   </div>  
-
-- **Young Researchers Workshop in Combinatorics**
+ **Young Researchers Workshop in Combinatorics**
   <div style="display: flex; gap: 3rem;">  
     <span><strong>Date:</strong> June 6–8, 2025</span>  
     <span><strong>Location:</strong> Nanjing, China</span>  
     <!--<span><strong>Role:</strong> Speaker </span>-->
     <!--<span><strong>Talk:</strong> Title of the Talk </span>-->
   </div>  
-
-
----
-
 ### 2024
-
-- **International Workshop on Discrete Mathematics**
+ **International Workshop on Discrete Mathematics**
   <div style="display: flex; gap: 3rem;">  
     <span><strong>Date:</strong> April 15–17, 2024</span>  
     <span><strong>Location:</strong> Jinan, China</span>  
     <!--<span><strong>Role:</strong> Organizer </span>-->
-  </div>  
+  </div>  -->
 
 
   
@@ -74,7 +63,7 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
-**1. Extremal Combinatorics (Summer 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_summer_school.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**1. Extremal Combinatorics (Summer 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_summer_school.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Aug 1–6, 2022  
   **Speakers:**<a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> , <a href="https://sites.google.com/view/jinhakim" target="_blank" rel="noopener">Jinha Kim</a>, <a href="https://sites.google.com/view/minkikim/home" target="_blank" rel="noopener">Minki Kim</a>
   <!--**Role:** Initiator & Organizer-->
@@ -85,7 +74,7 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
-**2. Extremal Combinatorics (Summer 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_summer_school.png" target="_blank" rel="noopener">poster</a><br/>
+**2. Extremal Combinatorics (Summer 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_summer_school.png" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Jul 26 – Aug 1, 2021  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
@@ -95,7 +84,7 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
-**3. Extremal Combinatorics (Summer 2020)**  &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_1.jpeg" target="_blank" rel="noopener">poster</a><br/> &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**3. Extremal Combinatorics (Summer 2020)**  &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_1.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_2.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Jul 26 – Aug 8, 2020  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>, <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/moreira/" target="_blank" rel="noopener">Joel Moreira</a>  
   <!--**Role:** Initiator & Organizer-->
@@ -104,14 +93,14 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
-**4. Methods in Combinatorics (Summer 2019)**  &nbsp;&nbsp; <a href="static/assets/img/2019_summer_school.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**4. Methods in Combinatorics (Summer 2019)**  &nbsp;&nbsp; <a href="static/assets/img/2019_summer_school.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **School of Mathematics, Shandong University** · Aug 3–9, 2019  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
 
 
 
-**5. Extremal Combinatorics (Summer 2018)**  
+**5. Extremal Combinatorics (Summer 2018)**  &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a> <br>
   **School of Mathematics, Shandong University** · Jul 2–8, 2018  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
