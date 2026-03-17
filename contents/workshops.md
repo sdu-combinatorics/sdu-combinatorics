@@ -123,6 +123,12 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
+**1. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/>
+  **School of Mathematics, Shandong University**  
+  **Speakers:** [Guanghui Wang], [Yangyang Cheng], [Qiancheng Ouyang], [Fan Chang](https://fanchang1997.github.io/FanChangmath.github.io/), Guanghui Wang  
+  <!--**Role:** Initiator & Organizer-->
+
+    
 **1. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
   **Speakers:** [Donglei Yang](https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm), Guanghui Wang  
