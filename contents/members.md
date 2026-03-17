@@ -43,7 +43,7 @@
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Wenling Zhou</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Weichan Liu</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xinyu Hu</div>
-      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yun Wang</div> 
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener">Yun Wang</div> 
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xiangxiang Nie</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Linpeng Zhang</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jialu Zhu</div>
