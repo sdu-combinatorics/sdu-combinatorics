@@ -15,48 +15,17 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ## <a id="seminar（student）"></a>seminar（student）
 ### 2026
 
-<!--  **Workshop on Extremal and Probabilistic Combinatorics**  &nbsp;&nbsp; <a href="https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0" target="_blank" rel="noopener">website</a><br/>
-  <div style="display: flex; gap: 3rem;">  
-    <span><strong>Date:</strong> May 12–14, 2026</span>  
-    <span><strong>Location:</strong> Jinan, China</span>  
-  </div> **Mini-Workshop on Graph Theory and Applications**  &nbsp;&nbsp; <a href="static/assets/img/2019_summer_school.jpeg" target="_blank" rel="noopener">poster</a><br/>
-  <div style="display: flex; gap: 3rem;">  
-    <span><strong>Date:</strong> March 22–23, 2026</span>  
-    <span><strong>Location:</strong> Beijing, China</span>  
-    <!--<span><strong>Role:</strong> Invited Participant</span>-->
-  </div>
-### 2025
- **Workshop on Structural Graph Theory**
-  <div style="display: flex; gap: 3rem;">  
-    <span><strong>Date:</strong> October 18–20, 2025</span>  
-    <span><strong>Location:</strong> Shanghai, China</span>  
-    <!--<span><strong>Role:</strong> Co-organizer </span>-->
-  </div>  
- **Young Researchers Workshop in Combinatorics**
-  <div style="display: flex; gap: 3rem;">  
-    <span><strong>Date:</strong> June 6–8, 2025</span>  
-    <span><strong>Location:</strong> Nanjing, China</span>  
-    <!--<span><strong>Role:</strong> Speaker </span>-->
-    <!--<span><strong>Talk:</strong> Title of the Talk </span>-->
-  </div>  
-### 2024
- **International Workshop on Discrete Mathematics**
-  <div style="display: flex; gap: 3rem;">  
-    <span><strong>Date:</strong> April 15–17, 2024</span>  
-    <span><strong>Location:</strong> Jinan, China</span>  
-    <!--<span><strong>Role:</strong> Organizer </span>-->
-  </div>  -->
 
 
   
 ## <a id="summer-school"></a>Summer School
 
-Organized by:
+<!--Organized by:
 - Extremal Group, Shandong University, China
 - Extremal Combinatorics and Probability Group, Institute for Basic Science (IBS), South Korea
 - Combinatorics Group, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, China
   
-  <a href="https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0" target="_blank" rel="noopener">**Video Link**</a><br/>
+  <a href="https://space.bilibili.com/1131132367?spm_id_from=333.999.0.0" target="_blank" rel="noopener">**Video Link**</a><br/>-->
 
 
 
