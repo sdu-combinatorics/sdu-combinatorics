@@ -35,21 +35,21 @@
   <summary style="list-style: none; cursor: pointer; font-family: 'Kanit', sans-serif; font-size: 1.75rem; font-weight: 600; color: var(--h-title-color); margin: 1.2rem 0 0.8rem 0;">
       Postdoctoral Researchers
   </summary>
- <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li style="margin-bottom: 10px;">
-    <!--<strong>Current:</strong>-->
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wanting Sun</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenling Zhou</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Weichan Liu</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xinyu Hu</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yun Wang</div> 
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiangxiang Nie</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linpeng Zhang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jialu Zhu</div>
- </div>
-  </ul>
+ <ul style="list-style-type: none; padding: 0; margin: 0; width: 100%; box-sizing: border-box;">
+  <li>
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; width: 100%;">
+      <div style="text-align: left; overflow-wrap: break-word;">Wanting Sun</div>
+      <div style="text-align: left; overflow-wrap: break-word;">Qiancheng Ouyang</div>
+      <div style="text-align: left; overflow-wrap: break-word;">Wenling Zhou</div>
+      <div style="text-align: left; overflow-wrap: break-word;">Weichan Liu</div>
+      <div style="text-align: left; overflow-wrap: break-word;">Xinyu Hu</div>
+      <div style="text-align: left; overflow-wrap: break-word;">Yun Wang</div> 
+      <div style="text-align: left; overflow-wrap: break-word;">Xiangxiang Nie</div>
+      <div style="text-align: left; overflow-wrap: break-word;">Linpeng Zhang</div>
+      <div style="text-align: left; overflow-wrap: break-word;">Jialu Zhu</div>
+    </div>
+  </li>
+</ul>
 </details>
 
 
@@ -61,25 +61,26 @@
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li style="margin-bottom: 10px;">
     <!--<strong>Current:</strong>-->
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lan Wei</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xia Wang</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Pingchuan Yang</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhiwei Zhang</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Longma Du</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Nannan Chen</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Wang</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengyang Zhao</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengjie Chen</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junyu Ren</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">ChenCheng Ma</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Dongxu Chang</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qingqing Peng</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lei Huang</div>
-    <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiaojing Zhang</div>
-  </div>
-  </ul>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; width: 100%; box-sizing: border-box;">
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Lan Wei</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xia Wang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Pingchuan Yang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Zhiwei Zhang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Longma Du</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Nannan Chen</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jie Wang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Mengyang Zhao</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Ji Jin</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Mengjie Chen</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Junyu Ren</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">ChenCheng Ma</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Dongxu Chang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Qingqing Peng</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Lei Huang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xiaojing Zhang</div>
+    </div>
+  </li>
+</ul>
 </details>
 
 
@@ -87,42 +88,42 @@
   <summary style="list-style: none; cursor: pointer; font-family: 'Kanit', sans-serif; font-size: 1.75rem; font-weight: 600; color: var(--h-title-color); margin: 1.2rem 0 0.8rem 0;">
      Master Students
   </summary>
- <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li style="margin-bottom: 10px;">
     <!--<strong>Current:</strong>-->
-    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhenyu Li</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Guowei Sun</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yiming Zhou</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linghao Zhang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jian Miao</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tianhao Chen</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Chenyuan Jia</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xin Li</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hao Dong</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Kezhen Li</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ran Zhuang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Peihan Duan</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Anchen Liu</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhuoran Li</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhenyu Wang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mingkai Li</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ming Sun</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Huichuan Wang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yunjing Sun</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yuanhao Bai</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jiande Zhang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xudong Yan</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shuxian Li</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hao Yuan</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jun Jiang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiaoyi Wang</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fulong Ye</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Liangui Zhou</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shishen Shen</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenxu Lu</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; width: 100%; box-sizing: border-box;">
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Zhenyu Li</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Guowei Sun</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yiming Zhou</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Linghao Zhang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jian Miao</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Tianhao Chen</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Chenyuan Jia</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xin Li</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Hao Dong</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Kezhen Li</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Ran Zhuang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Peihan Duan</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Anchen Liu</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Zhuoran Li</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Zhenyu Wang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Mingkai Li</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Ming Sun</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Huichuan Wang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yunjing Sun</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Yuanhao Bai</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jiande Zhang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xudong Yan</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Shuxian Li</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Hao Yuan</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jun Jiang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Xiaoyi Wang</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Fulong Ye</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Liangui Zhou</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Shishen Shen</div>
+      <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Wenxu Lu</div>
     </div>
- <li style="margin-bottom: 10px;">
+  </li>
 </ul>
 </details>
 
