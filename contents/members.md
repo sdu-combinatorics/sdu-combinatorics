@@ -188,7 +188,6 @@
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junjie Chen</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lidan Ping</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hualong Li</div>
-        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Liu</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jiaxuan Li</div>
         <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Chenchen Wang</div>
