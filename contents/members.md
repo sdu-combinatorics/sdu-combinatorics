@@ -43,12 +43,14 @@ Professor, Shandong University
     <td align="left">Qiancheng Ouyang</td>
     <td align="left">Wenling Zhou</td>
     <td align="left">Weichan Liu</td>
-    <td align="left">Xinyu Hu</td>
-    <td align="left">Yun Wang</td>
   </tr>
   <tr>
+     <td align="left">Xinyu Hu</td>
+    <td align="left">Yun Wang</td>
     <td align="left">Xiangxiang Nie</td>
     <td align="left">Linpeng Zhang</td>
+  </tr>
+  <tr>
     <td align="left">Jialu Zhu</td>
     <td></td><td></td><td></td> <!-- 填充空白以保持格式整洁 -->
   </tr>
