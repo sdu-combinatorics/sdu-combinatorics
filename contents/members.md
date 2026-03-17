@@ -48,6 +48,7 @@
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Linpeng Zhang</div>
       <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Jialu Zhu</div>
     </div>
+    <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://xuzhang29.github.io/" target="_blank" rel="noopener">Xu Zhang</a></div>
   </li>
 </ul>
 </details>
