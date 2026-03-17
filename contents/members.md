@@ -61,7 +61,7 @@ Professor, Shandong University
      Master Students
   </summary>
   <ul style="margin-top: 0.5rem;">
-<li> Current: Wenxu Lu, Zhenyu Li, Guowei Sun, Yiming Zhou, Linghao Zhang, Jian Miao, Tianhao Chen, Chenyuan Jia, Xin Li, Hao Dong, Kezhen Li, Ran Zhuang, Peihan Duan, Anchen Liu, Zhuoran Li, Zhenyu Wang, Mingkai Li, Ming Sun, Huichuan Wang, Yunjing Sun, Yuanhao Bai, Jiande Zhang, Xudong Yan, Shuxian Li, Hao Yuan, Jun Jiang, Xiaoyi Wang, Fulong Ye, Liangui Zhou, Junyu Ren, Shishen Shen
+<li> Current: Zhenyu Li, Guowei Sun, Yiming Zhou, Linghao Zhang, Jian Miao, Tianhao Chen, Chenyuan Jia, Xin Li, Hao Dong, Kezhen Li, Ran Zhuang, Peihan Duan, Anchen Liu, Zhuoran Li, Zhenyu Wang, Mingkai Li, Ming Sun, Huichuan Wang, Yunjing Sun, Yuanhao Bai, Jiande Zhang, Xudong Yan, Shuxian Li, Hao Yuan, Jun Jiang, Xiaoyi Wang, Fulong Ye, Liangui Zhou, Junyu Ren, Shishen Shen, Wenxu Lu
 <li> Former: Yuqi Zhao, Junjie Chen, Lidan Ping, Ji Jin, Hualong Li, Qiancheng Ouyang, Jie Liu, Jiaxuan Li, Chenchen Wang, Jie Hu, Xia Wang, Xichao Shu, Jian Gong, Tianjiao Dai, Shumin Sun, Fan Chang, Hu Chen
   </ul>
 </details>
