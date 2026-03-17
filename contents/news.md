@@ -37,6 +37,9 @@
     </a>
     &nbsp;&nbsp;&nbsp;
     <strong>Password:</strong> SDUCOMB
+    &nbsp;&nbsp;&nbsp;
+        <strong>Website:</strong>
+        <a href="https://www.wgh-comb.net" target="_blank" rel="noopener">wgh-comb.net</a>
   </p>
 </div>
 
