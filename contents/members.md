@@ -36,19 +36,20 @@ Professor, Shandong University
   <summary style="list-style: none; cursor: pointer; font-family: 'Kanit', sans-serif; font-size: 1.75rem; font-weight: 600; color: var(--h-title-color); margin: 1.2rem 0 0.8rem 0;">
       Postdoctoral Researchers
   </summary>:
-  <ul style="margin-top: 0.5rem;">
-  <li><strong>Current:</strong>
+ <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li style="margin-bottom: 10px;">
+    <strong>Current:</strong>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Wanting Sun</div>
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Qiancheng Ouyang</div>
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Wenling Zhou</div>
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Weichan Liu</div>
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Xinyu Hu</div>
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Yun Wang</div>
-  
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Xiangxiang Nie</div>
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Linpeng Zhang</div>
-  <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Jialu Zhu</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wanting Sun</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qiancheng Ouyang</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenling Zhou</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Weichan Liu</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xinyu Hu</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yun Wang</div> 
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiangxiang Nie</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linpeng Zhang</div>
+  <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jialu Zhu</div>
 </div>
 <li> Former: Donglei Yang, Yulin Chang, Lida Jing, Mengjiao Rao, Fan Yang, Tianjiao Dai, Fanpeng Song, Heng Li
   </ul>
@@ -60,25 +61,26 @@ Professor, Shandong University
   <summary style="list-style: none; cursor: pointer; font-family: 'Kanit', sans-serif; font-size: 1.75rem; font-weight: 600; color: var(--h-title-color); margin: 1.2rem 0 0.8rem 0;">
       Ph.D. Students
   </summary>
-  <ul style="margin-top: 0.5rem;">
-<li> <strong>Current:</strong>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Zhiwei Zhang</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Lan Wei</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Xia Wang</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Pingchuan Yang</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Longma Du</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Nannan Chen</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Jie Wang</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Mengyang Zhao</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Mengjie Chen</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Xiaojing Zhang</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Junyu Ren</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">ChenCheng Ma</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Dongxu Chang</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Qingqing Peng</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Lei Huang</div>
-    <div style="width: 16.66%; text-align: left; box-sizing: border-box;">Ji Jin</div>
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li style="margin-bottom: 10px;">
+    <strong>Current:</strong>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhiwei Zhang</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lan Wei</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xia Wang</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Pingchuan Yang</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Longma Du</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Nannan Chen</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jie Wang</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengyang Zhao</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mengjie Chen</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiaojing Zhang</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junyu Ren</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">ChenCheng Ma</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Dongxu Chang</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Qingqing Peng</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lei Huang</div>
+    <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
   </div>
 <li> Former: Bingyu Luan, Longlong Li, Lin Sun, Kai Yan, Jialin Bi, Bin Wang, Dawei Yin, Hua Liu, Ming Zhang, Huicong Liang, Tong Li, Yawei Niu, Yulin Chang
   </ul>
@@ -90,43 +92,44 @@ Professor, Shandong University
   <summary style="list-style: none; cursor: pointer; font-family: 'Kanit', sans-serif; font-size: 1.75rem; font-weight: 600; color: var(--h-title-color); margin: 1.2rem 0 0.8rem 0;">
      Master Students
   </summary>
-  <ul style="margin-top: 0.5rem;">
-<li> <strong>Current:</strong>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Zhenyu Li</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Guowei Sun</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Yiming Zhou</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Linghao Zhang</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Jian Miao</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Tianhao Chen</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Chenyuan Jia</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Xin Li</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Hao Dong</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Kezhen Li</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Ran Zhuang</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Peihan Duan</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Anchen Liu</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Zhuoran Li</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Zhenyu Wang</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Mingkai Li</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Ming Sun</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Huichuan Wang</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Yunjing Sun</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Yuanhao Bai</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Jiande Zhang</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Xudong Yan</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Shuxian Li</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Hao Yuan</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Jun Jiang</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Xiaoyi Wang</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Fulong Ye</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Liangui Zhou</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Junyu Ren</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Shishen Shen</div>
-    <div style="width: 16.66%; min-width: 150px; text-align: left; box-sizing: border-box;">Wenxu Lu</div>
-  </div>
-<li> Former: Yuqi Zhao, Junjie Chen, Lidan Ping, Ji Jin, Hualong Li, Qiancheng Ouyang, Jie Liu, Jiaxuan Li, Chenchen Wang, Jie Hu, Xia Wang, Xichao Shu, Jian Gong, Tianjiao Dai, Shumin Sun, Fan Chang, Hu Chen
-  </ul>
+ <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li style="margin-bottom: 10px;">
+    <strong>Current:</strong>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhenyu Li</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Guowei Sun</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yiming Zhou</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Linghao Zhang</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jian Miao</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tianhao Chen</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Chenyuan Jia</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xin Li</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hao Dong</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Kezhen Li</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ran Zhuang</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Peihan Duan</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Anchen Liu</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhuoran Li</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Zhenyu Wang</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Mingkai Li</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ming Sun</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Huichuan Wang</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yunjing Sun</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yuanhao Bai</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jiande Zhang</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xudong Yan</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shuxian Li</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hao Yuan</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jun Jiang</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiaoyi Wang</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fulong Ye</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Liangui Zhou</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junyu Ren</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shishen Shen</div>
+      <div style="min-width: 140px; flex: 1 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenxu Lu</div>
+    </div>
+  </li> Former: Yuqi Zhao, Junjie Chen, Lidan Ping, Ji Jin, Hualong Li, Qiancheng Ouyang, Jie Liu, Jiaxuan Li, Chenchen Wang, Jie Hu, Xia Wang, Xichao Shu, Jian Gong, Tianjiao Dai, Shumin Sun, Fan Chang, Hu Chen
+</ul>
 </details>
 
 
