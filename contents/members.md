@@ -151,7 +151,6 @@ Professor, Shandong University
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Xiaoyi Wang</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Fulong Ye</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Liangui Zhou</div>
-  <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Junyu Ren</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Shishen Shen</div>
   <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Wenxu Lu</div>
     </div>
