@@ -37,7 +37,7 @@ Professor, Shandong University
       Postdoctoral Researchers
   </summary>
   <ul style="margin-top: 0.5rem;">
-<li> Current: Yun Wang, Wenling Zhou, Wanting Sun, Qiancheng Ouyang, Xiangxiang Nie, Weichan Liu, Jialu Zhu, Xinyu Hu, Linpeng Zhang
+<li> Current: Wanting Sun, Qiancheng Ouyang, Wenling Zhou, Weichan Liu, Xinyu Hu, Yun Wang, Xiangxiang Nie, Linpeng Zhang, Jialu Zhu
 <li> Former: Donglei Yang, Fan Yang, Tianjiao Dai, Lida Jing, Mengjiao Rao, Fanpeng Song, Yulin Chang, Heng Li
   </ul>
 </details>
