@@ -125,11 +125,11 @@ Organized by:
     
 **1. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/>
   **School of Mathematics, Shandong University**  
-  **Speakers:** [Guanghui Wang], [Yangyang Cheng], [Qiancheng Ouyang], [Fan Chang](https://fanchang1997.github.io/FanChangmath.github.io/), Guanghui Wang  
+  **Speakers:** [Yangyang Cheng], [Qiancheng Ouyang], [Fan Chang](https://fanchang1997.github.io/FanChangmath.github.io/), Guanghui Wang  
   <!--**Role:** Initiator & Organizer-->
 
     
-**1. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**2. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
   **Speakers:** [Donglei Yang](https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.htm), Guanghui Wang  
   <!--**Role:** Initiator & Organizer-->
@@ -140,7 +140,7 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
-**2. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**3. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
   **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
   <!--**Role:** Initiator & Organizer  -->
@@ -151,7 +151,7 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
-**3. Probabilistic Combinatorics (Fall 20222)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**4. Probabilistic Combinatorics (Fall 20222)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
   <!--**Role:** Initiator & Organizer --> 
   
@@ -161,7 +161,7 @@ Organized by:
 <div class="item-with-poster">
   <div class="item-text">
     
-**4. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**5. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online** 
   **Speakers:** [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)  
   <!--**Role:** Initiator & Organizer -->
@@ -172,7 +172,7 @@ Organized by:
 <div class="item-with-poster">
 <div class="item-text">
 
-**5. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**6. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
 **School of Mathematics, Shandong University**  
   **Speakers:** Guanghui Wang  
   <!--**Role:** Initiator & Organizer-->
@@ -182,7 +182,7 @@ Organized by:
 <div class="item-with-poster">
 <div class="item-text">
 
-**6. Analysis of Boolean Functions (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_1.png" target="_blank" rel="noopener">poster</a><br/>
+**7. Analysis of Boolean Functions (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_1.png" target="_blank" rel="noopener">poster</a><br/>
   **Online** 
   <!--**Role:** Initiator & Organizer-->
   
