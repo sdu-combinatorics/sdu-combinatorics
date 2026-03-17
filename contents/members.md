@@ -93,7 +93,24 @@ Professor, Shandong University
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lei Huang</div>
     <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ji Jin</div>
   </div>
-<li> Former: Bingyu Luan, Longlong Li, Lin Sun, Kai Yan, Jialin Bi, Bin Wang, Dawei Yin, Hua Liu, Ming Zhang, Huicong Liang, Tong Li, Yawei Niu, Yulin Chang
+<li style="margin-bottom: 10px;">
+    <strong>Former:</strong>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Bingyu Luan</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Longlong Li</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Lin Sun</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Kai Yan</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Jialin Bi</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Bin Wang</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Dawei Yin</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Hua Liu</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Ming Zhang</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Huicong Liang</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Tong Li</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yawei Niu</div>
+        <div style="flex: 0 0 140px; text-align: left; box-sizing: border-box; white-space: nowrap;">Yulin Chang</div>
+    </div>
+</li>
   </ul>
 </details>
 
