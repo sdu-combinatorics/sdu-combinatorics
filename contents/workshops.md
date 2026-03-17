@@ -6,14 +6,70 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
 ## Contents
 - [Seminar（student）](#seminar（student）)<br/>
-- [Summer School](#summer-school)<br/>
 - [Courses](#courses)<br/>
+- [Summer School](#summer-school)<br/>
+
 
 <!--<a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a>
 ## <a id="workshops"></a>Workshops
 <a href="video.html?id=talk-001">Watch video</a>-->
 ## <a id="seminar（student）"></a>Seminar（student）
 ### 2026
+
+
+## <a id="courses"></a>Courses
+
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**1. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/>
+  **School of Mathematics, Shandong University**  
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Yangyang Cheng, Qiancheng Ouyang, <a href="https://fanchang1997.github.io/FanChangmath.github.io/" target="_blank" rel="noopener">Fan Chang</a>
+  <!--**Role:** Initiator & Organizer-->
+
+    
+**2. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
+  **School of Mathematics, Shandong University**  
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index/1737664/list/index.htm" target="_blank" rel="noopener">DongLei Yang </a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
+  <!--**Role:** Initiator & Organizer-->
+  
+<div class="item-with-poster">
+  <div class="item-text">
+    
+**3. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
+  **Online**  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
+  <!--**Role:** Initiator & Organizer  -->
+
+
+    
+**4. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
+  **School of Mathematics, Shandong University**  
+  <!--**Role:** Initiator & Organizer --> 
+
+    
+**5. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
+  **Online** 
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
+  <!--**Role:** Initiator & Organizer -->
+  
+
+**6. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**School of Mathematics, Shandong University**  
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
+  <!--**Role:** Initiator & Organizer-->
+  
+**7. Analysis of Boolean Functions (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_1.png" target="_blank" rel="noopener">poster</a><br/>
+  **Online** 
+  <!--**Role:** Initiator & Organizer-->
+  
+
+**8. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
+  **Online**  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>  
+  <!--**Role:** Initiator & Organizer-->
+
+
 
 
 
@@ -52,52 +108,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
 <div class="item-with-poster">
   <div class="item-text">
-    
-**3. Extremal Combinatorics (Summer 2020)**  &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_1.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="static/assets/img/2020_summer_school_2.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
-  **Online** · Jul 26 – Aug 8, 2020  
-  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>, <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/moreira/" target="_blank" rel="noopener">Joel Moreira</a>  
-  <!--**Role:** Initiator & Organizer-->
 
-
-<div class="item-with-poster">
-  <div class="item-text">
-    
-**4. Methods in Combinatorics (Summer 2019)**  &nbsp;&nbsp; <a href="static/assets/img/2019_summer_school.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
-  **School of Mathematics, Shandong University** · Aug 3–9, 2019  
-  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
-  <!--**Role:** Initiator & Organizer-->
-
-
-
-**5. Extremal Combinatorics (Summer 2018)**  &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a> <br>
-  **School of Mathematics, Shandong University** · Jul 2–8, 2018  
-  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
-  <!--**Role:** Initiator & Organizer-->
-
-
-
-## <a id="courses"></a>Courses
-
-<div class="item-with-poster">
-  <div class="item-text">
-    
-**1. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/>
-  **School of Mathematics, Shandong University**  
-  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Yangyang Cheng, Qiancheng Ouyang, <a href="https://fanchang1997.github.io/FanChangmath.github.io/" target="_blank" rel="noopener">Fan Chang</a>
-  <!--**Role:** Initiator & Organizer-->
-
-    
-**2. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
-  **School of Mathematics, Shandong University**  
-  **Speakers:** <a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index/1737664/list/index.htm" target="_blank" rel="noopener">DongLei Yang </a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
-  <!--**Role:** Initiator & Organizer-->
-  
-
-
-
-<div class="item-with-poster">
-  <div class="item-text">
-    
 **3. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
@@ -115,42 +126,13 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   
 
 
-
 <div class="item-with-poster">
   <div class="item-text">
-    
-**5. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
-  **Online** 
-  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
-  <!--**Role:** Initiator & Organizer -->
-  
 
-
-
-<div class="item-with-poster">
-<div class="item-text">
-
-**6. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
-**School of Mathematics, Shandong University**  
-  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
+**5. Extremal Combinatorics (Summer 2018)**  &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a> <br>
+  **School of Mathematics, Shandong University** · Jul 2–8, 2018  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
-  
 
 
-<div class="item-with-poster">
-<div class="item-text">
-
-**7. Analysis of Boolean Functions (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_1.png" target="_blank" rel="noopener">poster</a><br/>
-  **Online** 
-  <!--**Role:** Initiator & Organizer-->
-  
-
-
-<div class="item-with-poster">
-<div class="item-text">
-
-**8. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
-  **Online**  
-  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>  
-  <!--**Role:** Initiator & Organizer-->
   
