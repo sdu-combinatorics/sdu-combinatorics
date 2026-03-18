@@ -9,12 +9,16 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 - [Courses](#courses)<br/>
 - [Summer School](#summer-school)<br/>
 
+----
 
 <!--<a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a>
 ## <a id="workshops"></a>Workshops
 <a href="video.html?id=talk-001">Watch video</a>-->
 ## <a id="seminars(student)"></a>Seminars (student)
 ### 2026
+
+
+---
 
 
 ## <a id="courses"></a>Courses
@@ -71,7 +75,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
 
 
-
+---
 
   
 ## <a id="summer-school"></a>Summer School
