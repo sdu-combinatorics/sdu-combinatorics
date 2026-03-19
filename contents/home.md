@@ -35,8 +35,8 @@ extremal combinatorics, and discrete mathematics.
 </div> -->
 
 <div class="news-item">
- We are pleased to announce that <strong>Prof. <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a></strong> will give a seminar on March 19, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2601" target="_blank" rel="noopener">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>”</em></strong>.
+ We are pleased to announce that <strong>Prof. <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a></strong> will give a seminar on April 2, 2026.
+    The title of his talk is <strong><em>“  <a href="abstract.html?id=2602" target="_blank" rel="noopener">Hamiltonian oriented path and cycle discrepancy of digraphs</a>”</em></strong>.
   </p>
  
   <strong>Time:</strong> 17:00–18:10 (UTC+8)</strong>;
