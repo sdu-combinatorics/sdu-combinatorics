@@ -142,7 +142,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ---
 
 ## <a id="talks"></a>Talks
-**1. Natural graph spectra (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/ziqingxiang03202006.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**1. Natural graph spectra (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/ziqingxiang03202006.jpg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, ‌Southern University of Science and Technology**  
   **Speakers:** <a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index/1737664/list/index.htm" target="_blank" rel="noopener">DongLei Yang </a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Ziqing Xiang</a>
   <!--**Role:** Initiator & Organizer-->
