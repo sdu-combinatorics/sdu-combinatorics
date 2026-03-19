@@ -142,10 +142,12 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ---
 
 ## <a id="talks"></a>Talks
-**1. Natural graph spectra (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/ziqingxiang03202006.jpg" target="_blank" rel="noopener">poster</a><br/>
+**1. Natural graph spectra (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/ziqingxiang3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, ‌Southern University of Science and Technology**  
-  **Speakers:** <a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index/1737664/list/index.htm" target="_blank" rel="noopener">DongLei Yang </a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Ziqing Xiang</a>
+  **Speakers:** Ziqing Xiang
   <!--**Role:** Initiator & Organizer-->
 
-
+**2. Odd Covers of Complete Graphsand Hypergraphs (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/TaShengTan3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
+  **School of Mathematics, ‌University of Malaya**  
+  **Speakers:** Ta Sheng Tan , 
   
