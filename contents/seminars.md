@@ -28,23 +28,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 ### Upcoming Talks
-<div class="seminar-item">
-  <div class="seminar-date">
-    <strong style="font-size: 17px;">Mar 19</strong>
-    <span style="font-size: 17px;">2026</span>
-  </div>
 
-  <div class="seminar-content">
-    <strong>Title:</strong>
-      <a href="abstract.html?id=2601" target="_blank">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a><br />
-    <strong>Speaker:</strong>
-    Prof.
-   <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a><br />
-    <strong>Time:</strong> 17:00–18:10
-    &nbsp;&nbsp;
-    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
-  </div>
-</div>
 
 <div class="seminar-item">
   <div class="seminar-date">
@@ -83,6 +67,21 @@ All time in this webpage refers to Beijing Time (GMT+8).
 </div>
 
 ### Previous Talks
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">Mar 19</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2601" target="_blank">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a><br />
+    <strong>Speaker:</strong>
+    Prof.
+   <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a>
+  </div>
+</div>
 <!-- <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">Mar 12</strong><br />
