@@ -7,8 +7,9 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ## Contents
 - [Seminars (student)](#seminars(student))<br/>
 - [Courses](#courses)<br/>
-- [Summer School](#summer-school)<br/>
 - [Talks](#talks)<br/>
+- [Summer School](#summer-school)<br/>
+
 
 ----
 
@@ -74,7 +75,17 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>  
   <!--**Role:** Initiator & Organizer-->
 
+---
 
+## <a id="talks"></a>Talks
+**1. Natural graph spectra (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/static/assets/img/ziqingxiang3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
+  **School of Mathematics, ‌Southern University of Science and Technology**  
+  **Speakers:** Ziqing Xiang
+  <!--**Role:** Initiator & Organizer-->
+
+**2. Odd Covers of Complete Graphsand Hypergraphs (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/TaShengTan3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
+  **School of Mathematics, ‌University of Malaya**  
+  **Speakers:** Ta Sheng Tan 
 
 ---
 
@@ -139,15 +150,5 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
   <!--**Role:** Initiator & Organizer-->
 
----
 
-## <a id="talks"></a>Talks
-**1. Natural graph spectra (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/ziqingxiang3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
-  **School of Mathematics, ‌Southern University of Science and Technology**  
-  **Speakers:** Ziqing Xiang
-  <!--**Role:** Initiator & Organizer-->
-
-**2. Odd Covers of Complete Graphsand Hypergraphs (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/TaShengTan3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
-  **School of Mathematics, ‌University of Malaya**  
-  **Speakers:** Ta Sheng Tan , 
   
