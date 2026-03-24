@@ -33,8 +33,16 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Yangyang Cheng, Qiancheng Ouyang, <a href="https://fanchang1997.github.io/FanChangmath.github.io/" target="_blank" rel="noopener">Fan Chang</a>
   <!--**Role:** Initiator & Organizer-->
 
+**2. Combinatorics – Ramsey Theory (Spring 2026)**  &nbsp;&nbsp; <br/>
+  **School of Mathematics, Shandong University**  
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Xinyu Hu, Wenling Zhou.
+  **Video:**
+  <!--**Role:** Initiator & Organizer-->
+
+
+
     
-**2. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**3. Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
   **Speakers:** <a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index/1737664/list/index.htm" target="_blank" rel="noopener">DongLei Yang </a>, <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
   <!--**Role:** Initiator & Organizer-->
@@ -42,35 +50,35 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 <div class="item-with-poster">
   <div class="item-text">
     
-**3. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**4. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
   <!--**Role:** Initiator & Organizer  -->
 
 
     
-**4. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**5. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
   <!--**Role:** Initiator & Organizer --> 
 
     
-**5. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**6. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online** 
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
   <!--**Role:** Initiator & Organizer -->
   
 
-**6. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**7. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
 **School of Mathematics, Shandong University**  
   **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>
   <!--**Role:** Initiator & Organizer-->
   
-**7. Analysis of Boolean Functions (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_1.png" target="_blank" rel="noopener">poster</a><br/>
+**8. Analysis of Boolean Functions (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_1.png" target="_blank" rel="noopener">poster</a><br/>
   **Online** 
   <!--**Role:** Initiator & Organizer-->
   
 
-**8. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**9. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>  
   <!--**Role:** Initiator & Organizer-->
