@@ -36,7 +36,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 **2. Combinatorics – Ramsey Theory (Spring 2026)**  &nbsp;&nbsp; <br/>
   **School of Mathematics, Shandong University**  
   **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Xinyu Hu, <a href="https://wenling-zhou.github.io/" target="_blank" rel="noopener">Wenling Zhou</a>. <br/>
-  **Video:**
+  **Video:** <a href="video.html?id=talk-001" target="_blank" rel="noopener"><strong>[video]</strong></a> <a href="video.html?id=talk-001" target="_blank" rel="noopener"><strong>[video]</strong></a>
   <!--**Role:** Initiator & Organizer-->
 
 
