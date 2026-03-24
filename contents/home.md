@@ -15,7 +15,7 @@ extremal combinatorics, and discrete mathematics.
 </p>
 
 <body>
-    <img src="images/my-photo.jpg" width="400">
+    <img src="static/assets/img/SDU Comb Group.jpg" width="400">
 </body>
 
 <!--<div class="research-grid">
