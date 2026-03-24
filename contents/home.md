@@ -11,7 +11,7 @@ and Prof. <strong><a href="https://faculty.sdu.edu.cn/yangdonglei1/zh_CN/index.h
 <p class="home-intro">
 The SDU Combinatorics Group focuses on fundamental problems in combinatorics,
 with particular emphasis on graph theory, probabilistic methods,
-extremal combinatorics, and discrete mathematics.</p><br/>
+extremal combinatorics, and discrete mathematics.</p>
 <p style="font-size: 30px;"><strong>Scan the code to follow our WeChat Official Account: SDU Comb Group.</strong></p>
 <body>
     <img src="static/assets/img/SDU Comb Group.jpg" width="300">
