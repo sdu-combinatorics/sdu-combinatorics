@@ -76,7 +76,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2601" target="_blank">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>&nbsp;&nbsp; <a href="static/data/videos.json/id=talk-001" target="_blank" rel="noopener">video</a><br/>
+      <a href="abstract.html?id=2601" target="_blank">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>&nbsp;&nbsp; <a href="video.html?id=talk-001" target="_blank" rel="noopener">video</a><br/>
     <strong>Speaker:</strong>
     Prof.
    <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a>
