@@ -99,7 +99,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
   <div class="seminar-content">
     <strong>Title:</strong>
       <a href="abstract.html?id=2602" target="_blank">Hamiltonian oriented path and cycle discrepancy of digraphs</a><br />
-    <strong>Video:</strong> <a href="video.html?id=talk-001" target="_blank" rel="noopener">video</a><br/>
+    <strong>Video:</strong> <a href="video.html?id=talk-002" target="_blank" rel="noopener"></a><br/>
     <strong>Speaker:</strong>
     Prof.
    <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a><br />
