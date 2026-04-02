@@ -37,8 +37,9 @@ extremal combinatorics, and discrete mathematics.</p>
 <a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 19.</a>
 </div> -->
 
+
 <div class="news-item">
- We are pleased to announce that <strong>Prof. <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a></strong> will give a seminar on April 2, 2026.
+ We are pleased to announce that <strong>Prof. <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a></strong> will give a seminar on April 16, 2026.
     The title of his talk is <strong><em>“  <a href="abstract.html?id=2602" target="_blank" rel="noopener">Hamiltonian oriented path and cycle discrepancy of digraphs</a>”</em></strong>.
   </p>
  
