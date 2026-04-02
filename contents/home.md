@@ -40,7 +40,7 @@ extremal combinatorics, and discrete mathematics.</p>
 
 <div class="news-item">
  We are pleased to announce that <strong>Prof. <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a></strong> will give a seminar on April 16, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2602" target="_blank" rel="noopener">Hamiltonian oriented path and cycle discrepancy of digraphs</a>”</em></strong>.
+    The title of his talk is <strong><em>“  <a href="abstract.html?id=2602" target="_blank" rel="noopener">Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree</a>”</em></strong>.
   </p>
  
   <strong>Time:</strong> 17:00–18:10 (UTC+8)</strong>;
