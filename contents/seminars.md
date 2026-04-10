@@ -59,7 +59,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2603" target="_blank"></a><br />
+      <a href="abstract.html?id=2604" target="_blank">Compatible Hamilton cycles</a><br />
     <strong>Speaker:</strong>
     Prof.
    <a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a><br />
