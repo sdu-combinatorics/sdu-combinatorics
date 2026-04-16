@@ -45,7 +45,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
     <strong>Title:</strong>
       <a href="abstract.html?id=2604" target="_blank">Compatible Hamilton cycles</a><br />
     <strong>Speaker:</strong>
-    Prof.
    <a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a><br />
     <strong>Time:</strong> 17:00–18:10
     &nbsp;&nbsp;
@@ -63,7 +62,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
     <strong>Title:</strong>
       <a href="abstract.html?id=2605" target="_blank">The Hajnal-Szemerédi theorem for digraphs</a><br />
     <strong>Speaker:</strong>
-    Prof.
    <a href="https://louisdebiasio.github.io/" target="_blank" rel="noopener">Louis DeBiasio</a><br />
     <strong>Time:</strong> 20:00-21:10
     &nbsp;&nbsp;
@@ -86,7 +84,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
       <a href="abstract.html?id=2603" target="_blank">Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree</a><br />
     <strong>Video:</strong> <a href="video.html?id=talk-003" target="_blank" rel="noopener">video</a><br/>
     <strong>Speaker:</strong>
-    Prof.
    <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a><br />
   </div>
 </div>
@@ -102,7 +99,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
       <a href="abstract.html?id=2602" target="_blank">Hamiltonian oriented path and cycle discrepancy of digraphs</a><br />
     <strong>Video:</strong> <a href="video.html?id=talk-002" target="_blank" rel="noopener">video</a><br/>
     <strong>Speaker:</strong>
-    Prof.
    <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a><br />
   </div>
 </div>
@@ -120,7 +116,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
       <a href="abstract.html?id=2601" target="_blank">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>&nbsp;&nbsp; <br/>
     <strong>Video:</strong> <a href="video.html?id=talk-001" target="_blank" rel="noopener">video</a><br/>
     <strong>Speaker:</strong>
-    Prof.
    <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a>  </a>
                                                                                               
   </div>
