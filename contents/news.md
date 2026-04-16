@@ -2,7 +2,7 @@
 
 
 <div id="news-20260521" class="news-entry">
-  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Louis DeBiasio on April 30</h3>
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Louis DeBiasio on May 21</h3>
   <p>
      We are pleased to announce that Prof. <a href="https://louisdebiasio.github.io/" target="_blank" rel="noopener">Louis DeBiasio</a> will give a seminar on May 21, 2026.
     The title of his talk is <em>“<a href="abstract.html?id=2605" target="_blank" rel="noopener">The Hajnal-Szemerédi theorem for digraphs</a>”</em>.
