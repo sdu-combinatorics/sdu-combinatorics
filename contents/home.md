@@ -39,7 +39,7 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong>Prof. <a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a></strong> will give a seminar on April 30, 2026.
+ We are pleased to announce that <strong><a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a></strong> will give a seminar on April 30, 2026.
     The title of his talk is <strong><em>“  <a href="abstract.html?id=2604" target="_blank" rel="noopener">Compatible Hamilton cycles</a>”</em></strong>.
   </p>
  
