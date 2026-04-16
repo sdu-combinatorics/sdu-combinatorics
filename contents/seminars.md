@@ -77,7 +77,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2603" target="_blank"></a><br />
+      <a href="abstract.html?id=2605" target="_blank">The Hajnal-Szemerédi theorem for digraphs</a><br />
     <strong>Speaker:</strong>
     Prof.
    <a href="https://louisdebiasio.github.io/" target="_blank" rel="noopener">Louis DeBiasio</a><br />
