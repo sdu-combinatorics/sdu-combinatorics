@@ -1,6 +1,50 @@
 ### 2026
 
 
+<div id="news-20260521" class="news-entry">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Louis DeBiasio on April 30</h3>
+  <p>
+     We are pleased to announce that Prof. <a href="https://louisdebiasio.github.io/" target="_blank" rel="noopener">Louis DeBiasio</a> will give a seminar on May 21, 2026.
+    The title of his talk is <em>“<a href="abstract.html?id=2605" target="_blank" rel="noopener">The Hajnal-Szemerédi theorem for digraphs</a>”</em>.
+  </p>
+  <p>
+    <strong>Time:</strong> 20:00–21:10 (UTC+8)
+    &nbsp;&nbsp;&nbsp;
+    <strong>Zoom ID:</strong>
+    <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
+      632 7868 8120
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <strong>Password:</strong> SDUCOMB
+    &nbsp;&nbsp;&nbsp;
+        <strong>Website:</strong>
+        <a href="https://www.wgh-comb.net" target="_blank" rel="noopener">wgh-comb.net</a>
+  </p>
+</div>
+
+
+
+<div id="news-20260430" class="news-entry">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Allan Lo on April 30</h3>
+  <p>
+     We are pleased to announce that Prof. <a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a> will give a seminar on April 30, 2026.
+    The title of his talk is <em>“<a href="abstract.html?id=2604" target="_blank" rel="noopener">Compatible Hamilton cycles</a>”</em>.
+  </p>
+  <p>
+    <strong>Time:</strong> 17:00–18:10 (UTC+8)
+    &nbsp;&nbsp;&nbsp;
+    <strong>Zoom ID:</strong>
+    <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
+      632 7868 8120
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <strong>Password:</strong> SDUCOMB
+    &nbsp;&nbsp;&nbsp;
+        <strong>Website:</strong>
+        <a href="https://www.wgh-comb.net" target="_blank" rel="noopener">wgh-comb.net</a>
+  </p>
+</div>
+
 
 <div id="news-20260416" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Prof. Anders Yeo on April 16</h3>
