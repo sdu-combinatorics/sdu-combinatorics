@@ -32,23 +32,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 
-<div class="seminar-item">
-  <div class="seminar-date">
-    <strong style="font-size: 17px;">April 16</strong>
-    <span style="font-size: 17px;">2026</span>
-  </div>
 
-  <div class="seminar-content">
-    <strong>Title:</strong>
-      <a href="abstract.html?id=2603" target="_blank">Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree</a><br />
-    <strong>Speaker:</strong>
-    Prof.
-   <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a><br />
-    <strong>Time:</strong> 17:00–18:10
-    &nbsp;&nbsp;
-    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
-  </div>
-</div>
 
 
 <div class="seminar-item">
@@ -89,6 +73,23 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 ### Previous Talks
+
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">Apr 16</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2603" target="_blank">Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree</a><br />
+    <strong>Video:</strong> <a href="video.html?id=talk-003" target="_blank" rel="noopener">video</a><br/>
+    <strong>Speaker:</strong>
+    Prof.
+   <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a><br />
+  </div>
+</div>
 
 <div class="seminar-item">
   <div class="seminar-date">
