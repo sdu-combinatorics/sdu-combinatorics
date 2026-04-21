@@ -60,7 +60,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2606" target="_blank">A Structure theorem for sets with doubling $4+\\delta$</a><br />
+      <a href="abstract.html?id=2606" target="_blank">A Structure theorem for sets with doubling 4+δ</a><br />
     <strong>Speaker:</strong>
    <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a><br />
     <strong>Time:</strong> 16:00-17:10
