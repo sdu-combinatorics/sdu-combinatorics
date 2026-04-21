@@ -54,6 +54,23 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 <div class="seminar-item">
   <div class="seminar-date">
+    <strong style="font-size: 17px;">May 7</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2606" target="_blank">A Structure theorem for sets with doubling $4+\\delta$</a><br />
+    <strong>Speaker:</strong>
+   <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a><br />
+    <strong>Time:</strong> 16:00-17:10
+    &nbsp;&nbsp;
+    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
     <strong style="font-size: 17px;">May 21</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
