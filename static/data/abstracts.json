@@ -35,10 +35,10 @@
         "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Louis DeBiasio is a Professor of Mathematics at Miami University in Oxford, Ohio. He is an Associate Editor of the journal Discrete Mathematics. His research focuses on finite and infinite Ramsey theory, as well as spanning structures in graphs using regularity and absorbing methods. </div>"
     },
     "2606": {
-        "name": "荆一凡",
+        "name": "Yifan Jing",
         "title": "A Structure theorem for sets with doubling $4+\\delta$",
          "date": "2026-05-07: 16:00-15:10 (UTC +8)",
         "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">A question of Green asks whether every finite set of integers $A$ with doubling constant $K$ must contain a subset $A'$ of comparable size whose small doubling is explained by some explicit algebraic structure. This was previously understood in the regime $K < 4 - \\delta$, by work of Eberhard, Green, and Manners, who showed that one can find such a subset $A'$ with density at least $1/2 + \\epsilon$ inside a long arithmetic progression. In this talk, I will discuss our extension of this picture to the range $4+\\delta$. We prove that $A$ contains a large subset $A'$ such that either $A'$ has density at least $1/2 - \\epsilon$ in a long arithmetic progression, or $A'$ has density at least $1- \\epsilon$ in a two-dimensional arithmetic progression. The proof combines the arithmetic regularity lemma, geometry of numbers, Brunn--Minkowski-type inequalities, and the structure theory behind the Gowers $U^2$ -norm. This is joint work with Akshat Mudgal. </div>",
-        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">荆一凡，现在为俄亥俄州立大学数学系助理教授。主要研究方向为加性组合，图论，调和分析，群论，曾获得2023年ICA协会Kirkman奖，研究成果发表在GAFA，Math. Ann.，JLMS，TAMS，J. ACM等期刊 </div>"
+        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Yifan Jing is currently an assistant professor in the Department of Mathematics at The Ohio State University. His main research interests include additive combinatorics, graph theory, harmonic analysis, and group theory. He received the 2023 ICA Kirkman Award. His research results have been published in journals such as GAFA, Math. Ann., JLMS, TAMS, and J. ACM. </div>"
     }
 }
