@@ -28,7 +28,7 @@
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Yifan Jing on May 21</h3>
   <p>
      We are pleased to announce that <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a> will give a seminar on May 7, 2026.
-    The title of his talk is <em>“<a href="abstract.html?id=2606" target="_blank" rel="noopener">A Structure theorem for sets with doubling $4+\\delta$</a>”</em>.
+    The title of his talk is <em>“<a href="abstract.html?id=2606" target="_blank" rel="noopener">A Structure theorem for sets with doubling 4+δ</a>”</em>.
   </p>
   <p>
     <strong>Time:</strong> 16:00–17:10 (UTC+8)
