@@ -87,6 +87,57 @@ All time in this webpage refers to Beijing Time (GMT+8).
 </div>
 
 
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">June 18</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2605" target="_blank"></a><br />
+    <strong>Speaker:</strong>
+   <a href="" target="_blank" rel="noopener">Jan Petr</a><br />
+    <strong>Time:</strong> 16:00-17:10
+    &nbsp;&nbsp;
+    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">July 16</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2605" target="_blank"></a><br />
+    <strong>Speaker:</strong>
+   <a href="" target="_blank" rel="noopener">Louis DeBiasio</a>Yiting Wang <br />
+    <strong>Time:</strong> 20:00-21:10
+    &nbsp;&nbsp;
+    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">July 30</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2605" target="_blank">Zhihan Jin</a><br />
+    <strong>Speaker:</strong>
+   <a href="" target="_blank" rel="noopener"></a><br />
+    <strong>Time:</strong> 20:00-21:10
+    &nbsp;&nbsp;
+    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
+  </div>
+</div>
+
 ### Previous Talks
 
 
