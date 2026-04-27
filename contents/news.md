@@ -4,7 +4,7 @@
 <div id="news-20260521" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Louis DeBiasio on May 21</h3>
   <p>
-     We are pleased to announce that <a href="https://louisdebiasio.github.io/" target="_blank" rel="noopener">Louis DeBiasio</a> will give a seminar on May 21, 2026.
+     We are pleased to announce that <a href="https://louisdebiasio.github.io/" target="_blank" rel="noopener">Louis DeBiasio</a> will give a talk on May 21, 2026.
     The title of his talk is <em>“<a href="abstract.html?id=2605" target="_blank" rel="noopener">The Hajnal-Szemerédi theorem for digraphs</a>”</em>.
   </p>
   <p>
