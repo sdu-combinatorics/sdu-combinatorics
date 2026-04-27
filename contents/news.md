@@ -27,7 +27,7 @@
 <div id="news-20260507" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Yifan Jing on May 21</h3>
   <p>
-     We are pleased to announce that <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a> will give a seminar on May 7, 2026.
+     We are pleased to announce that <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a> will give a talk on May 7, 2026.
     The title of his talk is <em>“<a href="abstract.html?id=2606" target="_blank" rel="noopener">A Structure theorem for sets with doubling 4+δ</a>”</em>.
   </p>
   <p>
@@ -48,7 +48,7 @@
 <div id="news-20260430" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Allan Lo on April 30</h3>
   <p>
-     We are pleased to announce that <a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a> will give a seminar on April 30, 2026.
+     We are pleased to announce that <a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a> will give a talk on April 30, 2026.
     The title of his talk is <em>“<a href="abstract.html?id=2604" target="_blank" rel="noopener">Compatible Hamilton cycles</a>”</em>.
   </p>
   <p>
@@ -70,7 +70,7 @@
 <div id="news-20260416" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Anders Yeo on April 16</h3>
   <p>
-     We are pleased to announce that <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a> will give a seminar on April 16, 2026.
+     We are pleased to announce that <a href="https://portal.findresearcher.sdu.dk/en/persons/yeo/" target="_blank" rel="noopener">Anders Yeo</a> will give a talk on April 16, 2026.
     The title of his talk is <em>“<a href="abstract.html?id=2603" target="_blank" rel="noopener">Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree</a>”</em>.
   </p>
   <p>
@@ -92,7 +92,7 @@
 <div id="news-20260402" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Gregory Gutin on April 2</h3>
   <p>
-     We are pleased to announce that <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a> will give a seminar on April 2, 2026.
+     We are pleased to announce that <a href="https://pure.royalholloway.ac.uk/en/persons/gregory-gutin/" target="_blank" rel="noopener">Gregory Gutin</a> will give a talk on April 2, 2026.
     The title of his talk is <em>“<a href="abstract.html?id=2602" target="_blank" rel="noopener">Hamiltonian oriented path and cycle discrepancy of digraphs</a>”</em>.
   </p>
   <p>
@@ -113,7 +113,7 @@
 <div id="news-20260310" class="news-entry">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by Jørgen Bang-Jensen on March 19</h3>
   <p>
-     We are pleased to announce that <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a> will give a seminar on March 19, 2026.
+     We are pleased to announce that <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a> will give a talk on March 19, 2026.
     The title of his talk is <em>“<a href="abstract.html?id=2601" target="_blank" rel="noopener">Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs</a>”</em>.
   </p>
   <p>
