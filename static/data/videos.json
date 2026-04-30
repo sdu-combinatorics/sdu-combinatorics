@@ -11,6 +11,10 @@
     "title": "Judicious Partitions in Edge-Weighted Graphs with Bounded Maximum Weighted Degree",
     "mp4": "https://1412566342.vod-qcloud.com/e95e7aabvodsh1412566342/febadd9d5145403723546014576/A95iaN0Gb1oA.mp4"
   },
+   "talk-004": {
+    "title": "Compatible Hamilton cycles",
+    "mp4": "https://1412566342.vod-qcloud.com/e95e7aabvodsh1412566342/6e99ea7d5145403724608673043/OaTNz7IAFjQA.mp4"
+  },
   "talk-2026ramsey1": {
     "title": "2026RAMSEY3.3",
     "mp4": "https://1412566342.vod-qcloud.com/8a6b03e4vodcq1412566342/1eb9a7405145403720876491018/kE0GJMeoDCcA.mp4"
@@ -38,5 +42,13 @@
   "talk-2026ramsey7": {
     "title": "2026RAMSEY4.14",
     "mp4": "https://1412566342.vod-qcloud.com/8a6b03e4vodcq1412566342/7f1acfa25145403722921543929/8y08O9v8egYA.mp4"
+  },
+  "talk-2026ramsey8": {
+    "title": "2026RAMSEY4.21",
+    "mp4": "https://1412566342.vod-qcloud.com/8a6b03e4vodcq1412566342/edca89c25145403724603686472/MEXWnWPh5kgA.mp4"
+  },
+  "talk-2026ramsey9": {
+    "title": "2026RAMSEY4.28",
+    "mp4": "https://1412566342.vod-qcloud.com/8a6b03e4vodcq1412566342/d1e677185145403724606518114/B5lg1ctcAwkA.mp4"
   }
 }
