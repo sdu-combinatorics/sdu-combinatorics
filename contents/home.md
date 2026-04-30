@@ -39,11 +39,11 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong><a href="https://web.mat.bham.ac.uk/S.A.Lo/" target="_blank" rel="noopener">Allan Lo</a></strong> will give a seminar on April 30, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2604" target="_blank" rel="noopener">Compatible Hamilton cycles</a>”</em></strong>.
+ We are pleased to announce that <strong><a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a></strong> will give a seminar on May 7, 2026.
+    The title of his talk is <strong><em>“  <a href="abstract.html?id=2605" target="_blank" rel="noopener">A Structure theorem for sets with doubling 4+δ</a>”</em></strong>.
   </p>
  
-  <strong>Time:</strong> 17:00–18:10 (UTC+8)</strong>;
+  <strong>Time:</strong> 16:00–17:10 (UTC+8)</strong>;
   
    <strong>Zoom ID:</strong> <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
       632 7868 8120
