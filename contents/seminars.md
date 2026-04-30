@@ -31,12 +31,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 
-
-
-
-
-
-
 <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">May 7</strong>
