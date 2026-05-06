@@ -94,7 +94,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **School of Mathematics, ‌University of Malaya**  
   **Speakers:** Ta Sheng Tan 
   
-  **3. Bootstrap percolationof extension hypergraphs (20 March 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Bjarne Schülke4102026.jpg" target="_blank" rel="noopener">poster</a><br/>
+  **3. Bootstrap percolationof extension hypergraphs (10 April 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Bjarne Schülke4102026.jpg" target="_blank" rel="noopener">poster</a><br/>
   **Institute for Basic Science** 
   **Speakers:** Bjarne Schülke
 
