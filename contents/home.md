@@ -39,7 +39,7 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong><a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a></strong> will give a seminar on May 7, 2026.
+ We are pleased to announce that <strong><a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a></strong> will give a talk on May 7, 2026.
     The title of his talk is <strong><em>“  <a href="abstract.html?id=2606" target="_blank" rel="noopener">A Structure theorem for sets with doubling 4+δ</a>”</em></strong>.
   </p>
  
