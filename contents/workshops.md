@@ -1,4 +1,4 @@
-This page lists summer short courses, and short schools organized or co-organized by the SDU Combinatorics Group.  
+This page lists courses and summer schools organized or co-organized by the SDU Combinatorics Group.  
 For recurring activities, we provide posters/materials when available.  
 Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
