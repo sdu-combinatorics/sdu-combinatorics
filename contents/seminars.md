@@ -223,7 +223,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      Hypergraph Zarankiewicz problems on axis-parallel boxes  &nbsp;&nbsp; <a href="static/assets/img/Zichao Dong05122026.jpg" target="_blank" rel="noopener">poster</a><br/><br/>
+      Hypergraph Zarankiewicz problems on axis-parallel boxes  &nbsp;&nbsp; <a href="static/assets/img/Zichao Dong05122026.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Video:</strong> <a href="video.html?id=talk-007" target="_blank" rel="noopener">video</a> (Chinese)<br/>
     <strong>Speaker:</strong>
    <a href="https://dzch0310.github.io/dzch0310/" target="_blank" rel="noopener">Zichao Dong </a> </a>
@@ -238,7 +238,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      List colouring of planar graphs &nbsp;&nbsp; <a href="static/assets/img/Xuding Zhu05112026.png" target="_blank" rel="noopener">poster</a><br/><br/>
+      List colouring of planar graphs &nbsp;&nbsp; <a href="static/assets/img/Xuding Zhu05112026.png" target="_blank" rel="noopener">poster</a><br/>
     <strong>Video:</strong> <a href="video.html?id=talk-006" target="_blank" rel="noopener">video</a> (Chinese)<br/>
     <strong>Speaker:</strong>
    <a href="https://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm" target="_blank" rel="noopener">Zichao Dong </a> </a>
@@ -300,7 +300,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      Bootstrap percolationof extension hypergraphs &nbsp;&nbsp; <a href="static/assets/img/Bjarne Schülke4102026.jpg" target="_blank" rel="noopener">poster</a><br/><br/>
+      Bootstrap percolationof extension hypergraphs &nbsp;&nbsp; <a href="static/assets/img/Bjarne Schülke4102026.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Speaker:</strong>
    <a href="https://sites.google.com/view/bjarneschuelke/home" target="_blank" rel="noopener">Bjarne Schülke </a> </a>
   </div>
@@ -332,7 +332,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      Odd Covers of Complete Graphsand Hypergraphs &nbsp;&nbsp; <a href="static/assets/img/TaShengTan3202026.jpg" target="_blank" rel="noopener">poster</a><br/><br/>
+      Odd Covers of Complete Graphsand Hypergraphs &nbsp;&nbsp; <a href="static/assets/img/TaShengTan3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Speaker:</strong>
    <a href="" target="_blank" rel="noopener">Ta Sheng Tan </a> </a>
   </div>
@@ -347,7 +347,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      Natural graph spectra &nbsp;&nbsp; <a href="static/assets/img/ziqingxiang3202026.jpg" target="_blank" rel="noopener">poster</a><br/><br/>
+      Natural graph spectra &nbsp;&nbsp; <a href="static/assets/img/ziqingxiang3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Speaker:</strong>
    <a href="https://www.sustech.edu.cn/zh/faculties/xiangziqing.html" target="_blank" rel="noopener">Ziqing Xiang</a>  </a>
   </div>
