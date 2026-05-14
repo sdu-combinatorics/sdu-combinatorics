@@ -1,6 +1,6 @@
 const content_dir = 'contents/';
 const config_file = 'config.yml';
-const section_names = ['home', 'members', 'conferences', 'workshops', 'seminars', 'news'];
+const section_names = ['home', 'members', 'conferences', 'courses', 'seminars', 'news'];
 
 window.addEventListener('DOMContentLoaded', () => {
     const mainNav = document.body.querySelector('#mainNav');
