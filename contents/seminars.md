@@ -55,7 +55,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=260" target="_blank">Off-diagonal Ramsey numbers for hypergraphs</a><br />
+      <a href="abstract.html?id=2607" target="_blank">Off-diagonal Ramsey numbers for hypergraphs</a><br />
     <strong>Speaker:</strong>
    <a href="https://alkjash.github.io/" target="_blank" rel="noopener">Xiaoyu He</a><br />
     <strong>Time:</strong> 20:30-21:40
