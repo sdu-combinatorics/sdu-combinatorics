@@ -60,7 +60,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 const html = marked.parse(markdown);
                 container.innerHTML = html;
 
-                if (['conferences', 'workshops', 'seminars'].includes(name)) {
+                if (['conferences', 'courses', 'seminars'].includes(name)) {
                     formatItemsWithPoster(name + '-md');
                 }
 
