@@ -334,7 +334,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
     <strong>Title:</strong>
       Odd Covers of Complete Graphsand Hypergraphs &nbsp;&nbsp; <a href="static/assets/img/TaShengTan3202026.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Speaker:</strong>
-   <a href="" target="_blank" rel="noopener">Ta Sheng Tan </a> </a>
+   <a href="https://umexpert.um.edu.my/tstan" target="_blank" rel="noopener">Ta Sheng Tan </a> </a>
   </div>
 </div>
 
