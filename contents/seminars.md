@@ -47,6 +47,24 @@ All time in this webpage refers to Beijing Time (GMT+8).
 </div>
 
 
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">May 28</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=260" target="_blank">Off-diagonal Ramsey numbers for hypergraphs</a><br />
+    <strong>Speaker:</strong>
+   <a href="https://alkjash.github.io/" target="_blank" rel="noopener">Xiaoyu He</a><br />
+    <strong>Time:</strong> 20:30-21:40
+    &nbsp;&nbsp;
+    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
+  </div>
+</div>
+
+
 
 <div class="seminar-item">
   <div class="seminar-date">
