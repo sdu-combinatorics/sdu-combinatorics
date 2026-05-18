@@ -22,7 +22,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   <div class="item-text">
 
 
-**1. Introduction to Additive Combinatorics (Spring 2026)**  &nbsp;&nbsp; <a href="static/assets/img/AC Yifan Jin.jpg" target="_blank" rel="noopener">poster</a><br/>
+<strong>1. Introduction to Additive Combinatorics (Spring 2026)</strong>  &nbsp;&nbsp; <a href="static/assets/img/AC Yifan Jin.jpg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
   **Speakers:** <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a> <br/>
    **Video:** <a href="video.html?id=talk-2026additvie combinatorics" target="_blank" rel="noopener">[5.18]</a>
