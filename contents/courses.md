@@ -77,32 +77,18 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   
 ## <a id="summer-school"></a>Summer School
 
-
-
-
-
-<div class="item-with-poster">
-  <div class="item-text">
     
 **1. Extremal Combinatorics (Summer 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_summer_school.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Aug 1–6, 2022  
   **Speakers:**<a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> , <a href="https://sites.google.com/view/jinhakim" target="_blank" rel="noopener">Jinha Kim</a>, <a href="https://sites.google.com/view/minkikim/home" target="_blank" rel="noopener">Minki Kim</a>
-  <!--**Role:** Initiator & Organizer-->
   
 
-
-
-<div class="item-with-poster">
-  <div class="item-text">
     
 **2. Extremal Combinatorics (Summer 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_summer_school.png" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Jul 26 – Aug 1, 2021  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
-  
+ 
 
-
-<div class="item-with-poster">
-  <div class="item-text">
 
 **3. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
@@ -112,8 +98,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
 
 
-<div class="item-with-poster">
-  <div class="item-text">
+
     
 **4. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
@@ -121,8 +106,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   
 
 
-<div class="item-with-poster">
-  <div class="item-text">
+
 
 **5. Extremal Combinatorics (Summer 2018)**  &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a> <br>
   **School of Mathematics, Shandong University** · Jul 2–8, 2018  
