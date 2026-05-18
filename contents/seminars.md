@@ -241,7 +241,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
       List colouring of planar graphs &nbsp;&nbsp; <a href="static/assets/img/Xuding Zhu05112026.png" target="_blank" rel="noopener">poster</a><br/>
     <strong>Video:</strong> <a href="video.html?id=talk-006" target="_blank" rel="noopener">video</a> (Chinese)<br/>
     <strong>Speaker:</strong>
-   <a href="https://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm" target="_blank" rel="noopener">Zichao Dong </a> </a>
+   <a href="https://mypage.zjnu.edu.cn/ZXD/zh_CN/index/47003/list/index.htm" target="_blank" rel="noopener">Xuding Zhu </a> </a>
   </div>
 </div>
 
