@@ -12,10 +12,6 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ----
 
 
-
-
-
-
 ## <a id="courses"></a>Courses
 
 **1. Introduction to Additive Combinatorics (Spring 2026)**  &nbsp;&nbsp; <a href="static/assets/img/AC Yifan Jin.jpg" target="_blank" rel="noopener">poster</a><br/>
@@ -43,19 +39,14 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **Online**  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
 
-
-
     
 **6. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
-
-
     
 **7. Discrete Geometry (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_3.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online** 
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
 
-  
 
 **8. Extremal Graph Theory (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_2.jpeg" target="_blank" rel="noopener">poster</a><br/>
 **School of Mathematics, Shandong University**  
@@ -64,8 +55,6 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   
 **9. Analysis of Boolean Functions (Spring 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_1.png" target="_blank" rel="noopener">poster</a><br/>
   **Online** 
-
-  
 
 **10. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
@@ -94,18 +83,9 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **Online**  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
 
-
-
-
-
-
     
 **4. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
-
-  
-
-
 
 
 **5. Extremal Combinatorics (Summer 2018)**  &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a> <br>
