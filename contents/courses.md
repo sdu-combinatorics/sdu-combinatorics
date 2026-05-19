@@ -17,7 +17,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 **1. Introduction to Additive Combinatorics (Spring 2026)**  &nbsp;&nbsp; <a href="static/assets/img/AC Yifan Jin.jpg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
   **Speakers:** <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a> <br/>
-   **Video:** <a href="video.html?id=talk-2026additvie combinatorics" target="_blank" rel="noopener">[5.18]</a>
+   **Video:** <a href="video.html?id=talk-2026additvie combinatorics1" target="_blank" rel="noopener">[5.18]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics2" target="_blank" rel="noopener">[5.19]</a>
     
 **2. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/>
   **School of Mathematics, Shandong University**  
