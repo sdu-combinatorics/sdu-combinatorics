@@ -222,7 +222,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
   <div class="seminar-content">
     <strong>Title:</strong>
       Hypergraph Zarankiewicz problems on axis-parallel boxes  &nbsp;&nbsp; <a href="static/assets/img/Zichao Dong05122026.jpg" target="_blank" rel="noopener">poster</a><br/>
-    <strong>Video:</strong> <a href="video.html?id=talk-007" target="_blank" rel="noopener">video</a> (Chinese)<br/>
+    <strong>Video:</strong> <a href="video.html?id=talk-007" target="_blank" rel="noopener">video</a><br/>
     <strong>Speaker:</strong>
    <a href="https://dzch0310.github.io/dzch0310/" target="_blank" rel="noopener">Zichao Dong </a> </a>
   </div>
