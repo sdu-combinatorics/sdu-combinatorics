@@ -63,7 +63,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
     
 **1. Extremal Combinatorics (Summer 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_summer_school.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Aug 1–6, 2022  
-  **Speakers:**<a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> , <a href="https://sites.google.com/view/jinhakim" target="_blank" rel="noopener">Jinha Kim</a>, <a href="https://sites.google.com/view/minkikim/home" target="_blank" rel="noopener">Minki Kim</a>
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> , <a href="https://sites.google.com/view/jinhakim" target="_blank" rel="noopener">Jinha Kim</a>, <a href="https://sites.google.com/view/minkikim/home" target="_blank" rel="noopener">Minki Kim</a>
   
 
     
