@@ -39,11 +39,11 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong> <a href="https://alkjash.github.io/" target="_blank" rel="noopener">Xiaoyu He</a></strong> will give a talk on May 28, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2607" target="_blank" rel="noopener">Off-diagonal Ramsey numbers for hypergraphs</a>”</em></strong>.
+ We are pleased to announce that <strong> <a href="https://amedeosg.github.io/" target="_blank" rel="noopener">Amedeo Sgueglia</a></strong> will give a talk on June 4, 2026.
+    The title of his talk is <strong><em>“  <a href="abstract.html?id=2608" target="_blank" rel="noopener">On Kotzig's conjecture in random graphs</a>”</em></strong>.
   </p>
  
-  <strong>Time:</strong> 20:30–21:40 (UTC+8)</strong>;
+  <strong>Time:</strong> 16:00–17:10 (UTC+8)</strong>;
   
    <strong>Zoom ID:</strong> <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
       632 7868 8120
