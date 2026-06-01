@@ -58,7 +58,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2605" target="_blank"></a><br />
+      <a href="abstract.html?id=2609" target="_blank">Ramsey number of a cycle versus a graph of given size</a><br />
     <strong>Speaker:</strong>
    <a href="https://www.freschiandrea.com/" target="_blank" rel="noopener">Andrea Freschi </a><br />
     <strong>Time:</strong> 16:00-17:10
