@@ -1,4 +1,11 @@
 {
+  "2609": {
+        "name": "Andrea Freschi",
+        "title": "Ramsey number of a cycle versus a graph of given size",
+        "date": "2026-06-11: 16:00-17:10 (UTC +8)",
+        "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Let $C_k$ be the cycle on $k$ vertices and $H$ be an arbitrary graph on $m$ edges and no isolated vertices. Erd{\\H o}s, Faudree, Rousseau and Schelp conjectured that if $m$ is sufficiently large compared to $k$ then the Ramsey number $R(C_k,H)$ is at most $2m+\\left\\lfloor\\frac{k-1}{2}\\right\\rfloor$. This is known to hold for $k$ even and for $k\\in\\{3,5\\}$. In this talk, we present a resolution of all remaining cases, thus confirming the conjecture. <br>This is joint work with Stijn Cambie, Patryk Morawski, Kalina Petrova and Alexey Pokrovskiy.</div>",
+        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Andrea Freschi obtained his PhD at the University of Birmingham (UK) under the supervision of Andrew Treglown. Since October 2024, he has been a postdoctoral researcher at the Alfréd Rényi Institute in Budapest (Hungary) under the supervision of János Pach and Gábor Tardos.</div>"
+    },
     "2601": {
         "name": "Jørgen Bang-Jensen",
         "title": " Results and open problems on dichromatic numbers of digraphs and linkages in (di)graphs",
