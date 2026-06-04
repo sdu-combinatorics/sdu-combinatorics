@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1400" />
 
-    <meta name="description" content="Video - SDU Combinatorics Group" />
+    <meta name="description" content="Forum - SDU Combinatorics Group" />
     <meta name="author" content="SDU Combinatorics Group" />
     <title>Video | SDU Combinatorics Group</title>
 
@@ -140,145 +140,41 @@
         </div>
     </section>
 
-    <!-- Video -->
-    <section class="bg-gradient-primary-to-secondary-gray py-5" id="video-page">
-        <div class="container px-5">
-            <div class="mb-4">
-                <a href="seminars.html" class="btn btn-outline-secondary ms-2">
-                    All seminars
-                </a>
-            </div>
 
-            <div id="video-container">
-                <div class="text-center py-5" id="loading-spinner">
-                    <div class="spinner-border text-primary" role="status">
-                        <span class="visually-hidden">Loading...</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Videos</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
 
-    <!-- Footer -->
-    <footer class="bg-bottom text-center py-5">
-        <div class="container px-5">
-            <div class="text-white-50 small">
-                <div id="copyright-text" class="mb-2"></div>
-            </div>
-        </div>
-    </footer>
+<body>
+  <main class="page">
+    <p>
+      <a class="nav-link" href="./index.html">← Back to Home</a>
+    </p>
 
-    <script>
-        (function () {
-            function escapeHtml(str) {
-                if (str === null || str === undefined) return '';
-                return String(str)
-                    .replace(/&/g, '&amp;')
-                    .replace(/</g, '&lt;')
-                    .replace(/>/g, '&gt;')
-                    .replace(/"/g, '&quot;')
-                    .replace(/'/g, '&#039;');
-            }
+    <h1>Videos</h1>
 
-            function rawHtml(value, fallback = '') {
-                return value === null || value === undefined || value === '' ? fallback : value;
-            }
+    <div class="video-list">
+      <a class="video-card" href="https://www.youtube.com/watch?v=xxxxxxxxxxx" target="_blank" rel="noopener">
+        <h2>Video Title 1</h2>
+        <p>Short description of this video.</p>
+      </a>
 
-            function isSafeUrl(url) {
-                try {
-                    const u = new URL(url, window.location.href);
-                    return u.protocol === 'https:' || u.protocol === 'http:';
-                } catch (e) {
-                    return false;
-                }
-            }
+      <a class="video-card" href="https://www.bilibili.com/video/BVxxxxxxxxxx/" target="_blank" rel="noopener">
+        <h2>Video Title 2</h2>
+        <p>Short description of this video.</p>
+      </a>
 
-            function setCopyright() {
-                const copyrightEl = document.getElementById('copyright-text');
-                if (copyrightEl) {
-                    const year = new Date().getFullYear();
-                    copyrightEl.innerHTML = `© ${year} SDU Combinatorics Group. All rights reserved.`;
-                }
-            }
-
-            function renderError(message) {
-                const container = document.getElementById('video-container');
-                container.innerHTML = `
-                    <div class="alert alert-danger text-center py-5" role="alert">
-                        <i class="bi bi-exclamation-triangle" style="font-size: 3rem;"></i>
-                        <h3 class="mt-3">Failed to Load</h3>
-                        <p>${escapeHtml(message)}</p>
-                        <a href="seminars.html" class="btn btn-primary mt-3">Back to Seminar List</a>
-                    </div>
-                `;
-            }
-
-            async function init() {
-                setCopyright();
-
-                const params = new URLSearchParams(window.location.search);
-                const id = params.get('id');
-
-                if (!id) {
-                    renderError('Missing URL parameter: ?id=...');
-                    return;
-                }
-
-                try {
-                    const response = await fetch('static/data/videos.json', { cache: 'no-store' });
-                    if (!response.ok) {
-                        throw new Error('Failed to load static/data/videos.json');
-                    }
-
-                    const videos = await response.json();
-                    const item = videos[id];
-
-                    if (!item) {
-                        throw new Error(`ID "${id}" does not exist in videos.json`);
-                    }
-
-                    const title = item.title || 'Untitled Video';
-                    const mp4 = item.mp4 || item.url || '';
-                    const description = item.description || '';
-
-                    if (!isSafeUrl(mp4)) {
-                        throw new Error('No valid mp4 URL found in videos.json');
-                    }
-
-                    const container = document.getElementById('video-container');
-                    container.innerHTML = `
-                        <div class="video-card">
-                            <div class="title">${escapeHtml(title)}</div>
-
-                            <div class="video-wrapper">
-                                <video
-                                    id="video-player"
-                                    class="video-player"
-                                    controls
-                                    playsinline
-                                    preload="none"
-                                ></video>
-                            </div>
-
-                            ${description ? `
-                                <div class="description-wrap">
-                                    <div class="section-label">Description</div>
-                                    <div class="description-content">${rawHtml(description)}</div>
-                                </div>
-                            ` : ''}
-                        </div>
-                    `;
-
-                    const video = document.getElementById('video-player');
-                    video.src = mp4;
-                } catch (error) {
-                    renderError(error.message);
-                }
-            }
-
-            init();
-        })();
-    </script>
+      <a class="video-card" href="https://example.com/video" target="_blank" rel="noopener">
+        <h2>Video Title 3</h2>
+        <p>Short description of this video.</p>
+      </a>
+    </div>
+  </main>
 </body>
 
 </html>
