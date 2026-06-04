@@ -32,7 +32,7 @@ The **recorded videos** of this conference are available <a href="https://www.wg
    **Video:** <a href="video.html?id=talk-2026additvie combinatorics1" target="_blank" rel="noopener">[5.18]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics2" target="_blank" rel="noopener">[5.19]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics3" target="_blank" rel="noopener">[5.20]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics4" target="_blank" rel="noopener">[5.21]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics5" target="_blank" rel="noopener">[5.22]</a>
     
 **2. Analysis of Boolean Functions (Spring 2026)**  &nbsp;&nbsp; <a href="https://fanchang1997.github.io/SDU-Boolean-functions-analysis-Course.io/" target="_blank" rel="noopener">website</a><br/> 
-  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Yangyang Cheng, Qiancheng Ouyang, <a href="https://fanchang1997.github.io/FanChangmath.github.io/" target="_blank" rel="noopener">Fan Chang</a>
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, <a href="https://fanchang1997.github.io/FanChangmath.github.io/" target="_blank" rel="noopener">Fan Chang</a>
 
 **3. Combinatorics – Ramsey Theory (Spring 2026)**  &nbsp;&nbsp; <br/> 
   **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Xinyu Hu, <a href="https://wenling-zhou.github.io/" target="_blank" rel="noopener">Wenling Zhou</a>. <br/>
