@@ -7,6 +7,7 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ## Contents
 - [Courses](#courses)<br/>
 - [Summer School](#summer-school)<br/>
+- [Forum](#forum)<br/>
 
 
 ----
@@ -88,6 +89,14 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **School of Mathematics, Shandong University** · Jul 2–8, 2018  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
 
+
+## <a id="forum"></a>Courses
+<!--
+**2026 Youth Forum of SDU on Graph Theory and Combinatorics**  &nbsp;&nbsp; <a href="" target="_blank" rel="noopener"></a> <br>
+  **School of Mathematics, Shandong University** · June 6–7, 2026  <br>
+  The **booklet** with the **abstracts** of the papers is available <a href="" target="_blank" rel="noopener">here</a>
+  -->
+  
 
 
   
