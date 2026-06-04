@@ -16,7 +16,12 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
 **2026 Youth Forum of SDU on Graph Theory and Combinatorics**  &nbsp;&nbsp; <a href="https://www.wgh-comb.net/2026YouthForum.html" target="_blank" rel="noopener">video</a> <br>
   **School of Mathematics, Shandong University** · June 6–7, 2026  <br>
-  The **booklet** with the **abstracts** of the papers is available <a href="" target="_blank" rel="noopener">here</a>
+ The **schedule** is available <a href="https://www.wgh-comb.net/2026YouthForum.html" target="_blank" rel="noopener">here</a>. <br>
+ The **booklet** with the **abstracts** of the papers is available <a href="https://www.wgh-comb.net/2026YouthForum.html" target="_blank" rel="noopener">here</a>. <br>
+ The open **problems** are available <a href="https://www.wgh-comb.net/2026YouthForum.html" target="_blank" rel="noopener">here</a>. <br>
+The **recorded videos** of this conference are available <a href="https://www.wgh-comb.net/2026YouthForum.html" target="_blank" rel="noopener">here</a>. <br>
+
+
 
 -----
 
