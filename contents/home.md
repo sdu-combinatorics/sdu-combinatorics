@@ -39,8 +39,8 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong> <a href="https://amedeosg.github.io/" target="_blank" rel="noopener">Amedeo Sgueglia</a></strong> will give a talk on June 4, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2608" target="_blank" rel="noopener">On Kotzig's conjecture in random graphs</a>”</em></strong>.
+ We are pleased to announce that <strong> <a href="https://www.freschiandrea.com/" target="_blank" rel="noopener">Andrea Freschi</a></strong> will give a talk on June 11, 2026.
+    The title of his talk is <strong><em>“  <a href="abstract.html?id=2609" target="_blank" rel="noopener">Ramsey number of a cycle versus a graph of given size</a>”</em></strong>.
   </p>
  
   <strong>Time:</strong> 16:00–17:10 (UTC+8)</strong>;
