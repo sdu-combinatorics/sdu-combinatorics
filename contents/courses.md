@@ -5,14 +5,14 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 ---
 
 ## Contents
-- [Forum](#forum)<br/>
+- [Forum and Conference](#forum)<br/>
 - [Courses](#courses)<br/>
 - [Summer School](#summer-school)<br/>
 
 
 
 ----
-## <a id="forum"></a>Forum
+## <a id="forum"></a>Forum and Conference
 
 **1. 2026 Youth Forum of SDU on Graph Theory and Combinatorics**   <br>
   **School of Mathematics, Shandong University** · June 6–7, 2026  <br>
