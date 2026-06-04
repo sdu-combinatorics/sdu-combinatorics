@@ -302,7 +302,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      Bootstrap percolationof extension hypergraphs &nbsp;&nbsp; <a href="static/assets/img/Bjarne Schülke4102026.jpg" target="_blank" rel="noopener">poster</a><br/>
+      Bootstrap percolation of extension hypergraphs &nbsp;&nbsp; <a href="static/assets/img/Bjarne Schülke4102026.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Speaker:</strong>
    <a href="https://sites.google.com/view/bjarneschuelke/home" target="_blank" rel="noopener">Bjarne Schülke </a> </a>
   </div>
