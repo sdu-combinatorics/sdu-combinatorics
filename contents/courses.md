@@ -92,9 +92,10 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
 ## <a id="forum"></a>Courses
 <!--
-**2026 Youth Forum of SDU on Graph Theory and Combinatorics**  &nbsp;&nbsp; <a href="" target="_blank" rel="noopener"></a> <br>
+**2026 Youth Forum of SDU on Graph Theory and Combinatorics**  &nbsp;&nbsp; <a href="" target="_blank" rel="noopener">video</a> <br>
   **School of Mathematics, Shandong University** · June 6–7, 2026  <br>
   The **booklet** with the **abstracts** of the papers is available <a href="" target="_blank" rel="noopener">here</a>
+
   -->
   
 
