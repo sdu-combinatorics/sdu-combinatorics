@@ -90,13 +90,12 @@ Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
 
 
-## <a id="forum"></a>Courses
-<!--
-**2026 Youth Forum of SDU on Graph Theory and Combinatorics**  &nbsp;&nbsp; <a href="" target="_blank" rel="noopener">video</a> <br>
+## <a id="forum"></a>Forum
+
+**2026 Youth Forum of SDU on Graph Theory and Combinatorics**  &nbsp;&nbsp; <a href="https://www.wgh-comb.net/Forum.html" target="_blank" rel="noopener">video</a> <br>
   **School of Mathematics, Shandong University** · June 6–7, 2026  <br>
   The **booklet** with the **abstracts** of the papers is available <a href="" target="_blank" rel="noopener">here</a>
 
-  -->
   
 
 
