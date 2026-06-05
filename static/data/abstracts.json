@@ -1,4 +1,11 @@
 {
+  "2610": {
+        "name": "Jan Petr",
+        "title": "Cheeger-type inequalities for the second largest spectral gap from $1$ of the normalized Laplacian",
+        "date": "2026-06-18: 16:00-17:10 (UTC +8)",
+        "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">We investigate the second largest spectral gap from 1 of the normalized Laplacian of a graph. This quantity appears in the study of the rate of convergence of a random walk to its stationary distribution, and has a connection to Ramanujan graphs. We relate it to the Cheeger and dual Cheeger constants. We also introduce a new Cheeger-type constant, for which we establish sharp inequalities analogous to the classical Cheeger inequalities. <br>Joint work with Lies Beers and Raffaella Mulas.</div>",
+        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Jan Petr is a postdoctoral researcher at the University of Passau in the Discrete Mathematics group of Prof. Stefan Glock. He obtained his doctorate at the University of Cambridge under the supervision of Prof. Béla Bollobás.</div>"
+    },
   "2609": {
         "name": "Andrea Freschi",
         "title": "Ramsey number of a cycle versus a graph of given size",
