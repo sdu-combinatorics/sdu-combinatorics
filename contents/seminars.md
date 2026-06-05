@@ -62,7 +62,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2610" target="_blank">Cheeger-type inequalities for the second largest spectral gap from $1$ of the normalized Laplacian</a><br />
+      <a href="abstract.html?id=2610" target="_blank">Cheeger-type inequalities for the second largest spectral gap from 1 of the normalized Laplacian</a><br />
     <strong>Speaker:</strong>
    <a href="https://janpetrscience.github.io/" target="_blank" rel="noopener">Jan Petr</a><br />
     <strong>Time:</strong> 16:00-17:10
