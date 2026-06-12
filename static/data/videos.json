@@ -1,4 +1,8 @@
 {
+  "talk-010": {
+    "title": "Ramsey number of a cycle versus a graph of given size",
+    "mp4": "https://1412566342.vod-qcloud.com/e95e7aabvodsh1412566342/32ae67585001834807043317247/ajswU0ldCcgA.mp4"
+  },
   "talk-001": {
     "title": "Results and open problems ondichromatic numbers of digraphsand linkages in (di)graphs",
     "mp4": "https://1412566342.vod-qcloud.com/e95e7aabvodsh1412566342/7ee9da1e5145403720629425095/XCApsORAgb0A.mp4"
@@ -86,6 +90,10 @@
   "talk-2026ramsey13": {
     "title": "2026RAMSEY6.2",
     "mp4": "https://1412566342.vod-qcloud.com/e95e7aabvodsh1412566342/d26dbee35001834806164780863/E4UBDchUDoQA.mp4"
+   },
+  "talk-2026ramsey14": {
+    "title": "2026RAMSEY6.9",
+    "mp4": "https://1412566342.vod-qcloud.com/e95e7aabvodsh1412566342/d606d9755001834807045722125/OaaDIT7Rn5wA.mp4"
    },
   "talk-2026additvie combinatorics1": {
     "title": "Introduction to Additive Combinatorics 5.18",
