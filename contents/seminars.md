@@ -27,7 +27,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 
-### Upcoming Talks
+### Online Upcoming Talks
 
 
 <style>
@@ -183,7 +183,13 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 </div>
 
-### Previous Talks
+### Offline Upcoming Talks
+<div class="upcoming-grid">
+
+
+</div>
+
+### Online Previous Talks
 
 
 <div class="seminar-item">
