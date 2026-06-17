@@ -30,12 +30,46 @@ All time in this webpage refers to Beijing Time (GMT+8).
 ### Upcoming Talks
 
 
+<style>
+.upcoming-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.8rem 2rem;
+  position: relative;
+  margin-top: 0.5rem;
+}
+
+.upcoming-grid::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 1.5px;
+  background: #dee2e6;
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+.upcoming-grid .seminar-item {
+  padding: 0.9rem 0.6rem;
+}
+
+@media (max-width: 820px) {
+  .upcoming-grid {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+  .upcoming-grid::after {
+    display: none;
+  }
+}
+</style>
 
 
 
-
-
-
+<div class="upcoming-grid">
+  
 <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">June 18</strong>
@@ -145,6 +179,8 @@ All time in this webpage refers to Beijing Time (GMT+8).
     &nbsp;&nbsp;
     <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
   </div>
+</div>
+
 </div>
 
 ### Previous Talks
