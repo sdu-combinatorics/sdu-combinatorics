@@ -3,6 +3,14 @@
 The SDU Combinatorics Seminar focuses on recent research developments in combinatorics and related areas, including graph theory, probabilistic methods, and discrete mathematics. This is a research-oriented seminar. Each session typically consists of an invited talk or a presentation by group members and visitors. The seminar schedule will be announced in advance and updated regularly on this page. Participants interested in receiving seminar announcements by email are welcome to contact <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener"> Guanghui Wang</a>(ghwang@sdu.edu.cn), <a href="https://www.imada.sdu.dk/u/jbj/" target="_blank" rel="noopener">Jørgen Bang-Jensen</a>(jbj@imada.sdu.dk) and <a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener">Yun Wang</a>(yunwang@sdu.edu.cn).
 
 ---
+## Contents
+- [Online Talks](#1)<br/>
+- [Offline Talks](#2)<br/>
+
+
+
+
+----
 
 <h3>Online Meeting Information</h3>
 
@@ -27,19 +35,9 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 -----
 
-## Contents
-- [Upcoming Online Talks](#1)<br/>
-- [Upcoming Offline Talks](#2)<br/>
-- [Previous Online Talks](#3)<br/>
-- [Previous Offline Talks](#4)<br/>
-
-
-
-----
-
 ### <a id="1"></a>Upcoming Online Talks
 
-
+<!--
 <style>
 .upcoming-grid {
   display: grid;
@@ -76,9 +74,11 @@ All time in this webpage refers to Beijing Time (GMT+8).
 }
 </style>
 
-
-
 <div class="upcoming-grid">
+
+</div>-->
+
+
   
 <div class="seminar-item">
   <div class="seminar-date">
@@ -191,21 +191,11 @@ All time in this webpage refers to Beijing Time (GMT+8).
   </div>
 </div>
 
-</div>
-
-----
-### <a id="2"></a>Upcoming Offline Talks
-<div class="upcoming-grid">
 
 
-</div>
-
-----
+### Previous Online Talks
 
 
-### <a id="3"></a>Previous Online Talks
-
-<div class="upcoming-grid">
   
 <div class="seminar-item">
   <div class="seminar-date">
@@ -361,13 +351,13 @@ All time in this webpage refers to Beijing Time (GMT+8).
   </div>
 </div>
 
-</div>
+
 
 ----
 
-### <a id="4"></a>Previous Offline Talks
-<div class="upcoming-grid">
+### <a id="2"></a>Upcoming Offline Talks
 
+### Previous Offline Talks
   
 <div class="seminar-item">
   <div class="seminar-date">
@@ -400,4 +390,3 @@ All time in this webpage refers to Beijing Time (GMT+8).
 </div>
 
 
-</div>
