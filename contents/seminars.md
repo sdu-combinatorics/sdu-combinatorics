@@ -91,7 +91,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2605" target="_blank"></a><br />
+      <a href="abstract.html?id=2611" target="_blank">Ramsey numbers of trees</a><br />
     <strong>Speaker:</strong>
    <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/yan/" target="_blank" rel="noopener">Jun Yan</a><br />
     <strong>Time:</strong> 16:00-17:10
