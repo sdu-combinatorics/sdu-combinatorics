@@ -1,4 +1,11 @@
 {
+  "2611": {
+        "name": "Jun Yan",
+        "title": "Ramsey numbers of trees",
+        "date": "2026-07-02: 16:00-17:10 (UTC +8)",
+        "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Motivated by two simple lower bound constructions, Burr conjectured that if $T$ is a tree with bipartition class sizes $t_1\\geq t_2$, then its Ramsey number $R(T)$ is $\\max\\{2t_1,t_1+2t_2\\}-1$. This conjecture has since been disproved, although all known counterexamples have large maximum degrees. In a joint work with Richard Montgomery and Matías Pavez-Signé, we show that there is a constant $c>0$, such that Burr's conjecture holds for all $n$-vertex trees with maximum degree at most $cn$. In this talk, we will give an overview of this proof and survey some related problems.</div>",
+        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Jun Yan will soon take up a postdoc position in University of Waterloo working with Luke Postle and Michelle Delcourt. He obtained his PhD from University of Warwick in 2025 under the supervision of Richard Montgomery.</div>"
+    },
   "2610": {
         "name": "Jan Petr",
         "title": "Cheeger-type inequalities for the second largest spectral gap from $1$ of the normalized Laplacian",
