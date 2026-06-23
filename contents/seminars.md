@@ -109,7 +109,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2605" target="_blank"></a><br />
+      <a href="abstract.html?id=2612" target="_blank">Hypergraph Ramsey numbers with quasipolynomial growth rate</a><br />
     <strong>Speaker:</strong>
    <a href="https://jiaxinie.github.io/" target="_blank" rel="noopener">Jiaxi Nie</a><br />
     <strong>Time:</strong> 16:00-17:10
