@@ -1,4 +1,11 @@
 {
+  "2612": {
+        "name": "Jiaxi Nie",
+        "title": "Hypergraph Ramsey numbers with quasipolynomial growth rate",
+        "date": "2026-07-09: 16:00-17:10 (UTC +8)",
+        "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">For a 3-uniform hypergraph (3-graph) $F$, let $r(F,n)$ be the smallest $N$ such that any $N$-vertex $F$-free 3-graph has an independent set of size $n$. We construct a $3$-graph $H_2$ with six vertices and five edges such that $r(H_2,n)=n^{\\Theta(\\log n)}$, and a more general family of $3$-graphs $F$ for which $r(F,n)=n^{\\log^{\\Theta(1)}(n)}$. These are the first examples of hypergraph Ramsey numbers $r(F,n)$ that are neither polynomial in $n$ nor at least exponential in $n$. This is joint work with Xiaoyu He, Logan Post, and Jacques Verstraëte</div>",
+        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Jiaxi Nie is currently a Visiting Assistant Professor at the Georgia Institute of Technology. He was a Postdoctoral Researcher at the Shanghai Center for Mathematical Sciences from 2022 to 2024. He received his Ph.D. in Mathematics from the University of California, San Diego, in 2022. His main research interests lie in extremal combinatorics, including Ramsey problems, Turán problems, graph decomposition problems, and related topics. He has published 21 papers in journals such as J. Combin. Theory Ser. B, Combinatorial Theory, Sci. China Math., Random Structures Algorithms, Combin. Probab. Comput., SIAM J. Discrete Math., and J. Graph Theory.</div>"
+    },
   "2611": {
         "name": "Jun Yan",
         "title": "Ramsey numbers of trees",
