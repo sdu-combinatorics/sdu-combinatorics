@@ -66,7 +66,7 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 
 **10. Frontiers of Combinatorics (Spring 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_courses.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  <br>
-  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>  
+  **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a>  
 
 
 ---
