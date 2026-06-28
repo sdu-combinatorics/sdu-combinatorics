@@ -127,7 +127,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2605" target="_blank"></a><br />
+      <a href="abstract.html?id=2613" target="_blank">Hitting time results for Hamiltonicity</a><br />
     <strong>Speaker:</strong>
    <a href="https://sites.google.com/view/yiting-wang/" target="_blank" rel="noopener">Yiting Wang</a><br />
     <strong>Time:</strong> 16:00-17:10
