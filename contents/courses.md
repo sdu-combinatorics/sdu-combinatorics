@@ -74,29 +74,33 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
   
 ## <a id="summer-school"></a>Summer School
 
+
+**1. Frontiers of Combinatorics (Summer 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Frontiers of Combinatorics.png" target="_blank" rel="noopener">poster</a><br/>
+  **Online** · July 6–10, 27-31, 2026  
+  **Speakers:** <a href="https://www.twchao.org/" target="_blank" rel="noopener">Ting-Wei Chao </a>, <a href="https://cris.bgu.ac.il/en/persons/shakhar-smorodinsky/" target="_blank" rel="noopener">Shakhar Smorodinsky</a>
     
-**1. Extremal Combinatorics (Summer 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_summer_school.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
+**2. Extremal Combinatorics (Summer 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_summer_school.jpeg" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Aug 1–6, 2022  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> , <a href="https://sites.google.com/view/jinhakim" target="_blank" rel="noopener">Jinha Kim</a>, <a href="https://sites.google.com/view/minkikim/home" target="_blank" rel="noopener">Minki Kim</a>
   
 
     
-**2. Extremal Combinatorics (Summer 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_summer_school.png" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
+**3. Extremal Combinatorics (Summer 2021)**  &nbsp;&nbsp; <a href="static/assets/img/2021_summer_school.png" target="_blank" rel="noopener">poster</a> &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a><br/>
   **Online** · Jul 26 – Aug 1, 2021  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
  
 
 
-**3. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**4. Extremal Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_5.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **Online**  
   **Speaker:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a> 
 
     
-**4. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
+**5. Probabilistic Combinatorics (Fall 2022)**  &nbsp;&nbsp; <a href="static/assets/img/2022_courses_4.jpeg" target="_blank" rel="noopener">poster</a><br/>
   **School of Mathematics, Shandong University**  
 
 
-**5. Extremal Combinatorics (Summer 2018)**  &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a> <br>
+**6. Extremal Combinatorics (Summer 2018)**  &nbsp;&nbsp; <a href="https://1drv.ms/v/c/70c479e820b718d9/IQCcFo399qGmRqiVNEva7_XiAQNMyI2iP1UH9cqLIQvlQ1w?e=0nbTOW" target="_blank" rel="noopener">video</a> <br>
   **School of Mathematics, Shandong University** · Jul 2–8, 2018  
   **Speakers:** <a href="https://www.ibs.re.kr/ecopro/hongliu/" target="_blank" rel="noopener">Hong Liu </a>, <a href="https://sites.google.com/view/jaehoon-kim" target="_blank" rel="noopener">Jaehoon Kim</a> 
 
