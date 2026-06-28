@@ -75,7 +75,7 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 ## <a id="summer-school"></a>Summer School
 
 
-**1. Frontiers of Combinatorics (Summer 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Frontiers of Combinatorics.png" target="_blank" rel="noopener">poster</a><br/>
+**1. Frontiers of Combinatorics (Summer 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Frontiers of Combinatorics.png" target="_blank" rel="noopener">poster</a>&nbsp;&nbsp; <a href="https://www.ibs.re.kr/ecopro/summer-2026/" target="_blank" rel="noopener">website</a><br/>
   **Online** · July 6–10, 27-31, 2026  
   **Speakers:** <a href="https://www.twchao.org/" target="_blank" rel="noopener">Ting-Wei Chao </a>, <a href="https://cris.bgu.ac.il/en/persons/shakhar-smorodinsky/" target="_blank" rel="noopener">Shakhar Smorodinsky</a>
     
