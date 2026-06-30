@@ -1,7 +1,7 @@
 {
    "2614": {
         "name": "Zhihan Jin",
-        "title": "Hitting time results for Hamiltonicity",
+        "title": "From small eigenvalues to large cuts and Chowla's cosine problem",
         "date": "2026-07-30: 16:00-17:10 (UTC +8)",
         "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">We prove that every graph with average degree $d$ and smallest adjacency eigenvalue $|\\lambda_n| \\le d^t$ contains a clique of size $d^{1-O(t)}$. A simple corollary of this yields the first polynomial bound for Chowla's cosine problem (1965): for every finite set $A$ of natural integers, the minimum of the cosine polynomial satisfies $\\min_x \\sum_{a \\in A} \\cos(ax) < -|A|^{-0.09}$. Another application makes significant progress on the problem of MaxCut in $H$-free graphs initiated by Erdős and Lovász in the 1970s. We show that every $m$-edge graph with no clique of size $m^{0.49}$ has a cut of size at least $m/2 + m^{0.5001}$.</div>",
         "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Zhihan Jin is a final-year PhD student at the Mathematics Department, ETH Zürich, under the supervision of Prof. Benny Sudakov. His research interests lie broadly in extremal and probabilistic combinatorics, as well as its applications in theoretical computer science.</div>"
