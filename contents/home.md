@@ -39,8 +39,8 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong> <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/yan/" target="_blank" rel="noopener">Jun Yan</a></strong> will give a talk on July 2, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2611" target="_blank" rel="noopener">Ramsey numbers of trees</a>”</em></strong>.
+ We are pleased to announce that <strong> <a href="https://jiaxinie.github.io/" target="_blank" rel="noopener">Jiaxi Nie</a></strong> will give a talk on July 9, 2026.
+    The title of his talk is <strong><em>“  <a href="abstract.html?id=2612" target="_blank" rel="noopener">Hypergraph Ramsey numbers with quasipolynomial growth rate</a>”</em></strong>.
   </p>
  
   <strong>Time:</strong> 16:00–17:10 (UTC+8)</strong>;
