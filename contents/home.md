@@ -39,7 +39,7 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong> <a href="https://jiaxinie.github.io/" target="_blank" rel="noopener">Jiaxi Nie</a></strong> will give a talk on July 16, 2026.
+ We are pleased to announce that <strong> <a href="https://sites.google.com/view/yiting-wang/" target="_blank" rel="noopener">Yiting Wang</a></strong> will give a talk on July 16, 2026.
     The title of his talk is <strong><em>“  <a href="abstract.html?id=2613" target="_blank" rel="noopener">Hitting time results for Hamiltonicity</a>”</em></strong>.
   </p>
  
