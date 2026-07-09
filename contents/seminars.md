@@ -85,7 +85,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 
-<div class="seminar-item">
+<!--<div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">July 9</strong>
     <span style="font-size: 17px;">2026</span>
@@ -100,7 +100,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
     &nbsp;&nbsp;
     <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>) &nbsp;&nbsp;Offline (Mingde Building C717)
   </div>
-</div>
+</div>-->
 
 
 <div class="seminar-item">
