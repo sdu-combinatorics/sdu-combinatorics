@@ -37,70 +37,11 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### <a id="1"></a>Upcoming Online Talks
 
-<!--
-<style>
-.upcoming-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.8rem 2rem;
-  position: relative;
-  margin-top: 0.5rem;
-}
-
-.upcoming-grid::after {
-  content: '';
-  position: absolute;
-  left: 50%;
-  top: 0;
-  bottom: 0;
-  width: 1.5px;
-  background: #dee2e6;
-  transform: translateX(-50%);
-  border-radius: 2px;
-}
-
-.upcoming-grid .seminar-item {
-  padding: 0.9rem 0.6rem;
-}
-
-@media (max-width: 820px) {
-  .upcoming-grid {
-    grid-template-columns: 1fr;
-    gap: 0.5rem;
-  }
-  .upcoming-grid::after {
-    display: none;
-  }
-}
-</style>
-
-<div class="upcoming-grid">
-
-</div>-->
-
-
-  
 
 
 
 
 
-<!--<div class="seminar-item">
-  <div class="seminar-date">
-    <strong style="font-size: 17px;">July 9</strong>
-    <span style="font-size: 17px;">2026</span>
-  </div>
-
-  <div class="seminar-content">
-    <strong>Title:</strong>
-      <a href="abstract.html?id=2612" target="_blank">Hypergraph Ramsey numbers with quasipolynomial growth rate</a><br />
-    <strong>Speaker:</strong>
-   <a href="https://jiaxinie.github.io/" target="_blank" rel="noopener">Jiaxi Nie</a><br />
-    <strong>Time:</strong> 16:00-17:10
-    &nbsp;&nbsp;
-    <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>) &nbsp;&nbsp;Offline (Mingde Building C717)
-  </div>
-</div>-->
 
 
 <div class="seminar-item">
