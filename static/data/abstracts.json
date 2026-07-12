@@ -1,4 +1,11 @@
 {
+   "2615": {
+        "name": "Arjun Ranganathan",
+        "title": "Exact minimum co-degree bounds for tight Hamilton cycles ",
+        "date": "2026-07-23: 16:00-17:10 (UTC +8)",
+        "abstract": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">One of the earliest hypergraph extensions of Dirac's theorem is a conjecture of Katona and Kierstead from 1999, which asserts that for all uniformities $k \\ge 3$, any $n$-vertex $k$-graph in which every $(k-1)$-set extends to at least $\\frac{n-k+2}{2}$ edges contains a tight Hamilton cycle. R\\"{o}dl, Ruci\\'nski and Szemer\\'edi first proved this conjecture asymptotically in 2008, showing that $n/2 + bro(n)$ suffices for any uniformity, and obtained an exact bound for $k=3$ in 2011. <br> We establish a complete resolution of this conjecture for all $k\\ge 3$, improving the above asymptotic bounds to exact ones. Our proof involves a range of structural arguments for near-extremal hypergraphs and utilises a recent Hamiltonicity framework of Lang and Sanhueza-Matamala in the non-extremal regime that avoids traditional approaches using regularity.<br> This is based on joint work with Richard Lang, Shoham Letzter, and Nicolás Sanhueza-Matamala.</div>",
+        "bio": "<div style=\"word-break: normal; overflow-wrap: break-word; hyphens: auto; text-align: justify;\">Arjun Ranganathan started his PhD at University College London in October 2024 under the supervision of Shoham Letzter. Prior to this, he obtained a BS-MS degree in mathematics from the Indian Institute of Science Education and Research, Pune.</div>"
+    },
    "2614": {
         "name": "Zhihan Jin",
         "title": "From small eigenvalues to large cuts and Chowla's cosine problem",
