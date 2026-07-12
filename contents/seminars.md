@@ -131,7 +131,8 @@ All time in this webpage refers to Beijing Time (GMT+8).
   <div class="seminar-content">
     <strong>Title:</strong>
       <a href="abstract.html?id=2615" target="_blank">Exact minimum co-degree bounds for tight Hamilton cycles</a><br />
-    <<a href="https://scholar.google.com/citations?user=Ll2qrVMAAAAJ&hl=en" target="_blank" rel="noopener">strong>Speaker:</strong> Arjun Ranganathan</a><br />
+       <strong>Speaker:</strong>
+   <a href="https://scholar.google.com/citations?user=Ll2qrVMAAAAJ&hl=en" target="_blank" rel="noopener">Arjun Ranganathan</a><br />
     <strong>Time:</strong> 16:00-17:10
     &nbsp;&nbsp;
     <strong>Venue:</strong> Online (<a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">Zoom</a>)
