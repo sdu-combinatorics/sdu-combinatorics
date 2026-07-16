@@ -39,8 +39,8 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong> <a href="https://sites.google.com/view/yiting-wang/" target="_blank" rel="noopener">Yiting Wang</a></strong> will give a talk on July 16, 2026.
-    The title of his talk is <strong><em>“  <a href="abstract.html?id=2613" target="_blank" rel="noopener">Hitting time results for Hamiltonicity</a>”</em></strong>.
+ We are pleased to announce that <strong> <a href="https://scholar.google.com/citations?user=Ll2qrVMAAAAJ&hl=en" target="_blank" rel="noopener">Arjun Ranganathan</a></strong> will give a talk on July 23, 2026.
+    The title of his talk is <strong><em>“  <a href="abstract.html?id=2615" target="_blank" rel="noopener">Exact minimum co-degree bounds for tight Hamilton cycles</a>”</em></strong>.
   </p>
  
   <strong>Time:</strong> 16:00–17:10 (UTC+8)</strong>;
