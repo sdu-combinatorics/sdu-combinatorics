@@ -83,7 +83,7 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 ## <a id="summer-school"></a>Summer School
 **Algebraic Topology and Data Analysis (Summer 2026)**  <br/>
   **Online** · July 13–14, 16-18, 2026  
-  **Speakers:** <a href="https://www.auburn.edu/cosam/faculty/math_stats/fengz/index.htm" target="_blank" rel="noopener">Ziqin Feng</a>
+  **Speakers:** <a href="https://www.auburn.edu/cosam/faculty/math_stats/fengz/index.htm" target="_blank" rel="noopener">Ziqin Feng</a><br>
   **Video:** <a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-1" target="_blank" rel="noopener">[1]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-2" target="_blank" rel="noopener">[2]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-3" target="_blank" rel="noopener">[3]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-4" target="_blank" rel="noopener">[4]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-5" target="_blank" rel="noopener">[5]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-6" target="_blank" rel="noopener">[6]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-7" target="_blank" rel="noopener">[7]</a>
 
 **Frontiers of Combinatorics (Summer 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Frontiers of Combinatorics.png" target="_blank" rel="noopener">poster</a>&nbsp;&nbsp; <a href="https://www.ibs.re.kr/ecopro/summer-2026/" target="_blank" rel="noopener">website</a><br/>
