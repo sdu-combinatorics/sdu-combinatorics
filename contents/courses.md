@@ -40,10 +40,13 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 
 **Extremal Combinatorics (Spring 2025)**  &nbsp;&nbsp; <br/> 
   **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, Xiangxiang Nie, Linpeng Zhang <br/>
-<details>
+    **Video:** <a href="video.html?id=talk-2026ExtremalCombinatorics-1" target="_blank" rel="noopener">[1]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-2" target="_blank" rel="noopener">[2]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-3" target="_blank" rel="noopener">[3]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-4" target="_blank" rel="noopener">[4]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-5" target="_blank" rel="noopener">[5]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-6" target="_blank" rel="noopener">[6]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-7" target="_blank" rel="noopener">[7]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-8" target="_blank" rel="noopener">[8]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-9" target="_blank" rel="noopener">[9]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-10" target="_blank" rel="noopener">[10]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-11" target="_blank" rel="noopener">[11]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-12" target="_blank" rel="noopener">[12]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-13" target="_blank" rel="noopener">[13]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-14" target="_blank" rel="noopener">[14]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-15" target="_blank" rel="noopener">[15]</a>
+
+  
+<!-- <details>
   <summary><strong>Video:</strong></summary>
 <a href="video.html?id=talk-2026ExtremalCombinatorics-1" target="_blank" rel="noopener">[1]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-2" target="_blank" rel="noopener">[2]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-3" target="_blank" rel="noopener">[3]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-4" target="_blank" rel="noopener">[4]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-5" target="_blank" rel="noopener">[5]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-6" target="_blank" rel="noopener">[6]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-7" target="_blank" rel="noopener">[7]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-8" target="_blank" rel="noopener">[8]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-9" target="_blank" rel="noopener">[9]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-10" target="_blank" rel="noopener">[10]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-11" target="_blank" rel="noopener">[11]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-12" target="_blank" rel="noopener">[12]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-13" target="_blank" rel="noopener">[13]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-14" target="_blank" rel="noopener">[14]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026ExtremalCombinatorics-15" target="_blank" rel="noopener">[15]</a>
-</details>
+</details> -->
 
     
 **Extremal Graph Theory (Spring 2023)**  &nbsp;&nbsp; <a href="static/assets/img/2023_courses.jpeg" target="_blank" rel="noopener">poster</a><br/> 
@@ -78,7 +81,9 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 
   
 ## <a id="summer-school"></a>Summer School
-
+**Algebraic Topology and Data Analysis (Summer 2026)**  <br/>
+  **Online** · July 13–14, 16-18, 2026  
+  **Speakers:** <a href="https://www.auburn.edu/cosam/faculty/math_stats/fengz/index.htm" target="_blank" rel="noopener">Ziqin Feng</a>
 
 **Frontiers of Combinatorics (Summer 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Frontiers of Combinatorics.png" target="_blank" rel="noopener">poster</a>&nbsp;&nbsp; <a href="https://www.ibs.re.kr/ecopro/summer-2026/" target="_blank" rel="noopener">website</a><br/>
   **Online** · July 6–10, 27-31, 2026  
