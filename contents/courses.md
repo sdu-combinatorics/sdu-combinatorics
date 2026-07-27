@@ -81,9 +81,9 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 
   
 ## <a id="summer-school"></a>Summer School
-**Graph Theory and Its Application (Summer 2026)**  <br/>
+**Graph Theory and Its Application (Summer 2026)**  &nbsp;&nbsp; <a href="static/assets/img/Graph Theory and Its Application.jpg" target="_blank" rel="noopener">poster</a><br/>
   **Online** · July 27– August 3, 2026  
-  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, <a href="https://wenling-zhou.github.io/" target="_blank" rel="noopener">Wenling Zhou</a>, <a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener">Yun Wang</a>, JiaLu Zhu.
+  **Speakers:** <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang </a>, <a href="https://wenling-zhou.github.io/" target="_blank" rel="noopener">Wenling Zhou</a>, <a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener">Yun Wang</a>, JiaLu Zhu<br/>
   **Video:** <a href="video.html?id=talk-2026SummerGraph-1" target="_blank" rel="noopener">[1]</a>&nbsp;&nbsp;
 
 
