@@ -81,6 +81,13 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 
   
 ## <a id="summer-school"></a>Summer School
+**Graph Theorey and its Application (Summer 2026)**  <br/>
+  **Online** · July 13–14, 16-18, 2026  
+  **Speakers:** <a href="https://www.auburn.edu/cosam/faculty/math_stats/fengz/index.htm" target="_blank" rel="noopener">Ziqin Feng</a><br>
+  **Video:** <a href="video.html?id=talk-2026AlgebraicTopologyandDataAnalysis-1" target="_blank" rel="noopener">[1]</a>&nbsp;&nbsp;
+
+
+
 **Algebraic Topology and Data Analysis (Summer 2026)**  <br/>
   **Online** · July 13–14, 16-18, 2026  
   **Speakers:** <a href="https://www.auburn.edu/cosam/faculty/math_stats/fengz/index.htm" target="_blank" rel="noopener">Ziqin Feng</a><br>
