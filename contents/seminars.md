@@ -72,6 +72,23 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 ### Previous Online Talks
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">July 30</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2615" target="_blank">From small eigenvalues to large cuts, and Chowla’s cosine problem</a><br />
+        <strong>Video:</strong> <a href="video.html?id=talk-015" target="_blank" rel="noopener">video</a> <br/>
+       <strong>Speaker:</strong>
+   <a href="https://scholar.google.com/citations?user=Ll2qrVMAAAAJ&hl=en" target="_blank" rel="noopener">Zhihan Jin</a><br />
+  </div>
+</div>
+
+
 <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">July 23</strong>
