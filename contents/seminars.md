@@ -81,10 +81,10 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      <a href="abstract.html?id=2615" target="_blank">From small eigenvalues to large cuts, and Chowla’s cosine problem</a><br />
+      <a href="abstract.html?id=2614" target="_blank">From small eigenvalues to large cuts, and Chowla’s cosine problem</a><br />
         <strong>Video:</strong> <a href="video.html?id=talk-015" target="_blank" rel="noopener">video</a> <br/>
        <strong>Speaker:</strong>
-   <a href="https://scholar.google.com/citations?user=Ll2qrVMAAAAJ&hl=en" target="_blank" rel="noopener">Zhihan Jin</a><br />
+   <a href="https://pascalprimer.github.io/publications/" target="_blank" rel="noopener">Zhihan Jin</a><br />
   </div>
 </div>
 
