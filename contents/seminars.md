@@ -318,6 +318,21 @@ All time in this webpage refers to Beijing Time (GMT+8).
 ### <a id="2"></a>Upcoming Offline Talks
 
 ### Previous Offline Talks
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">August 3</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      Hardness and Algorithms for Packing Steiner Trees in Digraphs  &nbsp;&nbsp; <a href="static/assets/img/Zichao Dong05122026.jpg" target="_blank" rel="noopener">poster</a><br/>
+    <strong>Video:</strong> <a href="video.html?id=talk-007" target="_blank" rel="noopener">video</a> (Chinese)<br/>
+    <strong>Speaker:</strong>
+   <a href="https://dzch0310.github.io/dzch0310/" target="_blank" rel="noopener">Yuefang Sun </a> </a>
+  </div>
+</div>
   
 <div class="seminar-item">
   <div class="seminar-date">
