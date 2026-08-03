@@ -327,7 +327,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-      Hardness and Algorithms for Packing Steiner Trees in Digraphs  &nbsp;&nbsp; <a href="static/assets/img/Zichao Dong05122026.jpg" target="_blank" rel="noopener">poster</a><br/>
+      Hardness and Algorithms for Packing Steiner Trees in Digraphs  &nbsp;&nbsp; <a href="static/assets/img/Yuefang Sun 03082026.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Video:</strong> <a href="video.html?id=talk-016" target="_blank" rel="noopener">video</a> (Chinese)<br/>
     <strong>Speaker:</strong>
    <a href="https://math.nbu.edu.cn/info/1866/36612.htm" target="_blank" rel="noopener">Yuefang Sun </a> </a>
