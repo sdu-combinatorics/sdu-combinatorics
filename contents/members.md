@@ -160,7 +160,7 @@
             <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Fan Yang</div>
             <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://tianjiaod.github.io/tianjiaodai2023.github.io/" target="_blank" rel="noopener">Tianjiao Dai</a></div>
             <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Fanpeng Song</div>
-            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;">Heng Li</div>
+            <div style="flex: 0 0 calc(25% - 11.25px); text-align: left; box-sizing: border-box; white-space: normal; overflow-wrap: break-word;"><a href="https://hengli2026.github.io/" target="_blank" rel="noopener">Heng Li</a></div>
     </div>
 </li>
 </ul>
