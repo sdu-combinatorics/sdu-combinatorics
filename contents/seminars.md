@@ -289,6 +289,51 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 <div class="seminar-item">
   <div class="seminar-date">
+    <strong style="font-size: 17px;">September 3</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      On cliques in hypergraphs  &nbsp;&nbsp; <a href="static/assets/img/Jun Gao20260903.jpg" target="_blank" rel="noopener">poster</a><br/>
+    <strong>Video:</strong> <a href="video.html?id=talk-019" target="_blank" rel="noopener">video</a> (Chinese)<br/>
+    <strong>Speaker:</strong>
+   <a href="https://jungao0211.github.io/" target="_blank" rel="noopener">Jun Gao</a> </a>
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">September 3</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      Rational codegree Turán density of hypergraphs  &nbsp;&nbsp; <a href="static/assets/img/Shumin Sun20260903.jpg" target="_blank" rel="noopener">poster</a><br/>
+    <strong>Video:</strong> <a href="video.html?id=talk-018" target="_blank" rel="noopener">video</a> (Chinese)<br/>
+    <strong>Speaker:</strong>
+    Shumin Sun
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">September 3</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      Optimal anticoncentration of spanning trees in pseudorandom graphs  &nbsp;&nbsp; <a href="static/assets/img/Yiting Wang20260903.jpg" target="_blank" rel="noopener">poster</a><br/>
+    <strong>Video:</strong> <a href="video.html?id=talk-017" target="_blank" rel="noopener">video</a> (Chinese)<br/>
+    <strong>Speaker:</strong>
+   <a href="https://sites.google.com/view/yiting-wang/" target="_blank" rel="noopener">Yiting Wang</a> </a>
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
     <strong style="font-size: 17px;">August 3</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
