@@ -313,7 +313,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
       Rational codegree Turán density of hypergraphs  &nbsp;&nbsp; <a href="static/assets/img/Shumin Sun20260903.jpg" target="_blank" rel="noopener">poster</a><br/>
     <strong>Video:</strong> <a href="video.html?id=talk-018" target="_blank" rel="noopener">video</a> (Chinese)<br/>
     <strong>Speaker:</strong>
-    Shumin Sun
+   <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/sun/" target="_blank" rel="noopener">Shumin Sun</a> </a>
   </div>
 </div>
 
