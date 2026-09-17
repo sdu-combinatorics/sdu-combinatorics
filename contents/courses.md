@@ -26,6 +26,10 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 
 ## <a id="courses"></a>Courses
 
+**Introduction to Graph Minors (Fall 2026)**  &nbsp;&nbsp; <a href="static/assets/img/AC Yifan Jin.jpg" target="_blank" rel="noopener">poster</a><br>
+  **Speaker:** <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Rongchuan Tao</a> <br/>
+   **Video:** <a href="video.html?id=talk-2026additvie combinatorics1" target="_blank" rel="noopener">[9.17]</a>&nbsp;&nbsp
+
 **Introduction to Additive Combinatorics (Spring 2026)**  &nbsp;&nbsp; <a href="static/assets/img/AC Yifan Jin.jpg" target="_blank" rel="noopener">poster</a><br>
   **Speaker:** <a href="https://yifanjing.wordpress.com/" target="_blank" rel="noopener">Yifan Jing</a> <br/>
    **Video:** <a href="video.html?id=talk-2026additvie combinatorics1" target="_blank" rel="noopener">[5.18]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics2" target="_blank" rel="noopener">[5.19]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics3" target="_blank" rel="noopener">[5.20]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics4" target="_blank" rel="noopener">[5.21]</a>&nbsp;&nbsp;<a href="video.html?id=talk-2026additvie combinatorics5" target="_blank" rel="noopener">[5.22]</a>
