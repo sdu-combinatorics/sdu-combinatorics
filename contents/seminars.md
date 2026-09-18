@@ -285,6 +285,34 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### <a id="2"></a>Upcoming Offline Talks
 
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">September 29</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      Turán problems in the uniform setting  &nbsp;&nbsp; <a href="static/assets/img/Daniel Kral20260929.png" target="_blank" rel="noopener">poster</a><br/>
+    <strong>Speaker:</strong>
+   <a href="https://www.ucw.cz/~kral/index.html.en" target="_blank" rel="noopener">Daniel Král'</a> </a>
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">September 29</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      Tight Hamilton Cycles in Linearly Quasirandom 3-Graphs &nbsp;&nbsp; <a href="static/assets/img/Xichao Shu20260929.png" target="_blank" rel="noopener">poster</a><br/>
+    <strong>Speaker:</strong>
+   <a href="https://xiyuan0208.github.io/" target="_blank" rel="noopener">Xichao Shu</a> </a>
+  </div>
+</div>
+
 ### Previous Offline Talks
 
 <div class="seminar-item">
