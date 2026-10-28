@@ -37,6 +37,53 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### <a id="1"></a>Upcoming Online Talks
 
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">November 3</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+    <a href="abstract.html?id=2617" target="_blank">Ramsey-Turán type of Theorems in extremal graph theory</a><br />
+    <strong>Speaker:</strong>
+    <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">November 4</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+    <a href="abstract.html?id=2618" target="_blank">Clique covers and decompositions of cliques of graphs</a><br />
+    <strong>Speaker:</strong>
+    <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
+  </div>
+</div>
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">November 5</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+    <a href="abstract.html?id=2619" target="_blank">Maximal independent sets in the middle two layers of the Boolean lattice</a><br />
+    <strong>Speaker:</strong>
+    <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
+  </div>
+</div>
+
+
+
+### Previous Online Talks
+
 <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">October 22</strong>
@@ -50,8 +97,6 @@ All time in this webpage refers to Beijing Time (GMT+8).
    <a href="https://sites.google.com/view/candidabowtell" target="_blank" rel="noopener">Candida Bowtell</a><br />
   </div>
 </div>
-
-### Previous Online Talks
 
 <div class="seminar-item">
   <div class="seminar-date">
