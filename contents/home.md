@@ -39,11 +39,10 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
- We are pleased to announce that <strong> <a href="https://sites.google.com/view/candidabowtell" target="_blank" rel="noopener">Candida Bowtell</a></strong> will give a talk on October 22, 2026.
-    The title of her talk is <strong><em>“  <a href="abstract.html?id=2616" target="_blank" rel="noopener">Andersen’s rainbow path conjecture</a>”</em></strong>.
-  </p>
- 
-  <strong>Time:</strong> 17:00–18:00 (UTC+8)</strong>;
+  We are pleased to announce that <strong><a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a></strong> will give a talk on November 3, 2026.
+  The title of his talk is <strong><em>“<a href="abstract.html?id=2617" target="_blank" rel="noopener">Ramsey-Turán type of Theorems in extremal graph theory</a>”</em></strong>.
+</p>
+<strong>Time:</strong> 09:00–10:00 (UTC+8)
   
    <strong>Zoom ID:</strong> <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
       632 7868 8120
