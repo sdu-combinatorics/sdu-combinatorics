@@ -39,7 +39,7 @@ extremal combinatorics, and discrete mathematics.</p>
 
 
 <div class="news-item">
-  We are pleased to announce that <strong><a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a></strong> will give a talk on November 3, 2026.
+  We are pleased to announce that <strong><a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a></strong> will give a talk on November 4, 2026.
   The title of his talk is <strong><em>“<a href="abstract.html?id=2617" target="_blank" rel="noopener">Ramsey-Turán type of Theorems in extremal graph theory</a>”</em></strong>.
 </p>
 <strong>Time:</strong> 09:00–10:00 (UTC+8)
