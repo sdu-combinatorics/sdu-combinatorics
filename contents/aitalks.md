@@ -1,6 +1,6 @@
 ## AI Talks
 
-This page provides information about talks and discussions on artificial intelligence and related areas, including machine learning and connections with mathematics and combinatorics. Details of speakers, schedules, abstracts, slides, and recordings will be updated when available.
+The AI Talks series focuses on topics at the intersection of artificial intelligence and combinatorics.
 
 Unless otherwise stated, all dates and times refer to Beijing Time (GMT+8).
 
