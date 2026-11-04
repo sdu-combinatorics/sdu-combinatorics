@@ -5,12 +5,14 @@ const section_names = ['home', 'members', 'conferences', 'courses', 'seminars', 
 window.addEventListener('DOMContentLoaded', () => {
 
     const seminarsLink = document.querySelector(
-        '#navbarResponsive a[href="seminars.html"]'
+        '#mainNav .navbar-nav a[href="seminars.html"]'
     );
 
-    if (seminarsLink &&
-        !document.querySelector('#navbarResponsive a[href="aitalks.html"]')) {
+    const existingAITalksLink = document.querySelector(
+        '#mainNav .navbar-nav a[href="aitalks.html"]'
+    );
 
+    if (seminarsLink && !existingAITalksLink) {
         const newItem = document.createElement('li');
         newItem.className = 'nav-item';
 
@@ -18,14 +20,6 @@ window.addEventListener('DOMContentLoaded', () => {
             '<a class="nav-link me-lg-3" href="aitalks.html">AI TALKS</a>';
 
         seminarsLink.closest('li').after(newItem);
-    }
-    
-    const mainNav = document.body.querySelector('#mainNav');
-    if (mainNav && window.bootstrap) {
-        new bootstrap.ScrollSpy(document.body, {
-            target: '#mainNav',
-            offset: 74,
-        });
     }
 
     const navbarToggler = document.body.querySelector('.navbar-toggler');
