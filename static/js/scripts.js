@@ -3,6 +3,23 @@ const config_file = 'config.yml';
 const section_names = ['home', 'members', 'conferences', 'courses', 'seminars', 'aitalks', 'news'];
 
 window.addEventListener('DOMContentLoaded', () => {
+
+    const seminarsLink = document.querySelector(
+        '#navbarResponsive a[href="seminars.html"]'
+    );
+
+    if (seminarsLink &&
+        !document.querySelector('#navbarResponsive a[href="aitalks.html"]')) {
+
+        const newItem = document.createElement('li');
+        newItem.className = 'nav-item';
+
+        newItem.innerHTML =
+            '<a class="nav-link me-lg-3" href="aitalks.html">AI TALKS</a>';
+
+        seminarsLink.closest('li').after(newItem);
+    }
+    
     const mainNav = document.body.querySelector('#mainNav');
     if (mainNav && window.bootstrap) {
         new bootstrap.ScrollSpy(document.body, {
