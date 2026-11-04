@@ -25,34 +25,16 @@ extremal combinatorics, and discrete mathematics.</p>
 </div>-->
 </div>
 
+
 <aside class="home-news">
-<div class="news-box">
-<div class="news-box-header">
-<h3>News</h3>
-<a href="news.html" class="news-more">More</a>
-</div>
+    <div class="news-box">
+        <div class="news-box-header">
+            <h3>News</h3>
+            <a href="news.html" class="news-more">More</a>
+        </div>
 
-<!--<div class="news-item">
-<div class="news-date">2026-03-10</div>
-<a href="news.html#news-20260310">Seminar by Prof. Jørgen Bang-Jensen on March 19.</a>
-</div> -->
-
-
-<div class="news-item">
-  We are pleased to announce that <strong><a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a></strong> will give a talk on November 5, 2026.
-  The title of his talk is <strong><em>“<a href="abstract.html?id=2618" target="_blank" rel="noopener">Clique covers and decompositions of cliques of graphs</a>”</em></strong>.
-</p>
-<strong>Time:</strong> 09:00–10:00 (UTC+8)
-  
-   <strong>Zoom ID:</strong> <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">
-      632 7868 8120
-    </a>;
-    
-<strong>Password:</strong> SDUCOMB
-    </div> 
-
-<!--</div>
+<div id="home-current-news" class="news-item"></div>
+    </div>
 </aside>
-  </div>
+
 </div>
-</div>-->
