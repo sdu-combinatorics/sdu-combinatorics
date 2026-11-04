@@ -288,7 +288,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 <div class="seminar-item">
   <div class="seminar-date">
-    <strong style="font-size: 17px;">Apr 16</strong>
+    <strong style="font-size: 17px;">April 16</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
 
@@ -306,7 +306,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 <div class="seminar-item">
   <div class="seminar-date">
-    <strong style="font-size: 17px;">Apr 2</strong>
+    <strong style="font-size: 17px;">April 2</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
 
