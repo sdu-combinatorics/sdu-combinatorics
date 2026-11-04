@@ -420,3 +420,30 @@ section .main-body {
         height: 210px;
     }
 }
+
+#mainNav > .container {
+    max-width: 100%;
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+}
+
+#mainNav .navbar-brand {
+    font-size: 1.3rem;
+    white-space: nowrap;
+    margin-right: 20px;
+}
+
+#mainNav .navbar-nav {
+    flex-wrap: nowrap;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    font-size: 0.95rem;
+    white-space: nowrap;
+    margin-right: 0.6rem !important;
+}
+
+#mainNav #navbarResponsive {
+    min-width: 0;
+    overflow-x: auto;
+}
