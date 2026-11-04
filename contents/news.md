@@ -1,5 +1,20 @@
 ### 2026
 
+<div id="news-20261106" class="news-entry" data-expires="2026-11-06T10:00:00+08:00">
+  <h3><span class="news-tag seminar">Seminar</span> Seminar by József Balogh on November 6</h3>
+  <p>
+    We are pleased to announce that <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a> will give a talk on November 6, 2026.
+    The title of his talk is <em>“<a href="abstract.html?id=2619" target="_blank" rel="noopener">Maximal independent sets in the middle two layers of the Boolean lattice</a>”</em>.
+  </p>
+  <p>
+    <strong>Time:</strong> 09:00–10:00 (UTC+8)
+    &nbsp;&nbsp;&nbsp;
+    <strong>Zoom ID:</strong> <a href="https://syddanskuni.zoom.us/j/63278688120?pwd=yMJb3DVFAt3oT5zHuQfw8Uau0CZPrb.1" target="_blank" rel="noopener">632 7868 8120</a>
+    &nbsp;&nbsp;&nbsp;
+    <strong>Password:</strong> SDUCOMB
+  </p>
+</div>
+
 <div id="news-20261105" class="news-entry" data-expires="2026-11-05T10:00:00+08:00">
   <h3><span class="news-tag seminar">Seminar</span> Seminar by József Balogh on November 5</h3>
   <p>
