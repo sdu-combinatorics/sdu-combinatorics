@@ -37,24 +37,9 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### <a id="1"></a>Upcoming Online Talks
 
-
 <div class="seminar-item">
   <div class="seminar-date">
-    <strong style="font-size: 17px;">November 3</strong>
-    <span style="font-size: 17px;">2026</span>
-  </div>
-
-  <div class="seminar-content">
-    <strong>Title:</strong>
-    <a href="abstract.html?id=2617" target="_blank">Ramsey-Turán type of Theorems in extremal graph theory</a><br />
-    <strong>Speaker:</strong>
-    <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
-  </div>
-</div>
-
-<div class="seminar-item">
-  <div class="seminar-date">
-    <strong style="font-size: 17px;">November 4</strong>
+    <strong style="font-size: 17px;">November 5</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
 
@@ -68,7 +53,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 <div class="seminar-item">
   <div class="seminar-date">
-    <strong style="font-size: 17px;">November 5</strong>
+    <strong style="font-size: 17px;">November 6</strong>
     <span style="font-size: 17px;">2026</span>
   </div>
 
@@ -83,6 +68,21 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 
 ### Previous Online Talks
+
+<div class="seminar-item">
+  <div class="seminar-date">
+    <strong style="font-size: 17px;">November 4</strong>
+    <span style="font-size: 17px;">2026</span>
+  </div>
+
+  <div class="seminar-content">
+    <strong>Title:</strong>
+      <a href="abstract.html?id=2617" target="_blank">Ramsey-Turán type of Theorems in extremal graph theory</a><br />
+        <strong>Video:</strong> <a href="video.html?id=talk-014" target="_blank" rel="noopener">video</a> <br/>
+       <strong>Speaker:</strong>
+   <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
+  </div>
+</div>
 
 <div class="seminar-item">
   <div class="seminar-date">
