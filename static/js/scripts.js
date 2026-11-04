@@ -404,16 +404,36 @@ async function updateHomeNews() {
         }
 
         // Select the news item with the nearest expiration time
-        const selected = available[0].entry;
+        
+const selected = available[0].entry;
 
-        // Copy its entire content, including titles, links,
-        // paragraphs, time, Zoom ID and password
-        target.replaceChildren(
-            ...Array.from(
-                selected.childNodes,
-                node => node.cloneNode(true)
-            )
+// 1. Only copy paragraphs, not the news heading.
+const paragraphs = Array.from(selected.children)
+    .filter(element => element.tagName === 'P')
+    .map(element => element.cloneNode(true));
+
+target.replaceChildren(...paragraphs);
+
+// 2. Add line breaks before Zoom ID and Password
+// only in the homepage copy.
+const labelsToBreak = new Set(['Zoom ID:', 'Password:']);
+
+target.querySelectorAll('strong').forEach(label => {
+    if (!labelsToBreak.has(label.textContent.trim())) {
+        return;
+    }
+
+    // Remove unnecessary spaces before the new line.
+    const previous = label.previousSibling;
+    if (previous && previous.nodeType === Node.TEXT_NODE) {
+        previous.textContent = previous.textContent.replace(
+            /[\s\u00a0]+$/g, ''
         );
+    }
+
+    // Start this field on a new line.
+    label.before(document.createElement('br'));
+});
 
     } catch (error) {
         console.error('Home news loading error:', error);
