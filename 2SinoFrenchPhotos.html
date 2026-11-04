@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Photos from the Second Sino-French International Conference on Graph Theory, Combinatorics and Algorithms.">
+    <title>Conference Photos | SDU Combinatorics Group</title>
+    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico">
+    <link rel="stylesheet" href="static/css/styles.css">
+    <link rel="stylesheet" href="static/css/main.css">
+    <style>
+        /* A plain photo page, consistent with the rest of the SDU Combinatorics website. */
+        .conference-content {
+            max-width: 1160px;
+            margin: 0 auto;
+            padding: 30px 24px 70px;
+        }
+        .conference-content h2 {
+            font-size: 1.9rem;
+            line-height: 1.35;
+            margin-bottom: 16px;
+        }
+        .conference-content h3 {
+            font-size: 1.6rem;
+            margin-top: 32px;
+            margin-bottom: 18px;
+        }
+        .conference-content p {
+            margin: 0 0 12px;
+            line-height: 1.7;
+        }
+        .conference-photos {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 18px;
+        }
+        .conference-photos a {
+            display: block;
+        }
+        .conference-photos img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        @media (max-width: 800px) {
+            .conference-photos { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+        }
+        @media (max-width: 520px) {
+            .conference-content { padding: 24px 16px 45px; }
+            .conference-content h2 { font-size: 1.55rem; }
+            .conference-photos { grid-template-columns: 1fr; gap: 16px; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Keep the same navigation and header image used on the existing website. -->
+    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
+        <div class="container px-5">
+            <a id="page-top-title" class="navbar-brand fw-bold" href="index.html">SDU Comb Group</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                MENU
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="index.html">HOME</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="seminars.html">SEMINARS</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="courses.html">COURSES AND CONFERENCES</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="members.html">MEMBERS</a></li>
+                    <li class="nav-item"><a class="nav-link me-lg-3" href="news.html">NEWS</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
+        <div class="top-section-content">
+            <div class="container px-5"><h2 class="text-white display-3 lh-1 font-alt">&nbsp;</h2></div>
+        </div>
+    </section>
+
+    <main class="conference-content">
+        <h2>The Second Sino-French International Conference on Graph Theory, Combinatorics and Algorithms</h2>
+        <p><strong>School of Mathematics, Shandong University</strong></p>
+        <p>October 18–23, 2026</p>
+        <p>Selected photographs from the conference are shown below.</p>
+
+        <h3>Photos</h3>
+        <div class="conference-photos">
+            <!-- Photo files should be placed in static/assets/img/2SinoFrenchPhotos/ . -->
+            <!-- Remove any <a> block for images you have not uploaded. -->
+            <a href="static/assets/img/2SinoFrenchPhotos/01.jpg" target="_blank" rel="noopener"><img src="static/assets/img/2SinoFrenchPhotos/01.jpg" alt="Conference photo 1" loading="lazy"></a>
+            <a href="static/assets/img/2SinoFrenchPhotos/02.jpg" target="_blank" rel="noopener"><img src="static/assets/img/2SinoFrenchPhotos/02.jpg" alt="Conference photo 2" loading="lazy"></a>
+            <a href="static/assets/img/2SinoFrenchPhotos/03.jpg" target="_blank" rel="noopener"><img src="static/assets/img/2SinoFrenchPhotos/03.jpg" alt="Conference photo 3" loading="lazy"></a>
+            <a href="static/assets/img/2SinoFrenchPhotos/04.jpg" target="_blank" rel="noopener"><img src="static/assets/img/2SinoFrenchPhotos/04.jpg" alt="Conference photo 4" loading="lazy"></a>
+            <a href="static/assets/img/2SinoFrenchPhotos/05.jpg" target="_blank" rel="noopener"><img src="static/assets/img/2SinoFrenchPhotos/05.jpg" alt="Conference photo 5" loading="lazy"></a>
+            <a href="static/assets/img/2SinoFrenchPhotos/06.jpg" target="_blank" rel="noopener"><img src="static/assets/img/2SinoFrenchPhotos/06.jpg" alt="Conference photo 6" loading="lazy"></a>
+        </div>
+    </main>
+
+    <script src="static/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
