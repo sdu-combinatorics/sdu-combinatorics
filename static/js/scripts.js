@@ -70,7 +70,11 @@ window.addEventListener('DOMContentLoaded', () => {
 
                 const html = marked.parse(markdown);
                 container.innerHTML = html;
-
+                
+        if (name === 'home') {
+            updateHomeNews();
+            }
+ 
                 if (['conferences', 'courses', 'seminars'].includes(name)) {
                     formatItemsWithPoster(name + '-md');
                 }
@@ -353,4 +357,67 @@ function addNewsShareButtons(targetId = 'news-md') {
 
         entry.appendChild(btn);
     });
+}
+
+
+async function updateHomeNews() {
+    const target = document.getElementById('home-current-news');
+    if (!target) return;
+
+    try {
+        // Read all news from news.md
+        const response = await fetch('contents/news.md', {
+            cache: 'no-cache'
+        });
+
+        if (!response.ok) {
+            throw new Error('Failed to load news.md');
+        }
+
+        const markdown = await response.text();
+
+        // Convert Markdown into HTML
+        const source = document.createElement('div');
+        source.innerHTML = marked.parse(markdown);
+
+        const now = Date.now();
+
+        // Find news entries with valid future expiration times
+        const available = Array.from(
+            source.querySelectorAll('.news-entry[data-expires]')
+        )
+        .map(entry => ({
+            entry: entry,
+            expires: Date.parse(entry.dataset.expires)
+        }))
+        .filter(item =>
+            Number.isFinite(item.expires) &&
+            item.expires > now
+        )
+        .sort((a, b) => a.expires - b.expires);
+
+        // No active news
+        if (available.length === 0) {
+            target.textContent =
+                'There are currently no upcoming announcements.';
+            return;
+        }
+
+        // Select the news item with the nearest expiration time
+        const selected = available[0].entry;
+
+        // Copy its entire content, including titles, links,
+        // paragraphs, time, Zoom ID and password
+        target.replaceChildren(
+            ...Array.from(
+                selected.childNodes,
+                node => node.cloneNode(true)
+            )
+        );
+
+    } catch (error) {
+        console.error('Home news loading error:', error);
+        target.textContent =
+            'News is temporarily unavailable.';
+    }
 }
