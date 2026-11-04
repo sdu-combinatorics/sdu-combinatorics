@@ -24,7 +24,7 @@ The **recorded videos** of this forum are available <a href="https://www.wgh-com
 **The Second Sino-French International Conference on Graph Theory, Combinatorics and Algorithms**  
   **School of Mathematics, Shandong University** · October 18–23, 2026  <br>
  The **schedule** is available <a href="static/TheSecondSinoFrenchConference.pdf" target="_blank" rel="noopener">here</a>. <br>
-The **photos** of this conference are available <a href="2SinoFrenchPhotos .html" target="_blank" rel="noopener">here</a>. <br>
+The **photos** of this conference are available <a href="2SinoFrenchPhotos.html" target="_blank" rel="noopener">here</a>. <br>
 
 
 -----
