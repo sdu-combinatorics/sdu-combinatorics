@@ -78,7 +78,7 @@ All time in this webpage refers to Beijing Time (GMT+8).
   <div class="seminar-content">
     <strong>Title:</strong>
       <a href="abstract.html?id=2617" target="_blank">Ramsey-Turán type of Theorems in extremal graph theory</a><br />
-        <strong>Video:</strong> <a href="video.html?id=talk-014" target="_blank" rel="noopener">video</a> <br/>
+        <strong>Video:</strong> <a href="video.html?id=talk-020" target="_blank" rel="noopener">video</a> <br/>
        <strong>Speaker:</strong>
    <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
   </div>
