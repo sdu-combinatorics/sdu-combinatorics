@@ -70,7 +70,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
                 const html = marked.parse(markdown);
                 container.innerHTML = html;
-                
+                initAiTalkPreviews(container);
         if (name === 'home') {
             updateHomeNews();
             }
@@ -439,5 +439,132 @@ target.querySelectorAll('strong').forEach(label => {
         console.error('Home news loading error:', error);
         target.textContent =
             'News is temporarily unavailable.';
+    }
+}
+
+/* ========================================
+   AI Talks - Automatic Video First Frame
+   ======================================== */
+
+async function initAiTalkPreviews(root) {
+
+    const previews = Array.from(
+        root.querySelectorAll(
+            '.ai-video-preview[data-video-id]'
+        )
+    );
+
+    if (previews.length === 0) return;
+
+    let videoData;
+
+    try {
+        const response = await fetch(
+            'static/data/videos.json',
+            { cache: 'no-store' }
+        );
+
+        if (!response.ok) {
+            throw new Error('Failed to load videos.json');
+        }
+
+        videoData = await response.json();
+
+    } catch (error) {
+        console.error('AI video data loading error:', error);
+        return;
+    }
+
+    function loadPreview(preview) {
+
+        if (preview.dataset.previewLoaded === 'true') {
+            return;
+        }
+
+        const videoId = preview.dataset.videoId;
+        const item = videoData[videoId];
+
+        const video = preview.querySelector('video');
+
+        if (!item || !item.mp4 || !video) {
+            console.error('Video not found:', videoId);
+            return;
+        }
+
+        preview.dataset.previewLoaded = 'true';
+
+        video.muted = true;
+        video.playsInline = true;
+        video.preload = 'metadata';
+
+        // Seek slightly into the video to display its first frame.
+        video.addEventListener('loadedmetadata', () => {
+
+            if (
+                Number.isFinite(video.duration) &&
+                video.duration > 0
+            ) {
+                try {
+                    video.currentTime = Math.min(
+                        0.1,
+                        video.duration / 2
+                    );
+                } catch (error) {
+                    console.warn(
+                        'Unable to seek video preview:',
+                        error
+                    );
+                }
+            }
+
+        }, { once: true });
+
+        // Keep the video paused after loading.
+        video.addEventListener('loadeddata', () => {
+            video.pause();
+        }, { once: true });
+
+        video.addEventListener('seeked', () => {
+            video.pause();
+        });
+
+        video.addEventListener('error', () => {
+            preview.classList.add('ai-video-error');
+            console.error('Video preview failed:', videoId);
+        }, { once: true });
+
+        video.src = item.mp4;
+        video.load();
+    }
+
+    // Load the preview only when it approaches the viewport.
+    if ('IntersectionObserver' in window) {
+
+        const observer = new IntersectionObserver(
+            (entries, currentObserver) => {
+
+                entries.forEach(entry => {
+
+                    if (entry.isIntersecting) {
+                        loadPreview(entry.target);
+                        currentObserver.unobserve(entry.target);
+                    }
+
+                });
+
+            },
+            {
+                rootMargin: '300px 0px'
+            }
+        );
+
+        previews.forEach(preview => {
+            observer.observe(preview);
+        });
+
+    } else {
+
+        previews.forEach(loadPreview);
+
     }
 }
