@@ -220,7 +220,12 @@
 
                 const params = new URLSearchParams(window.location.search);
                 const id = params.get('id');
+            const backLink = document.getElementById('video-back-link');
 
+            if (id && id.startsWith('talk-AI') && backLink) {
+                backLink.href = 'aitalks.html';
+                backLink.textContent = 'All AI Talks';
+            }
                 if (!id) {
                     renderError('Missing URL parameter: ?id=...');
                     return;
