@@ -22,7 +22,8 @@ AI Talks focuses on AI-generated videos that interpret research papers and share
 <div class="ai-talk-contribution">
 <h4>Contribution</h4>
 <p>
-<a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener"> Guanghui Wang and <a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener"> Yun Wang: conceptualization, mathematical direction, review and editing.
+<a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener">Guanghui Wang</a> and <a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener">Yun Wang</a>: conceptualization, mathematical direction, review and editing.
+
 AI assistance: GPT (OpenAI) for animation code, visualization and video production.
 </p>
 </div>
