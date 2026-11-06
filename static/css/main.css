@@ -447,3 +447,15 @@ section .main-body {
     min-width: 0;
     overflow-x: auto;
 }
+
+/* AI Paper Presentation */
+.ai-paper-item .seminar-date {
+    width: 130px;
+    min-width: 130px;
+    min-height: 150px;
+}
+
+.ai-paper-item .seminar-content {
+    flex: 1;
+    line-height: 1.75;
+}
