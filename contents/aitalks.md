@@ -22,7 +22,8 @@ AI Talks focuses on AI-generated videos that interpret research papers and share
 <div class="ai-talk-contribution">
 <h4>Contribution</h4>
 <p>
-The paper establishes an asymptotic version of the Bermond--Thomassen Conjecture. There exist an absolute constant K and a function g(k) = O(k^(3/4) sqrt(log k)) = o(k), independent of n, such that every n-vertex finite simple loopless digraph with minimum out-degree at least 2k + g(k) contains k disjoint directed cycles for all sufficiently large k.
+<a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm" target="_blank" rel="noopener"> Guanghui Wang and <a href="https://yunwang-sdu.github.io/yunwang.github.io/" target="_blank" rel="noopener"> Yun Wang: conceptualization, mathematical direction, review and editing.
+AI assistance: GPT (OpenAI) for animation code, visualization and video production.
 </p>
 </div>
 </div>
