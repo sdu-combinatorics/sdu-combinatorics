@@ -459,3 +459,194 @@ section .main-body {
     flex: 1;
     line-height: 1.75;
 }
+
+/* ========================================
+   AI Talks - Paper Video Presentation
+   ======================================== */
+
+.ai-talk-entry {
+    max-width: 1000px;
+    margin: 2rem 0 3rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid #cccccc;
+}
+
+/* Talk title */
+
+.ai-talk-heading {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.55rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-bottom: 1.25rem;
+    color: #222222;
+}
+
+.ai-talk-heading a {
+    color: var(--theme-blue);
+    font-size: 0.95em;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.ai-talk-heading a:hover {
+    text-decoration: underline;
+}
+
+/* Video preview */
+
+.ai-video-preview {
+    position: relative;
+    display: block;
+    width: 100%;
+    max-width: 1000px;
+    aspect-ratio: 16 / 9;
+    margin: 0 auto 1.5rem;
+    overflow: hidden;
+    border-radius: 12px;
+    background: #222222;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.ai-video-frame {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background: #222222;
+}
+
+/* Center play button */
+
+.ai-video-play {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 76px;
+    height: 76px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.58);
+    border: 2px solid rgba(255, 255, 255, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    transition: transform 0.2s ease;
+}
+
+.ai-video-play::before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 14px solid transparent;
+    border-bottom: 14px solid transparent;
+    border-left: 21px solid white;
+    margin-left: 6px;
+}
+
+.ai-video-preview:hover .ai-video-play {
+    transform: translate(-50%, -50%) scale(1.08);
+}
+
+.ai-video-preview:focus-visible {
+    outline: 3px solid var(--theme-blue);
+    outline-offset: 4px;
+}
+
+/* Authors and Contribution */
+
+.ai-talk-details {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.ai-talk-detail,
+.ai-talk-authors,
+.ai-talk-contribution {
+    width: 100%;
+}
+
+.ai-talk-authors {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.2rem;
+    padding-bottom: 0.85rem;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.ai-talk-detail h4 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--theme-blue-dark);
+    margin: 0 0 0.6rem;
+}
+
+.ai-talk-authors h4 {
+    margin: 0;
+    flex-shrink: 0;
+}
+
+.ai-talk-detail p {
+    margin: 0;
+    line-height: 1.8;
+    word-break: normal;
+    overflow-wrap: break-word;
+}
+
+.ai-talk-authors p {
+    display: inline;
+    line-height: 1.8;
+}
+
+.ai-talk-detail a {
+    color: var(--theme-blue);
+    text-decoration: none;
+}
+
+.ai-talk-detail a:hover {
+    text-decoration: underline;
+}
+
+.ai-talk-contribution {
+    padding-top: 0.15rem;
+}
+
+.ai-talk-contribution h4 {
+    margin-bottom: 0.5rem;
+}
+
+.ai-talk-contribution p {
+    width: 100%;
+    line-height: 1.8;
+}
+
+/* Mobile layout */
+
+@media (max-width: 768px) {
+    .ai-talk-heading {
+        font-size: 1.2rem;
+    }
+
+    .ai-video-play {
+        width: 56px;
+        height: 56px;
+    }
+
+    .ai-video-play::before {
+        border-top-width: 10px;
+        border-bottom-width: 10px;
+        border-left-width: 15px;
+    }
+
+    .ai-talk-authors {
+        gap: 0.4rem 0.7rem;
+    }
+}
