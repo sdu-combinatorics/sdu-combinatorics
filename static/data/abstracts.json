@@ -1,5 +1,4 @@
-{
-    
+{  
 "ai-001": {
     "type": "paper",
     "title": "An asymptotic bound for the Bermond--Thomassen Conjecture",
@@ -26,7 +25,6 @@
         }
     ]
 },
-
     "2619": {
     "name": "József Balogh (Academy of Hungarian Science)",
     "title": "Maximal independent sets in the middle two layers of the Boolean lattice",
