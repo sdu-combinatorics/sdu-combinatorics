@@ -8,11 +8,6 @@ AI assistance: GPT (OpenAI) for animation code, visualization and video producti
 
 ### Paper Presentations
 
-
----
-
-### Paper Presentations
-
 <div class="seminar-item ai-paper-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">November 6</strong>
