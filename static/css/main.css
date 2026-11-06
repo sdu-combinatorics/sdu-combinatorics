@@ -576,7 +576,7 @@ section .main-body {
     flex-direction: column;
     gap: 1rem;
     width: 100%;
-    max-width: 850px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
