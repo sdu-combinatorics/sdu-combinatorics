@@ -37,6 +37,10 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
 ### <a id="1"></a>Upcoming Online Talks
 
+No upcoming online talks are scheduled at the moment.
+
+### Previous Online Talks
+
 <div class="seminar-item">
   <div class="seminar-date">
     <strong style="font-size: 17px;">November 6</strong>
@@ -45,15 +49,12 @@ All time in this webpage refers to Beijing Time (GMT+8).
 
   <div class="seminar-content">
     <strong>Title:</strong>
-    <a href="abstract.html?id=2619" target="_blank">Maximal independent sets in the middle two layers of the Boolean lattice</a><br />
-    <strong>Speaker:</strong>
-    <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
+      <a href="abstract.html?id=2619" target="_blank">Maximal independent sets in the middle two layers of the Boolean lattice</a><br />
+        <strong>Video:</strong> <a href="video.html?id=talk-022" target="_blank" rel="noopener">video</a> <br/>
+       <strong>Speaker:</strong>
+   <a href="https://sites.google.com/view/jozsefbaloghmath/home" target="_blank" rel="noopener">József Balogh</a><br />
   </div>
 </div>
-
-
-
-### Previous Online Talks
 
 <div class="seminar-item">
   <div class="seminar-date">
