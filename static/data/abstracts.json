@@ -1,4 +1,33 @@
 {
+    
+"ai-001": {
+    "type": "paper",
+    "title": "An asymptotic bound for the Bermond--Thomassen Conjecture",
+    "arxiv": "https://arxiv.org/abs/2610.11517",
+    "abstract": "<p>The Bermond--Thomassen Conjecture asserts that every digraph with minimum out-degree at least $2k-1$ contains $k$ disjoint directed cycles; it remains open in general. We asymptotically resolve it: there exist an absolute constant $K$ and a function $g(k)=o(k)$, independent of $n$, such that every $n$-vertex finite simple loopless digraph with minimum out-degree at least $2k+g(k)$ contains $k$ disjoint directed cycles for all integers $k\\ge K$ and $n\\ge1$. In fact, we obtain the explicit error term $g(k)=O(k^{3/4}\\sqrt{\\log k})$.</p>",
+    "authors": [
+        {
+            "name": "Jørgen Bang-Jensen",
+            "url": "https://www.imada.sdu.dk/u/jbj/",
+            "affiliation": "School of Mathematics, Shandong University, Jinan 250100, China; Department of Mathematics and Computer Science, University of Southern Denmark, Odense DK-5230, Denmark.",
+            "email": "jbj@imada.sdu.dk"
+        },
+        {
+            "name": "Guanghui Wang",
+            "url": "https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index.htm",
+            "affiliation": "School of Mathematics, Shandong University, Jinan 250100, China.",
+            "email": "ghwang@sdu.edu.cn"
+        },
+        {
+            "name": "Yun Wang",
+            "url": "https://yunwang-sdu.github.io/yunwang.github.io/",
+            "affiliation": "Data Science Institute, Shandong University, Jinan 250100, China.",
+            "email": "yunwang@sdu.edu.cn"
+        }
+    ]
+}
+
+    
     "2619": {
     "name": "József Balogh (Academy of Hungarian Science)",
     "title": "Maximal independent sets in the middle two layers of the Boolean lattice",
