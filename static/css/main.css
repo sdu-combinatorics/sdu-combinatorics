@@ -484,15 +484,10 @@ section .main-body {
 
 
 
-.ai-talk-heading a,
-.ai-talk-heading a:link,
-.ai-talk-heading a:visited,
-.ai-talk-heading a:hover,
-.ai-talk-heading a:active {
-    color: #0000ee !important;
+.ai-talk-heading a {
     font-size: 0.95em;
     font-weight: 500;
-    text-decoration: underline !important;
+    text-decoration: underline;
     text-underline-offset: 3px;
 }
 
