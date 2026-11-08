@@ -482,24 +482,11 @@ section .main-body {
     color: #222222;
 }
 
-
-
 .ai-talk-heading a {
     font-size: 0.95em;
     font-weight: 500;
     text-decoration: underline;
     text-underline-offset: 3px;
-}
-
-
-.ai-talk-heading a:hover {
-    color: var(--theme-blue-dark) !important;
-    text-decoration: underline !important;
-}
-
-
-.ai-talk-heading a:hover {
-    text-decoration: underline;
 }
 
 /* Video preview */
